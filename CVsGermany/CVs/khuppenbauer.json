@@ -1,0 +1,555 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 11
+    },
+    "contributedRepositories": {
+        "totalCount": 8,
+        "pageInfo": {
+            "endCursor": "OA==",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2017-01-26T00:57:41Z",
+                    "createdAt": "2015-08-18T09:48:35Z",
+                    "description": "The unified repository containing the Neos core packages, used for Neos development.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "https://www.neos.io/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3567620,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 1844917,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 6854580,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 1656087,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 1840,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 8951,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 206170,
+                                "node": {
+                                    "color": "#5B2063",
+                                    "name": "Gherkin",
+                                    "id": "MDg6TGFuZ3VhZ2U2MzU="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 116
+                    },
+                    "forks": {
+                        "totalCount": 93
+                    },
+                    "name": "neos-development-collection",
+                    "id": "MDEwOlJlcG9zaXRvcnk0MDk2NDAxNA==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 23
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-10-28T20:35:34Z",
+                    "createdAt": "2016-03-26T11:59:42Z",
+                    "description": "This Bundle contains various stuff to work with the TYPO3.Form Package in NeosCMS",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 18396,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "MapSeven.Neos.FormBundle",
+                    "id": "MDEwOlJlcG9zaXRvcnk1NDc3NzA0MA==",
+                    "contribution": {
+                        "adds": 834,
+                        "total_commits": 6,
+                        "num_of_weeks": 4,
+                        "dels": 9
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-05-03T19:31:56Z",
+                    "createdAt": "2015-02-25T20:47:21Z",
+                    "description": "Simple Calendar plugin for NeosCMS with fullcalendar as frontend and Google Calendar as backend",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 9538,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 4528,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 104998,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 24267,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "MapSeven.Calendar",
+                    "id": "MDEwOlJlcG9zaXRvcnkzMTMzNTAzMA==",
+                    "contribution": {
+                        "adds": 5219,
+                        "total_commits": 14,
+                        "num_of_weeks": 8,
+                        "dels": 254
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 3
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-04-19T20:36:14Z",
+                    "createdAt": "2014-03-04T21:09:10Z",
+                    "description": "Simple Piwik Integration into NeosCMS",
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                        "name": "HTML"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 5179,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 11105,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "MapSeven.Piwik",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzQxNzA1Ng==",
+                    "contribution": {
+                        "adds": 762,
+                        "total_commits": 7,
+                        "num_of_weeks": 5,
+                        "dels": 205
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-25T08:42:23Z",
+                    "createdAt": "2015-08-18T09:48:13Z",
+                    "description": "The unified repository containing the Flow core packages, used for Flow development.",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": "https://flow.neos.io/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 7537023,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 775,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            },
+                            {
+                                "size": 3950,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 1158,
+                                "node": {
+                                    "color": null,
+                                    "name": "PLpgSQL",
+                                    "id": "MDg6TGFuZ3VhZ2U0NTA="
+                                }
+                            },
+                            {
+                                "size": 38295,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 4358,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 1976,
+                                "node": {
+                                    "color": null,
+                                    "name": "ApacheConf",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTg="
+                                }
+                            },
+                            {
+                                "size": 10531,
+                                "node": {
+                                    "color": "#5B2063",
+                                    "name": "Gherkin",
+                                    "id": "MDg6TGFuZ3VhZ2U2MzU="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 40
+                    },
+                    "forks": {
+                        "totalCount": 86
+                    },
+                    "name": "flow-development-collection",
+                    "id": "MDEwOlJlcG9zaXRvcnk0MDk2Mzk5MQ==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 18
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-04-10T19:53:33Z",
+                    "createdAt": "2016-03-31T16:31:10Z",
+                    "description": "Examples for the NeosCMS Form Bundle",
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                        "name": "HTML"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3165,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "MapSeven.Neos.FormBundleDemo",
+                    "id": "MDEwOlJlcG9zaXRvcnk1NTE2NjAyMQ==",
+                    "contribution": {
+                        "adds": 468,
+                        "total_commits": 3,
+                        "num_of_weeks": 2,
+                        "dels": 3
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-27T14:11:17Z",
+                    "createdAt": "2014-10-04T17:53:47Z",
+                    "description": "TYPO3 Neos Plugin for Frontend User Handling",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 44084,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 1892,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "Flowpack.Neos.FrontendUserManager",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNDc5Njg2NQ==",
+                    "contribution": {
+                        "adds": 1661,
+                        "total_commits": 11,
+                        "num_of_weeks": 7,
+                        "dels": 91
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-27T14:09:36Z",
+                    "createdAt": "2015-02-09T23:24:16Z",
+                    "description": "Gallery NodeTypes for TYPO3 Neos",
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                        "name": "HTML"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 5237,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 10302,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 1435,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 4800,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "MapSeven.Gallery",
+                    "id": "MDEwOlJlcG9zaXRvcnkzMDU2NDQwNA==",
+                    "contribution": {
+                        "adds": 1781,
+                        "total_commits": 25,
+                        "num_of_weeks": 10,
+                        "dels": 532
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Schw\u00e4bisch Gm\u00fcnd, near Stuttgart, Germany",
+    "following": {
+        "totalCount": 2
+    },
+    "avatarURL": "https://avatars1.githubusercontent.com/u/1547957?v=3",
+    "company": "setu GmbH",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Kerstin Huppenbauer",
+    "watching": {
+        "totalCount": 23
+    },
+    "organizations": {
+        "totalCount": 1,
+        "nodes": [
+            {
+                "url": "https://github.com/setusoft",
+                "name": "setu GmbH",
+                "login": "setusoft",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/11633185?v=3"
+            }
+        ]
+    },
+    "pullRequests": {
+        "totalCount": 3
+    },
+    "starredRepositories": {
+        "totalCount": 4
+    },
+    "followers": {
+        "totalCount": 10
+    },
+    "login": "khuppenbauer",
+    "websiteURL": "",
+    "id": "MDQ6VXNlcjE1NDc5NTc=",
+    "email": ""
+}

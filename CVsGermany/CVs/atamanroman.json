@@ -1,0 +1,679 @@
+{
+    "email": "roman.ataman@adorsys.de",
+    "watching": {
+        "totalCount": 55
+    },
+    "gists": {
+        "totalCount": 4
+    },
+    "name": "Roman Ataman",
+    "pullRequests": {
+        "totalCount": 3
+    },
+    "starredRepositories": {
+        "totalCount": 35
+    },
+    "login": "atamanroman",
+    "organizations": {
+        "totalCount": 1,
+        "nodes": [
+            {
+                "login": "adorsys",
+                "url": "https://github.com/adorsys",
+                "name": "adorsys GmbH & Co. KG",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/1760904?v=3"
+            }
+        ]
+    },
+    "followers": {
+        "totalCount": 9
+    },
+    "company": "adorsys GmbH & Co. KG",
+    "id": "MDQ6VXNlcjE5MTg2NA==",
+    "contributedRepositories": {
+        "totalCount": 15,
+        "edges": [
+            {
+                "node": {
+                    "name": "dotfiles",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2U1Njk=",
+                        "name": "Vim script",
+                        "color": "#199f4b"
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0ODUxNTA5Mg==",
+                    "contribution": {
+                        "num_of_weeks": 19,
+                        "adds": 49152,
+                        "total_commits": 78,
+                        "dels": 11086
+                    },
+                    "isFork": false,
+                    "createdAt": "2015-12-23T23:17:28Z",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1962,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell",
+                                    "color": "#89e051"
+                                }
+                            },
+                            {
+                                "size": 24151,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2U1Njk=",
+                                    "name": "Vim script",
+                                    "color": "#199f4b"
+                                }
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "description": "Some pretty basic configuration",
+                    "updatedAt": "2017-01-29T19:43:50Z",
+                    "homepageURL": "",
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "golang-chi-rest-db-oauth-sample",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxOTA=",
+                        "name": "Go",
+                        "color": "#375eab"
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk4MDM2OTI2NQ==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "createdAt": "2017-01-29T20:08:30Z",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 12244,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxOTA=",
+                                    "name": "Go",
+                                    "color": "#375eab"
+                                }
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "description": "REST sample with all the stuff we use",
+                    "updatedAt": "2017-01-29T20:21:48Z",
+                    "homepageURL": null,
+                    "watchers": {
+                        "totalCount": 3
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "oauth",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java",
+                        "color": "#b07219"
+                    },
+                    "stargazers": {
+                        "totalCount": 6
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0MDgyOTU0Mg==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "createdAt": "2015-08-16T17:13:09Z",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 313190,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java",
+                                    "color": "#b07219"
+                                }
+                            },
+                            {
+                                "size": 8624,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML",
+                                    "color": "#e44b23"
+                                }
+                            },
+                            {
+                                "size": 16285,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript",
+                                    "color": "#f1e05a"
+                                }
+                            },
+                            {
+                                "size": 16778,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS",
+                                    "color": "#563d7c"
+                                }
+                            },
+                            {
+                                "size": 288,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell",
+                                    "color": "#89e051"
+                                }
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "description": "oauth components for ee-server (currently only JBoss)",
+                    "updatedAt": "2016-11-26T21:29:13Z",
+                    "homepageURL": null,
+                    "watchers": {
+                        "totalCount": 13
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "dockerhub-openjdk-build-base",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                        "name": "Makefile",
+                        "color": "#427819"
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3NDM1NjMxNg==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "createdAt": "2016-11-21T11:20:35Z",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3382,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile",
+                                    "color": "#427819"
+                                }
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "description": null,
+                    "updatedAt": "2016-11-21T11:55:56Z",
+                    "homepageURL": null,
+                    "watchers": {
+                        "totalCount": 6
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "usenet-deobfuscate",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UyNzI=",
+                        "name": "Kotlin",
+                        "color": "#F18E33"
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NjgyNTkxNw==",
+                    "contribution": {
+                        "num_of_weeks": 2,
+                        "adds": 615,
+                        "total_commits": 8,
+                        "dels": 244
+                    },
+                    "isFork": false,
+                    "createdAt": "2016-08-29T08:31:55Z",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 7757,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UyNzI=",
+                                    "name": "Kotlin",
+                                    "color": "#F18E33"
+                                }
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "description": "Deobfuscate usenet downloads",
+                    "updatedAt": "2016-08-29T09:10:20Z",
+                    "homepageURL": null,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "todoservice-docker-tomcat8",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java",
+                        "color": "#b07219"
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0OTgzMzE2Mw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "createdAt": "2016-01-17T19:59:51Z",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 8903,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java",
+                                    "color": "#b07219"
+                                }
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "description": null,
+                    "updatedAt": "2016-01-21T10:20:37Z",
+                    "homepageURL": null,
+                    "watchers": {
+                        "totalCount": 7
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "dockerhub-openjdk-jre-base",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                        "name": "Makefile",
+                        "color": "#427819"
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3NDM2MTc4Nw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "createdAt": "2016-11-21T12:32:57Z",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3385,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile",
+                                    "color": "#427819"
+                                }
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "description": null,
+                    "updatedAt": "2016-11-21T12:34:03Z",
+                    "homepageURL": null,
+                    "watchers": {
+                        "totalCount": 6
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "notes",
+                    "primaryLanguage": null,
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NTE0NjY1NA==",
+                    "contribution": {
+                        "num_of_weeks": 3,
+                        "adds": 4519,
+                        "total_commits": 7,
+                        "dels": 4413
+                    },
+                    "isFork": false,
+                    "createdAt": "2016-03-31T11:53:50Z",
+                    "languages": {
+                        "edges": []
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "description": "Developers Notes",
+                    "updatedAt": "2016-04-18T13:31:31Z",
+                    "homepageURL": null,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "spring_cloud_sample",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java",
+                        "color": "#b07219"
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3OTk1MTUxMQ==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "createdAt": "2017-01-24T20:33:04Z",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 15917,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java",
+                                    "color": "#b07219"
+                                }
+                            },
+                            {
+                                "size": 749,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile",
+                                    "color": "#427819"
+                                }
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "description": null,
+                    "updatedAt": "2017-01-24T20:36:04Z",
+                    "homepageURL": null,
+                    "watchers": {
+                        "totalCount": 6
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "dockerhub-alpine-base",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                        "name": "Makefile",
+                        "color": "#427819"
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3NDQ5NDQyNw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "createdAt": "2016-11-22T16:58:02Z",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3364,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile",
+                                    "color": "#427819"
+                                }
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "description": "Sane alpine base image",
+                    "updatedAt": "2016-11-22T16:59:19Z",
+                    "homepageURL": null,
+                    "watchers": {
+                        "totalCount": 6
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "spring_cloud_config_sample",
+                    "primaryLanguage": null,
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3ODQ1NTA4NA==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "createdAt": "2017-01-09T18:09:12Z",
+                    "languages": {
+                        "edges": []
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "description": "Sample config for a Spring Cloud setup",
+                    "updatedAt": "2017-01-09T18:09:12Z",
+                    "homepageURL": null,
+                    "watchers": {
+                        "totalCount": 6
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "dockerhub-minideb-base",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                        "name": "Makefile",
+                        "color": "#427819"
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3OTg1MTMyNA==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "createdAt": "2017-01-23T21:43:43Z",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 5060,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile",
+                                    "color": "#427819"
+                                }
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "description": null,
+                    "updatedAt": "2017-01-23T21:44:35Z",
+                    "homepageURL": null,
+                    "watchers": {
+                        "totalCount": 6
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "smartbanking-tenant",
+                    "primaryLanguage": null,
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3NjkwMTE1Mw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "createdAt": "2016-12-19T22:07:44Z",
+                    "languages": {
+                        "edges": []
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "description": null,
+                    "updatedAt": "2016-12-19T22:07:44Z",
+                    "homepageURL": null,
+                    "watchers": {
+                        "totalCount": 5
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "sqrl-api",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java",
+                        "color": "#b07219"
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3NTgyMjcyNw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "createdAt": "2016-12-07T09:55:14Z",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 83316,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java",
+                                    "color": "#b07219"
+                                }
+                            },
+                            {
+                                "size": 23019,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript",
+                                    "color": "#f1e05a"
+                                }
+                            },
+                            {
+                                "size": 3314,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML",
+                                    "color": "#e44b23"
+                                }
+                            },
+                            {
+                                "size": 343,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS",
+                                    "color": "#563d7c"
+                                }
+                            },
+                            {
+                                "size": 14379,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell",
+                                    "color": "#89e051"
+                                }
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "description": null,
+                    "updatedAt": "2016-12-16T15:29:14Z",
+                    "homepageURL": null,
+                    "watchers": {
+                        "totalCount": 7
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "secure-key-storage",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java",
+                        "color": "#b07219"
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3NTgzMjM0Mg==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "createdAt": "2016-12-07T12:05:42Z",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 2028,
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java",
+                                    "color": "#b07219"
+                                }
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "description": null,
+                    "updatedAt": "2017-01-26T16:23:40Z",
+                    "homepageURL": null,
+                    "watchers": {
+                        "totalCount": 9
+                    }
+                }
+            }
+        ],
+        "pageInfo": {
+            "endCursor": "MTU=",
+            "hasNextPage": false
+        }
+    },
+    "following": {
+        "totalCount": 12
+    },
+    "avatarURL": "https://avatars1.githubusercontent.com/u/191864?v=3",
+    "websiteURL": "adorsys.de",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "bio": null,
+    "location": "Nuremberg, Germany"
+}

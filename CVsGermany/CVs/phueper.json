@@ -1,0 +1,634 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 1
+    },
+    "contributedRepositories": {
+        "totalCount": 12,
+        "pageInfo": {
+            "endCursor": "MTI=",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2017-01-31T23:56:03Z",
+                    "createdAt": "2015-10-16T18:09:57Z",
+                    "description": ":clock2: Immutable date and time library for javascript",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "http://js-joda.github.io/js-joda/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 2167760,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 749,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 12090,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 375
+                    },
+                    "forks": {
+                        "totalCount": 15
+                    },
+                    "name": "js-joda",
+                    "id": "MDEwOlJlcG9zaXRvcnk0NDQwMjY0OA==",
+                    "contribution": {
+                        "adds": 23220,
+                        "total_commits": 295,
+                        "num_of_weeks": 28,
+                        "dels": 6479
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 15
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-01-11T09:06:12Z",
+                    "createdAt": "2014-11-13T20:39:05Z",
+                    "description": "Meine IntelliJ Einstellungen",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 111,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "my_intellij_settings",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNjYwNjkzMw==",
+                    "contribution": {
+                        "adds": 17876,
+                        "total_commits": 645,
+                        "num_of_weeks": 99,
+                        "dels": 15096
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-10T15:11:44Z",
+                    "createdAt": "2016-11-07T10:41:40Z",
+                    "description": "additional date-time classes that complement those in js-joda based on (https://github.com/ThreeTen/threeten-extra)",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 68563,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "js-joda-extra",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MzA2ODQ0OA==",
+                    "contribution": {
+                        "adds": 14270,
+                        "total_commits": 37,
+                        "num_of_weeks": 5,
+                        "dels": 11747
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-10-23T14:54:25Z",
+                    "createdAt": "2016-04-19T10:44:45Z",
+                    "description": "Our hubot scripts",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 158,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 74,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            },
+                            {
+                                "size": 2324,
+                                "node": {
+                                    "color": "#244776",
+                                    "name": "CoffeeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU="
+                                }
+                            },
+                            {
+                                "size": 21638,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "hubot",
+                    "id": "MDEwOlJlcG9zaXRvcnk1NjU4ODU1OA==",
+                    "contribution": {
+                        "adds": 88,
+                        "total_commits": 7,
+                        "num_of_weeks": 2,
+                        "dels": 15
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 11
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-25T08:47:50Z",
+                    "createdAt": "2017-01-25T08:34:17Z",
+                    "description": "Just some stupid tests with lodash / checking performance",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3452,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "lodash_playground",
+                    "id": "MDEwOlJlcG9zaXRvcnk3OTk5NjQ0Mg==",
+                    "contribution": {
+                        "adds": 185,
+                        "total_commits": 6,
+                        "num_of_weeks": 2,
+                        "dels": 9
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-08-16T07:19:08Z",
+                    "createdAt": "2016-08-16T07:18:19Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                        "name": "HTML"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 240,
+                                "node": {
+                                    "color": null,
+                                    "name": "ApacheConf",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTg="
+                                }
+                            },
+                            {
+                                "size": 1755425,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 8276744,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 735,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 15055,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 56182,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "ci_chat_test",
+                    "id": "MDEwOlJlcG9zaXRvcnk2NTc5Njg1OA==",
+                    "contribution": {
+                        "adds": 194538,
+                        "total_commits": 7,
+                        "num_of_weeks": 1,
+                        "dels": 9
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-10T15:12:01Z",
+                    "createdAt": "2016-11-09T11:59:17Z",
+                    "description": "plugin for locale functionality of js-joda",
+                    "primaryLanguage": null,
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": []
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "js-joda-locale",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MzI4MDI4Mw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-08T21:23:29Z",
+                    "createdAt": "2016-11-07T08:00:45Z",
+                    "description": "docker setup to `npm publish` modules from a clean checkout environment",
+                    "primaryLanguage": {
+                        "color": "#89e051",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1578,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "docker-npm-publish",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MzA1NTA3Mw==",
+                    "contribution": {
+                        "adds": 137,
+                        "total_commits": 2,
+                        "num_of_weeks": 1,
+                        "dels": 18
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T04:08:52Z",
+                    "createdAt": "2011-04-07T22:16:49Z",
+                    "description": "A SOAP client and server for node.js.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 231470,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 1031,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1473
+                    },
+                    "forks": {
+                        "totalCount": 821
+                    },
+                    "name": "node-soap",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTg0NzA3",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 94
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-17T14:43:54Z",
+                    "createdAt": "2016-05-29T22:26:49Z",
+                    "description": "Beautiful Javascript code at Actano",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 364,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "name": "javascript",
+                    "id": "MDEwOlJlcG9zaXRvcnk1OTk2NjUzNA==",
+                    "contribution": {
+                        "adds": 5,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 6
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-07T15:10:23Z",
+                    "createdAt": "2016-11-07T15:10:21Z",
+                    "description": "additional date-time classes that complement those in js-joda based on (https://github.com/ThreeTen/threeten-extra)",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 69340,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "js-joda-extra",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MzA5MDQ1Ng==",
+                    "contribution": {
+                        "adds": 14270,
+                        "total_commits": 37,
+                        "num_of_weeks": 5,
+                        "dels": 11747
+                    },
+                    "isFork": true,
+                    "watchers": {
+                        "totalCount": 4
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-08-24T07:38:20Z",
+                    "createdAt": "2012-12-28T11:55:07Z",
+                    "description": "getComputedStyle() with fallback",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 381,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 15
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "name": "computed-style",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MzUzODA0",
+                    "contribution": {
+                        "adds": 1,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 1
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Tuebingen, Germany",
+    "following": {
+        "totalCount": 1
+    },
+    "avatarURL": "https://avatars0.githubusercontent.com/u/113417?v=3",
+    "company": "proQrent GmbH",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Pattrick Hueper",
+    "watching": {
+        "totalCount": 94
+    },
+    "organizations": {
+        "totalCount": 1,
+        "nodes": [
+            {
+                "url": "https://github.com/js-joda",
+                "name": "js-joda",
+                "login": "js-joda",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/18141294?v=3"
+            }
+        ]
+    },
+    "pullRequests": {
+        "totalCount": 64
+    },
+    "starredRepositories": {
+        "totalCount": 11
+    },
+    "followers": {
+        "totalCount": 7
+    },
+    "login": "phueper",
+    "websiteURL": "",
+    "id": "MDQ6VXNlcjExMzQxNw==",
+    "email": "phueper@hueper.net"
+}

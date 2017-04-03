@@ -1,0 +1,773 @@
+{
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "bio": null,
+    "company": "",
+    "login": "bjoernalbers",
+    "starredRepositories": {
+        "totalCount": 42
+    },
+    "pullRequests": {
+        "totalCount": 46
+    },
+    "following": {
+        "totalCount": 5
+    },
+    "id": "MDQ6VXNlcjExNzgxOQ==",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "avatarURL": "https://avatars3.githubusercontent.com/u/117819?v=3",
+    "location": "Soest, Germany",
+    "email": "",
+    "contributedRepositories": {
+        "totalCount": 13,
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "MTM="
+        },
+        "edges": [
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "id": "MDEwOlJlcG9zaXRvcnkyODkwNzkwMQ==",
+                    "updatedAt": "2016-10-24T09:52:59Z",
+                    "description": "A Fax Machine with HTTP API",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 301176
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 686
+                            },
+                            {
+                                "node": {
+                                    "color": "#244776",
+                                    "name": "CoffeeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU="
+                                },
+                                "size": 211
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 957
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 35759
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2015-01-07T09:30:23Z",
+                    "name": "faxomat",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 69,
+                        "adds": 28249,
+                        "total_commits": 384,
+                        "dels": 15663
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/bjoernalbers/gollum/",
+                    "id": "MDEwOlJlcG9zaXRvcnk3OTM4MTA1Nw==",
+                    "updatedAt": "2017-01-20T10:34:45Z",
+                    "description": "Ansible Role to install Gollum Wiki on macOS / Mac OS X",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                },
+                                "size": 3866
+                            },
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 148
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2017-01-18T20:27:31Z",
+                    "name": "ansible-role-gollum",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 3,
+                        "adds": 833,
+                        "total_commits": 27,
+                        "dels": 370
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnkyOTY3MzUwNQ==",
+                    "updatedAt": "2017-01-24T21:38:39Z",
+                    "description": "Modality Worklist (MWL SCP) with friendly HTTP-API",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 149994
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 699
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 1909
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 20049
+                            },
+                            {
+                                "node": {
+                                    "color": "#244776",
+                                    "name": "CoffeeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU="
+                                },
+                                "size": 211
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "createdAt": "2015-01-22T10:36:00Z",
+                    "name": "mowoli",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 21,
+                        "adds": 10092,
+                        "total_commits": 81,
+                        "dels": 3680
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/bjoernalbers/ssl/",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MDk1MDU1Mg==",
+                    "updatedAt": "2016-10-18T12:02:47Z",
+                    "description": "Ansible Role to generate SSL certificates on Mac OS X",
+                    "languages": {
+                        "edges": []
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2016-10-14T22:07:35Z",
+                    "name": "ansible-role-ssl",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "primaryLanguage": null,
+                    "contribution": {
+                        "num_of_weeks": 1,
+                        "adds": 408,
+                        "total_commits": 9,
+                        "dels": 23
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk3NzMxNjk4Mw==",
+                    "updatedAt": "2016-12-25T08:16:43Z",
+                    "description": "Ansible Role to install WildFly Application Server on Ubuntu",
+                    "languages": {
+                        "edges": []
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2016-12-25T08:16:43Z",
+                    "name": "ansible-role-wildfly",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "primaryLanguage": null,
+                    "contribution": {
+                        "num_of_weeks": 2,
+                        "adds": 537,
+                        "total_commits": 6,
+                        "dels": 242
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 21209
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://ansible.com/",
+                    "id": "MDEwOlJlcG9zaXRvcnkzNjM4OTY0",
+                    "updatedAt": "2017-02-05T06:05:10Z",
+                    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications\u2014 automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                },
+                                "size": 15044391
+                            },
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                },
+                                "size": 25003
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 316
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 54
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "name": "PowerShell",
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ="
+                                },
+                                "size": 320771
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 49617
+                            },
+                            {
+                                "node": {
+                                    "color": "#e4cc98",
+                                    "name": "Tcl",
+                                    "id": "MDg6TGFuZ3VhZ2UxODQ="
+                                },
+                                "size": 2466
+                            },
+                            {
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                },
+                                "size": 109
+                            },
+                            {
+                                "node": {
+                                    "color": "#375eab",
+                                    "name": "Go",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTA="
+                                },
+                                "size": 2010
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 6608
+                    },
+                    "createdAt": "2012-03-06T14:58:02Z",
+                    "name": "ansible",
+                    "watchers": {
+                        "totalCount": 1576
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "contribution": 0
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "id": "MDEwOlJlcG9zaXRvcnk0ODExNzc1OQ==",
+                    "updatedAt": "2017-01-21T01:34:45Z",
+                    "description": "Baue aus der MaSc eine Mac OS X App",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 4019
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 140
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2015-12-16T15:15:31Z",
+                    "name": "MaScApp",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 5,
+                        "adds": 480,
+                        "total_commits": 8,
+                        "dels": 149
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 7887
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "id": "MDEwOlJlcG9zaXRvcnk1ODUyODU=",
+                    "updatedAt": "2017-02-05T06:11:32Z",
+                    "description": "A simple, Git-powered wiki with a sweet API and local frontend.",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 181823
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 154614
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 10999003
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 23861
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 15629
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 1189
+                    },
+                    "createdAt": "2010-03-29T18:30:53Z",
+                    "name": "gollum",
+                    "watchers": {
+                        "totalCount": 273
+                    },
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "name": "JavaScript",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/bjoernalbers/rubygems/",
+                    "id": "MDEwOlJlcG9zaXRvcnk3OTc0OTE5Ng==",
+                    "updatedAt": "2017-01-22T22:12:19Z",
+                    "description": "Install latest tools to manage Rubygems on macOS",
+                    "languages": {
+                        "edges": []
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2017-01-22T22:06:52Z",
+                    "name": "ansible-role-rubygems",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "primaryLanguage": null,
+                    "contribution": {
+                        "num_of_weeks": 1,
+                        "adds": 377,
+                        "total_commits": 2,
+                        "dels": 241
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk3NDY5Mjg3Mw==",
+                    "updatedAt": "2016-11-24T17:25:37Z",
+                    "description": "Ansible modules to manage DCM4CHEE Archive 5 Light",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                },
+                                "size": 7240
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2016-11-24T17:23:15Z",
+                    "name": "ansible-modules-dcm4chee",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 1,
+                        "adds": 261,
+                        "total_commits": 2,
+                        "dels": 0
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 24
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTI3Njc1MA==",
+                    "updatedAt": "2016-12-21T20:11:41Z",
+                    "description": "ansible role openldap server",
+                    "languages": {
+                        "edges": []
+                    },
+                    "forks": {
+                        "totalCount": 39
+                    },
+                    "createdAt": "2013-12-18T07:35:21Z",
+                    "name": "openldap_server",
+                    "watchers": {
+                        "totalCount": 9
+                    },
+                    "primaryLanguage": null,
+                    "contribution": {
+                        "num_of_weeks": 1,
+                        "adds": 3,
+                        "total_commits": 1,
+                        "dels": 3
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 820
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNDQ3NDEzOA==",
+                    "updatedAt": "2017-02-04T06:11:24Z",
+                    "description": "Ansible extra modules - these modules ship with ansible",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                },
+                                "size": 5336188
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "name": "PowerShell",
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ="
+                                },
+                                "size": 188590
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 4663
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 1620
+                    },
+                    "createdAt": "2014-09-25T20:28:42Z",
+                    "name": "ansible-modules-extras",
+                    "watchers": {
+                        "totalCount": 138
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "contribution": 0
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 37
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnkzOTAxMzA2Nw==",
+                    "updatedAt": "2017-01-17T15:07:40Z",
+                    "description": "DICOM Archive J2EE application",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                },
+                                "size": 2369842
+                            },
+                            {
+                                "node": {
+                                    "color": "#EB8CEB",
+                                    "name": "XSLT",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDI="
+                                },
+                                "size": 93724
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 246156
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "name": "Awk",
+                                    "id": "MDg6TGFuZ3VhZ2UyODQ="
+                                },
+                                "size": 1478
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 292974
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 782082
+                            },
+                            {
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                },
+                                "size": 185964
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 23
+                    },
+                    "createdAt": "2015-07-13T13:17:34Z",
+                    "name": "dcm4chee-arc-light",
+                    "watchers": {
+                        "totalCount": 16
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "contribution": -1
+                }
+            }
+        ]
+    },
+    "websiteURL": "http://bjoernalbers.de",
+    "watching": {
+        "totalCount": 52
+    },
+    "name": "Bj\u00f6rn Albers",
+    "gists": {
+        "totalCount": 2
+    },
+    "followers": {
+        "totalCount": 8
+    }
+}

@@ -1,0 +1,452 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 2
+    },
+    "contributedRepositories": {
+        "totalCount": 7,
+        "pageInfo": {
+            "endCursor": "Nw==",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2016-11-23T22:39:30Z",
+                    "createdAt": "2015-10-24T21:13:56Z",
+                    "description": "A web app for checking the latest NHL scores from nhl-score-api.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 45724,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 3965,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 815,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "nhl-recap",
+                    "id": "MDEwOlJlcG9zaXRvcnk0NDg4NTE0OQ==",
+                    "contribution": {
+                        "adds": 3974,
+                        "total_commits": 161,
+                        "num_of_weeks": 24,
+                        "dels": 1437
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-08-29T07:21:16Z",
+                    "createdAt": "2016-08-28T20:11:46Z",
+                    "description": "A React + Redux exercise, a web app that lists a user\u2019s GitHub repositories.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 633,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 1902,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 15845,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 267,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "github-repo-lister",
+                    "id": "MDEwOlJlcG9zaXRvcnk2Njc4ODUyMA==",
+                    "contribution": {
+                        "adds": 2671,
+                        "total_commits": 49,
+                        "num_of_weeks": 2,
+                        "dels": 856
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-31T12:06:46Z",
+                    "createdAt": "2015-10-14T16:21:36Z",
+                    "description": "A JSON API that returns the scores and goals from the latest finished NHL games.",
+                    "primaryLanguage": {
+                        "color": "#db5855",
+                        "id": "MDg6TGFuZ3VhZ2UxODA=",
+                        "name": "Clojure"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 155,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 24388,
+                                "node": {
+                                    "color": "#db5855",
+                                    "name": "Clojure",
+                                    "id": "MDg6TGFuZ3VhZ2UxODA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 4
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "nhl-score-api",
+                    "id": "MDEwOlJlcG9zaXRvcnk0NDI2MDcyOQ==",
+                    "contribution": {
+                        "adds": 26152,
+                        "total_commits": 78,
+                        "num_of_weeks": 19,
+                        "dels": 11665
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-07-01T13:42:31Z",
+                    "createdAt": "2016-07-01T13:42:15Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1496,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 9582,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 51105,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 5211,
+                                "node": {
+                                    "color": "#438eff",
+                                    "name": "Objective-C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                }
+                            },
+                            {
+                                "size": 99,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 1326,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "kahvi",
+                    "id": "MDEwOlJlcG9zaXRvcnk2MjM5NTY4MA==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 0
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-27T14:26:49Z",
+                    "createdAt": "2015-08-19T14:01:14Z",
+                    "description": "[API v3] Official Mailjet API v3 NodeJS wrapper",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "https://dev.mailjet.com",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 21546,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 21
+                    },
+                    "forks": {
+                        "totalCount": 6
+                    },
+                    "name": "mailjet-apiv3-nodejs",
+                    "id": "MDEwOlJlcG9zaXRvcnk0MTAzNzc4NQ==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 16
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-21T13:19:54Z",
+                    "createdAt": "2015-01-25T21:15:18Z",
+                    "description": "Keep track of your Yatzy game scores in the browser.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1901,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 12040,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 3422,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "YatzyScoreboard",
+                    "id": "MDEwOlJlcG9zaXRvcnkyOTgzMTQ5OQ==",
+                    "contribution": {
+                        "adds": 8288,
+                        "total_commits": 62,
+                        "num_of_weeks": 13,
+                        "dels": 7292
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-05T02:29:05Z",
+                    "createdAt": "2014-08-18T22:30:27Z",
+                    "description": "Promise based HTTP client for the browser and node.js",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 133280,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 6241,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 5893,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 12932
+                    },
+                    "forks": {
+                        "totalCount": 667
+                    },
+                    "name": "axios",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMzA4ODc0MA==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 280
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Berlin, Germany",
+    "following": {
+        "totalCount": 4
+    },
+    "avatarURL": "https://avatars3.githubusercontent.com/u/1781172?v=3",
+    "company": "",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Harri Lehtola",
+    "watching": {
+        "totalCount": 16
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 13
+    },
+    "starredRepositories": {
+        "totalCount": 50
+    },
+    "followers": {
+        "totalCount": 10
+    },
+    "login": "peruukki",
+    "websiteURL": "",
+    "id": "MDQ6VXNlcjE3ODExNzI=",
+    "email": ""
+}

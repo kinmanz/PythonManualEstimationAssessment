@@ -1,0 +1,388 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 22
+    },
+    "contributedRepositories": {
+        "totalCount": 6,
+        "pageInfo": {
+            "endCursor": "Ng==",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2016-06-01T06:48:14Z",
+                    "createdAt": "2015-06-12T11:56:16Z",
+                    "description": "My private website / blog",
+                    "primaryLanguage": {
+                        "color": "#563d7c",
+                        "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                        "name": "CSS"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 9462,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 480,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 125,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 23624,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "lukasklein",
+                    "id": "MDEwOlJlcG9zaXRvcnkzNzMxOTQ4MA==",
+                    "contribution": {
+                        "adds": 1262,
+                        "total_commits": 15,
+                        "num_of_weeks": 4,
+                        "dels": 349
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 0
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T03:29:58Z",
+                    "createdAt": "2012-01-10T23:05:23Z",
+                    "description": "A django widget that displays a normal text input with a remaining character count beside it",
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3163,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 310,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 1133,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 13
+                    },
+                    "forks": {
+                        "totalCount": 14
+                    },
+                    "name": "django-charsleft-widget",
+                    "id": "MDEwOlJlcG9zaXRvcnkzMTQ5NDQ3",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 3
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-05-19T10:45:11Z",
+                    "createdAt": "2015-11-09T09:50:00Z",
+                    "description": "Python-Tool to communicate with the AVM FritzBox. Uses the TR-064 protocol. Forked from https://bitbucket.org/kbr/fritzconnection",
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 45501,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "fritzconnection",
+                    "id": "MDEwOlJlcG9zaXRvcnk0NTgyOTIwMQ==",
+                    "contribution": {
+                        "adds": 14,
+                        "total_commits": 5,
+                        "num_of_weeks": 3,
+                        "dels": 11
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-03T22:00:07Z",
+                    "createdAt": "2016-11-03T21:59:34Z",
+                    "description": "An implementation of v2 of the newsletter2go API. Without transactional mails for now.",
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1898,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 6902,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 661,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "django-newsletter2go-v2",
+                    "id": "MDEwOlJlcG9zaXRvcnk3Mjc5MDY5Mw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-24T15:34:26Z",
+                    "createdAt": "2015-05-27T19:16:59Z",
+                    "description": "A simple mail backend for Django that uses Newsletter2Go transactional emails",
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1265,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 6060,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "django-newsletter2go",
+                    "id": "MDEwOlJlcG9zaXRvcnkzNjM4OTkwOA==",
+                    "contribution": {
+                        "adds": 1286,
+                        "total_commits": 4,
+                        "num_of_weeks": 3,
+                        "dels": 4
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T11:56:25Z",
+                    "createdAt": "2013-05-24T10:20:36Z",
+                    "description": "Country-specific Django helpers, formerly of contrib fame",
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python"
+                    },
+                    "homepageURL": "https://django-localflavor.readthedocs.io/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 864488,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 264
+                    },
+                    "forks": {
+                        "totalCount": 169
+                    },
+                    "name": "django-localflavor",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMDI2NDEzMA==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 30
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Munster, Germany",
+    "following": {
+        "totalCount": 61
+    },
+    "avatarURL": "https://avatars3.githubusercontent.com/u/1492869?v=3",
+    "company": "Product Gang GmbH",
+    "pinnedRepositories": {
+        "totalCount": 5,
+        "nodes": [
+            {
+                "name": "cookiecutter-django"
+            },
+            {
+                "name": "django"
+            },
+            {
+                "name": "django-formtools"
+            },
+            {
+                "name": "django-newsletter2go"
+            },
+            {
+                "name": "itunes-colors"
+            }
+        ]
+    },
+    "name": "Lukas Klein",
+    "watching": {
+        "totalCount": 50
+    },
+    "organizations": {
+        "totalCount": 3,
+        "nodes": [
+            {
+                "url": "https://github.com/unhosted",
+                "name": "unhosted web apps",
+                "login": "unhosted",
+                "avatarURL": "https://avatars2.githubusercontent.com/u/472210?v=3"
+            },
+            {
+                "url": "https://github.com/remotestorage",
+                "name": "remotestorage",
+                "login": "remotestorage",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/2323242?v=3"
+            },
+            {
+                "url": "https://github.com/productgang",
+                "name": "Product Gang GmbH",
+                "login": "productgang",
+                "avatarURL": "https://avatars3.githubusercontent.com/u/2974358?v=3"
+            }
+        ]
+    },
+    "pullRequests": {
+        "totalCount": 26
+    },
+    "starredRepositories": {
+        "totalCount": 73
+    },
+    "followers": {
+        "totalCount": 27
+    },
+    "login": "lukasklein",
+    "websiteURL": "http://lukasklein.com",
+    "id": "MDQ6VXNlcjE0OTI4Njk=",
+    "email": "lukas@lukasklein.com"
+}

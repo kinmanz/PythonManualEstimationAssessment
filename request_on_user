@@ -1,0 +1,89 @@
+{
+  user(login: "mbostock") {
+    pinnedRepositories(first: 100) {
+      totalCount
+      nodes {
+        name
+      }
+    }
+    id
+    avatarURL
+    name
+    login
+    location
+    followers {
+      totalCount
+    }
+    following{
+      totalCount
+    }
+    starredRepositories{
+      totalCount
+    }
+    watching{
+      totalCount
+    }
+    pullRequests{
+      totalCount
+    }
+    gists{
+      totalCount
+    }
+    company
+    email
+    websiteURL
+    bio
+    organizations(first: 100) {
+      totalCount
+      nodes {
+        name
+        login
+        url
+        avatarURL
+      }
+    }
+    contributedRepositories(first: 100) {
+      totalCount
+      pageInfo {
+        endCursor
+        hasNextPage
+      }
+      edges {
+        node {
+          id
+          name
+          watchers {
+            totalCount
+          }
+          forks {
+            totalCount
+          }
+          stargazers {
+            totalCount
+          }
+          isFork
+          description
+          homepageURL
+          createdAt
+          updatedAt
+          primaryLanguage{
+            color
+            id
+            name
+          }
+          languages(first:100){
+            edges{
+              size
+              node{
+                name
+                id
+                color
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+

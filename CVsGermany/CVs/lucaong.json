@@ -1,0 +1,556 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 13
+    },
+    "contributedRepositories": {
+        "totalCount": 9,
+        "pageInfo": {
+            "endCursor": "OQ==",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T12:40:26Z",
+                    "createdAt": "2016-01-28T17:24:57Z",
+                    "description": "Thread-safe, persistent, immutable collections for the Crystal language",
+                    "primaryLanguage": {
+                        "color": "#776791",
+                        "id": "MDg6TGFuZ3VhZ2UzMzg=",
+                        "name": "Crystal"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 79798,
+                                "node": {
+                                    "color": "#776791",
+                                    "name": "Crystal",
+                                    "id": "MDg6TGFuZ3VhZ2UzMzg="
+                                }
+                            },
+                            {
+                                "size": 925,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 83
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "name": "immutable",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MDYwMDA0Nw==",
+                    "contribution": {
+                        "adds": 4676,
+                        "total_commits": 138,
+                        "num_of_weeks": 14,
+                        "dels": 1571
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 7
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-03T20:16:57Z",
+                    "createdAt": "2015-12-20T23:36:46Z",
+                    "description": "Minimal AB-test library for Rails applications",
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                        "name": "Ruby"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 37610,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 115,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 1255,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 2405,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 2722,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 7
+                    },
+                    "forks": {
+                        "totalCount": 5
+                    },
+                    "name": "ablab",
+                    "id": "MDEwOlJlcG9zaXRvcnk0ODM0MTMyMA==",
+                    "contribution": {
+                        "adds": 3326,
+                        "total_commits": 70,
+                        "num_of_weeks": 8,
+                        "dels": 1622
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T17:18:50Z",
+                    "createdAt": "2013-10-30T09:36:47Z",
+                    "description": "My messy .vim folder",
+                    "primaryLanguage": {
+                        "color": "#199f4b",
+                        "id": "MDg6TGFuZ3VhZ2U1Njk=",
+                        "name": "Vim script"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 145,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 84604,
+                                "node": {
+                                    "color": "#199f4b",
+                                    "name": "Vim script",
+                                    "id": "MDg6TGFuZ3VhZ2U1Njk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "Vimfiles",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMzk4MjQwOA==",
+                    "contribution": {
+                        "adds": 3822,
+                        "total_commits": 67,
+                        "num_of_weeks": 32,
+                        "dels": 1731
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-07-16T05:01:26Z",
+                    "createdAt": "2013-01-26T18:31:20Z",
+                    "description": "Pure JS dependency chain generator for Sprockets",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "https://github.com/lucaong/sprockets-chain",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 23808,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 15
+                    },
+                    "forks": {
+                        "totalCount": 15
+                    },
+                    "name": "sprockets-chain",
+                    "id": "MDEwOlJlcG9zaXRvcnk3ODQxNzYw",
+                    "contribution": {
+                        "adds": 771,
+                        "total_commits": 46,
+                        "num_of_weeks": 13,
+                        "dels": 206
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-07T11:06:56Z",
+                    "createdAt": "2016-11-05T22:39:07Z",
+                    "description": "Train a Markov Chain model on textual content and use it to generate nonsensical text in that style",
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                        "name": "Ruby"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 6851,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 131,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "yada",
+                    "id": "MDEwOlJlcG9zaXRvcnk3Mjk1NzI0NA==",
+                    "contribution": {
+                        "adds": 390,
+                        "total_commits": 3,
+                        "num_of_weeks": 1,
+                        "dels": 18
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-09-20T09:56:19Z",
+                    "createdAt": "2014-06-26T15:08:20Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                        "name": "Ruby"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 17810,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "dawanda-session",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMTI0NDg1Mw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 17
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-02T10:08:13Z",
+                    "createdAt": "2014-06-12T14:32:46Z",
+                    "description": "LaneJS - A JavaScript Rails like Framework",
+                    "primaryLanguage": {
+                        "color": "#244776",
+                        "id": "MDg6TGFuZ3VhZ2UxOTU=",
+                        "name": "CoffeeScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 53884,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 104421,
+                                "node": {
+                                    "color": "#244776",
+                                    "name": "CoffeeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 12
+                    },
+                    "forks": {
+                        "totalCount": 4
+                    },
+                    "name": "lanejs",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMDc3MDU3Ng==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 44
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-02T18:06:46Z",
+                    "createdAt": "2009-02-26T00:53:51Z",
+                    "description": "A Ruby client library for Redis",
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                        "name": "Ruby"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 310780,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 179,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 1017,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2813
+                    },
+                    "forks": {
+                        "totalCount": 599
+                    },
+                    "name": "redis-rb",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMzc4MDU=",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 79
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T22:52:45Z",
+                    "createdAt": "2012-11-27T17:32:32Z",
+                    "description": "The Crystal Programming Language",
+                    "primaryLanguage": {
+                        "color": "#776791",
+                        "id": "MDg6TGFuZ3VhZ2UzMzg=",
+                        "name": "Crystal"
+                    },
+                    "homepageURL": "http://crystal-lang.org",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 14953,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 5568353,
+                                "node": {
+                                    "color": "#776791",
+                                    "name": "Crystal",
+                                    "id": "MDg6TGFuZ3VhZ2UzMzg="
+                                }
+                            },
+                            {
+                                "size": 9529,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 22638,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 4402,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 28074,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 18768,
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                }
+                            },
+                            {
+                                "size": 620,
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 7352
+                    },
+                    "forks": {
+                        "totalCount": 580
+                    },
+                    "name": "crystal",
+                    "id": "MDEwOlJlcG9zaXRvcnk2ODg3ODEz",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 338
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Berlin, Germany",
+    "following": {
+        "totalCount": 11
+    },
+    "avatarURL": "https://avatars2.githubusercontent.com/u/225441?v=3",
+    "company": null,
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Luca Ongaro",
+    "watching": {
+        "totalCount": 97
+    },
+    "organizations": {
+        "totalCount": 1,
+        "nodes": [
+            {
+                "url": "https://github.com/primegap",
+                "name": "PrimeGap",
+                "login": "primegap",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/710353?v=3"
+            }
+        ]
+    },
+    "pullRequests": {
+        "totalCount": 24
+    },
+    "starredRepositories": {
+        "totalCount": 63
+    },
+    "followers": {
+        "totalCount": 63
+    },
+    "login": "lucaong",
+    "websiteURL": "www.lucaongaro.eu",
+    "id": "MDQ6VXNlcjIyNTQ0MQ==",
+    "email": null
+}

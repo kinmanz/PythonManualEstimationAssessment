@@ -1,0 +1,887 @@
+{
+    "bio": "",
+    "gists": {
+        "totalCount": 2
+    },
+    "contributedRepositories": {
+        "totalCount": 15,
+        "pageInfo": {
+            "endCursor": "MTU=",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2017-01-28T22:15:30Z",
+                    "createdAt": "2016-12-05T13:28:14Z",
+                    "description": "This project demonstrates an integration of AWS Polly into an Alexa skill which translates words into different languages.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 7058,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 5006,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            },
+                            {
+                                "size": 55584,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 8
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "alexa-meets-polly",
+                    "id": "MDEwOlJlcG9zaXRvcnk3NTYyNzI2OQ==",
+                    "contribution": {
+                        "adds": 4648,
+                        "total_commits": 79,
+                        "num_of_weeks": 4,
+                        "dels": 1534
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-26T13:27:11Z",
+                    "createdAt": "2016-08-20T19:22:44Z",
+                    "description": "Extends Alexa Skills Kit with an SDK to manage state of POJO models or collection of single values in your Alexa skills",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "https://kaylerch.github.io/alexa-skills-kit-states-java/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 194783,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "alexa-skills-kit-states-java",
+                    "id": "MDEwOlJlcG9zaXRvcnk2NjE2NDE2Mg==",
+                    "contribution": {
+                        "adds": 65168,
+                        "total_commits": 85,
+                        "num_of_weeks": 11,
+                        "dels": 42587
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-29T16:01:36Z",
+                    "createdAt": "2016-07-16T19:41:24Z",
+                    "description": "This skill is both - a fun skill with lots of features for the Morse-Coder community as well as a reference implementation for Alexa Tellask SDK and Alexa States SDK.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 7058,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 5006,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            },
+                            {
+                                "size": 158994,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "alexa-morse-coder",
+                    "id": "MDEwOlJlcG9zaXRvcnk2MzQ5OTU4OA==",
+                    "contribution": {
+                        "adds": 26163,
+                        "total_commits": 67,
+                        "num_of_weeks": 10,
+                        "dels": 13955
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-27T02:43:09Z",
+                    "createdAt": "2016-09-12T20:12:31Z",
+                    "description": "This SDK is an extension to the Alexa Skills SDK for Java. It provides a framework for handling speechlet requests with multi-variant utterances organized in YAML files.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "https://kaylerch.github.io/alexa-skills-kit-tellask-java/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 211705,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "alexa-skills-kit-tellask-java",
+                    "id": "MDEwOlJlcG9zaXRvcnk2ODA0Mzg2NA==",
+                    "contribution": {
+                        "adds": 70620,
+                        "total_commits": 63,
+                        "num_of_weeks": 5,
+                        "dels": 39034
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 3
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-17T17:31:15Z",
+                    "createdAt": "2016-12-22T21:17:07Z",
+                    "description": "Framework to script and execute conversations against an Alexa skill in order to unit or live test it.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 209974,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "alexa-skills-kit-tester-java",
+                    "id": "MDEwOlJlcG9zaXRvcnk3NzE3NjQyMw==",
+                    "contribution": {
+                        "adds": 13182,
+                        "total_commits": 37,
+                        "num_of_weeks": 3,
+                        "dels": 6810
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-25T14:37:39Z",
+                    "createdAt": "2016-11-28T23:56:54Z",
+                    "description": "Here you can find the sources of a custom Alexa skill that controls an LED strand on a Christmas tree.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1783,
+                                "node": {
+                                    "color": "#438eff",
+                                    "name": "Objective-C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                }
+                            },
+                            {
+                                "size": 7844,
+                                "node": {
+                                    "color": "#bd79d1",
+                                    "name": "Arduino",
+                                    "id": "MDg6TGFuZ3VhZ2UyNTY="
+                                }
+                            },
+                            {
+                                "size": 17400,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 9
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "alexa-xmas-tree",
+                    "id": "MDEwOlJlcG9zaXRvcnk3NTAyNDg5OQ==",
+                    "contribution": {
+                        "adds": 2073,
+                        "total_commits": 20,
+                        "num_of_weeks": 3,
+                        "dels": 180
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-26T13:24:01Z",
+                    "createdAt": "2016-06-26T16:02:04Z",
+                    "description": "These sources were used at Hadoop Summit Cool-Tech Keynote.",
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 2499,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 10474,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "hadoop-summit-cooltech-voting",
+                    "id": "MDEwOlJlcG9zaXRvcnk2MTk5NjgyMg==",
+                    "contribution": {
+                        "adds": 306374,
+                        "total_commits": 18,
+                        "num_of_weeks": 2,
+                        "dels": 153138
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-02T11:04:59Z",
+                    "createdAt": "2016-05-25T21:08:51Z",
+                    "description": "This Alexa skill makes you an expert for Morse codes.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "https://www.linkedin.com/pulse/amazon-alexa-skill-development-creation-morse-coder-kay-lerch",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 81833,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "alexa-morser-coder-skill",
+                    "id": "MDEwOlJlcG9zaXRvcnk1OTY5Nzg1MA==",
+                    "contribution": {
+                        "adds": 5065,
+                        "total_commits": 11,
+                        "num_of_weeks": 3,
+                        "dels": 33
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-23T22:43:02Z",
+                    "createdAt": "2016-07-28T14:13:50Z",
+                    "description": "My historically valueable Qbasic games from 1998. All of them scripted on my 80386 after school.",
+                    "primaryLanguage": {
+                        "color": "#945db7",
+                        "id": "MDg6TGFuZ3VhZ2UxNjY=",
+                        "name": "Visual Basic"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 115495,
+                                "node": {
+                                    "color": "#945db7",
+                                    "name": "Visual Basic",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjY="
+                                }
+                            },
+                            {
+                                "size": 142,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "qbasic-teenage-masterpieces",
+                    "id": "MDEwOlJlcG9zaXRvcnk2NDQwMTA5OQ==",
+                    "contribution": {
+                        "adds": 5257,
+                        "total_commits": 8,
+                        "num_of_weeks": 2,
+                        "dels": 9
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-05-29T20:03:45Z",
+                    "createdAt": "2016-05-29T18:57:59Z",
+                    "description": "Master Thesis: Generisches Konzept und Implementierung einer asynchronen Workflow-Engine unter Anwendung von TIBCO BusinessWorks und Amazon Webservices",
+                    "primaryLanguage": null,
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": []
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "thesis",
+                    "id": "MDEwOlJlcG9zaXRvcnk1OTk1OTA2Ng==",
+                    "contribution": {
+                        "adds": 6942,
+                        "total_commits": 9,
+                        "num_of_weeks": 2,
+                        "dels": 1002
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-23T15:22:35Z",
+                    "createdAt": "2016-05-07T22:06:23Z",
+                    "description": "This one is an Alexa skill which can be used to voice-control an Apache NiFi dataflow. ",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 34059,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "apache-nifi-voiceops-skill",
+                    "id": "MDEwOlJlcG9zaXRvcnk1ODI4NjI2Nw==",
+                    "contribution": {
+                        "adds": 998,
+                        "total_commits": 4,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T14:39:28Z",
+                    "createdAt": "2015-07-10T22:21:51Z",
+                    "description": "SDK and example code for building voice-enabled skills for the Amazon Echo.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "http://developer.amazon.com/ask",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 311512,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 271
+                    },
+                    "forks": {
+                        "totalCount": 256
+                    },
+                    "name": "alexa-skills-kit-java",
+                    "id": "MDEwOlJlcG9zaXRvcnkzODkwNDY0Nw==",
+                    "contribution": {
+                        "adds": 39,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 2
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 66
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T14:45:50Z",
+                    "createdAt": "2014-12-12T08:00:05Z",
+                    "description": "Mirror of Apache NiFi",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 2337924,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 213734,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 20995861,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 20139,
+                                "node": {
+                                    "color": null,
+                                    "name": "GAP",
+                                    "id": "MDg6TGFuZ3VhZ2UzNDc="
+                                }
+                            },
+                            {
+                                "size": 26874,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 190820,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 5681,
+                                "node": {
+                                    "color": "#EB8CEB",
+                                    "name": "XSLT",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDI="
+                                }
+                            },
+                            {
+                                "size": 12553,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            },
+                            {
+                                "size": 802379,
+                                "node": {
+                                    "color": "#e69f56",
+                                    "name": "Groovy",
+                                    "id": "MDg6TGFuZ3VhZ2UxNzU="
+                                }
+                            },
+                            {
+                                "size": 8028,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 17954,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 983,
+                                "node": {
+                                    "color": "#000080",
+                                    "name": "Lua",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjQ="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 447
+                    },
+                    "forks": {
+                        "totalCount": 411
+                    },
+                    "name": "nifi",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNzkxMTA4OA==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 101
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-05-29T21:09:05Z",
+                    "createdAt": "2016-05-29T12:54:12Z",
+                    "description": "This Alexa skill was part of a demo to show custom smarthome integration",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 24055,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 7417,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "alexa-hello-smarthome-skill",
+                    "id": "MDEwOlJlcG9zaXRvcnk1OTk0Mjk4MQ==",
+                    "contribution": {
+                        "adds": 983,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T18:05:23Z",
+                    "createdAt": "2013-02-16T23:19:25Z",
+                    "description": "Controlling up to three chains of 32x32 or 16x32 RGB LED displays using Raspberry Pi GPIO",
+                    "primaryLanguage": {
+                        "color": null,
+                        "id": "MDg6TGFuZ3VhZ2U0Njc=",
+                        "name": "KiCad"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 176784,
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                }
+                            },
+                            {
+                                "size": 13167,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 371159,
+                                "node": {
+                                    "color": null,
+                                    "name": "KiCad",
+                                    "id": "MDg6TGFuZ3VhZ2U0Njc="
+                                }
+                            },
+                            {
+                                "size": 32203,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 18113,
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                }
+                            },
+                            {
+                                "size": 281,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 517
+                    },
+                    "forks": {
+                        "totalCount": 191
+                    },
+                    "name": "rpi-rgb-led-matrix",
+                    "id": "MDEwOlJlcG9zaXRvcnk4MjQzMDc0",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 76
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Berlin, Germany",
+    "following": {
+        "totalCount": 2
+    },
+    "avatarURL": "https://avatars3.githubusercontent.com/u/3472176?v=3",
+    "company": "",
+    "pinnedRepositories": {
+        "totalCount": 6,
+        "nodes": [
+            {
+                "name": "alexa-skills-kit-states-java"
+            },
+            {
+                "name": "alexa-skills-kit-tellask-java"
+            },
+            {
+                "name": "alexa-skills-kit-tester-java"
+            },
+            {
+                "name": "hadoop-summit-cooltech-voting"
+            },
+            {
+                "name": "alexa-xmas-tree"
+            },
+            {
+                "name": "alexa-morse-coder"
+            }
+        ]
+    },
+    "name": "Kay Lerch",
+    "watching": {
+        "totalCount": 42
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 3
+    },
+    "starredRepositories": {
+        "totalCount": 38
+    },
+    "followers": {
+        "totalCount": 12
+    },
+    "login": "KayLerch",
+    "websiteURL": "http://www.klerch.io",
+    "id": "MDQ6VXNlcjM0NzIxNzY=",
+    "email": ""
+}

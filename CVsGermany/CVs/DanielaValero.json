@@ -1,0 +1,718 @@
+{
+    "bio": "",
+    "gists": {
+        "totalCount": 9
+    },
+    "contributedRepositories": {
+        "totalCount": 14,
+        "pageInfo": {
+            "endCursor": "MTQ=",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2017-01-27T15:22:27Z",
+                    "createdAt": "2015-12-08T10:19:22Z",
+                    "description": "A commit hook validator to check commits against guidelines. Based on fit-commit.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "https://www.npmjs.com/package/fit-commit-js",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 69258,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 18
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "fit-commit-js",
+                    "id": "MDEwOlJlcG9zaXRvcnk0NzYxNDc0Mg==",
+                    "contribution": {
+                        "adds": 2,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 3
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T18:37:55Z",
+                    "createdAt": "2016-12-15T23:05:08Z",
+                    "description": "webpack specific CLI for webpack & friends [WIP]",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 54046,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 65
+                    },
+                    "forks": {
+                        "totalCount": 8
+                    },
+                    "name": "webpack-cli",
+                    "id": "MDEwOlJlcG9zaXRvcnk3NjYwMzE5OQ==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 16
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-21T14:47:11Z",
+                    "createdAt": "2015-08-06T13:11:24Z",
+                    "description": "Use glob includes in sass",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 10757,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 753,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 27
+                    },
+                    "forks": {
+                        "totalCount": 15
+                    },
+                    "name": "gulp-sass-glob",
+                    "id": "MDEwOlJlcG9zaXRvcnk0MDMwNTUyMA==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 4
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T10:58:20Z",
+                    "createdAt": "2014-01-05T00:10:21Z",
+                    "description": "Use webpack with karma.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 12828,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 503
+                    },
+                    "forks": {
+                        "totalCount": 103
+                    },
+                    "name": "karma-webpack",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTY0MjE4Nw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 23
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T20:35:43Z",
+                    "createdAt": "2012-09-22T20:50:23Z",
+                    "description": "Static site generator and rapid prototyping framework for Node.js, Grunt.js, and Yeoman and Gulp. Render templates with Handlebars, Lo-Dash or any template engine. Used by Less.js / lesscss.org, Topcoat, Web Experience Toolkit, and hundreds of other projects to build sites, themes, components, documentation, blogs and gh-pages.",
+                    "primaryLanguage": {
+                        "color": "#563d7c",
+                        "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                        "name": "CSS"
+                    },
+                    "homepageURL": "http://assemble.io/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 102743,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 483616,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 44790,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 3247
+                    },
+                    "forks": {
+                        "totalCount": 203
+                    },
+                    "name": "assemble",
+                    "id": "MDEwOlJlcG9zaXRvcnk1OTE2NzY3",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 118
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T10:54:27Z",
+                    "createdAt": "2014-10-01T07:03:53Z",
+                    "description": "Styleguide generator is a handy little tool that helps you generate good looking styleguides from stylesheets using KSS notation",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "http://styleguide.sc5.io/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 304081,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 63033,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 18503,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1071
+                    },
+                    "forks": {
+                        "totalCount": 148
+                    },
+                    "name": "sc5-styleguide",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNDY2ODg5NA==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 60
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-25T17:39:10Z",
+                    "createdAt": "2013-10-06T22:06:58Z",
+                    "description": "CSS parser with support of preprocessors",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 536000,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 79295,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 5171,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 53910,
+                                "node": {
+                                    "color": "#244776",
+                                    "name": "CoffeeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 169
+                    },
+                    "forks": {
+                        "totalCount": 41
+                    },
+                    "name": "gonzales-pe",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMzM3MDM0OQ==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 19
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T04:12:01Z",
+                    "createdAt": "2015-08-09T13:12:10Z",
+                    "description": "SCSS parser for PostCSS.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 28810,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 207
+                    },
+                    "forks": {
+                        "totalCount": 13
+                    },
+                    "name": "postcss-scss",
+                    "id": "MDEwOlJlcG9zaXRvcnk0MDQzNjc2Mg==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 8
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-05T03:59:20Z",
+                    "createdAt": "2014-12-04T16:25:23Z",
+                    "description": "A mighty, modern CSS linter",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "http://stylelint.io/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1862096,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 152238,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 208,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 159,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2777
+                    },
+                    "forks": {
+                        "totalCount": 216
+                    },
+                    "name": "stylelint",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNzU0OTAxOQ==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 68
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-05T02:46:49Z",
+                    "createdAt": "2013-03-06T23:30:55Z",
+                    "description": "130+ handlebars helpers in ~20 categories. Can be used with Assemble, Ghost, YUI, express.js etc.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "http://assemble.io/helpers/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 195359,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1229
+                    },
+                    "forks": {
+                        "totalCount": 173
+                    },
+                    "name": "handlebars-helpers",
+                    "id": "MDEwOlJlcG9zaXRvcnk4NjE1ODQ4",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 51
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-05T04:08:27Z",
+                    "createdAt": "2013-12-30T17:53:03Z",
+                    "description": "Minify PNG, JPEG, GIF and SVG images",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 4480,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1107
+                    },
+                    "forks": {
+                        "totalCount": 101
+                    },
+                    "name": "gulp-imagemin",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTUzMzA4Mg==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 25
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-01T04:10:47Z",
+                    "createdAt": "2011-10-20T05:53:09Z",
+                    "description": "HTML_CodeSniffer is a client-side JavaScript application that checks a HTML document or source code, and detects violations of a defined coding standard. Comes with standards that cover the three conformance levels of the W3C's Web Content Accessibility Guidelines (WCAG) 2.0 and the U.S. Section 508 legislation.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "http://squizlabs.github.com/HTML_CodeSniffer/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 26080,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 2257,
+                                "node": {
+                                    "color": "#244776",
+                                    "name": "CoffeeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU="
+                                }
+                            },
+                            {
+                                "size": 429597,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 530,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 9391,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 721
+                    },
+                    "forks": {
+                        "totalCount": 127
+                    },
+                    "name": "HTML_CodeSniffer",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNjExMzEx",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 71
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-20T10:45:11Z",
+                    "createdAt": "2014-12-11T07:45:26Z",
+                    "description": "Markdown template helper. Uses remarkable to render markdown in templates. Should work with Handlebars, Lo-Dash or any template engine that supports helper functions.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 6135,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 10
+                    },
+                    "forks": {
+                        "totalCount": 4
+                    },
+                    "name": "helper-markdown",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNzg1OTk1Nw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 4
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-01T12:28:27Z",
+                    "createdAt": "2015-06-11T06:29:45Z",
+                    "description": "A Git hook to validate your commit messages based on community standards.",
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                        "name": "Ruby"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1660,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 44154,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 399
+                    },
+                    "forks": {
+                        "totalCount": 16
+                    },
+                    "name": "fit-commit",
+                    "id": "MDEwOlJlcG9zaXRvcnkzNzI0MzQ0OA==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 11
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Germany",
+    "following": {
+        "totalCount": 9
+    },
+    "avatarURL": "https://avatars2.githubusercontent.com/u/1307954?v=3",
+    "company": "SapientRazorfish",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Daniela Valero",
+    "watching": {
+        "totalCount": 9
+    },
+    "organizations": {
+        "totalCount": 1,
+        "nodes": [
+            {
+                "url": "https://github.com/angular-translate",
+                "name": "angular-translate",
+                "login": "angular-translate",
+                "avatarURL": "https://avatars2.githubusercontent.com/u/6117835?v=3"
+            }
+        ]
+    },
+    "pullRequests": {
+        "totalCount": 34
+    },
+    "starredRepositories": {
+        "totalCount": 49
+    },
+    "followers": {
+        "totalCount": 34
+    },
+    "login": "DanielaValero",
+    "websiteURL": "https://twitter.com/danielavalero_",
+    "id": "MDQ6VXNlcjEzMDc5NTQ=",
+    "email": ""
+}

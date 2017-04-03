@@ -1,0 +1,688 @@
+{
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "location": "D\u00fclmen, Germany",
+    "email": "",
+    "pullRequests": {
+        "totalCount": 0
+    },
+    "company": "",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "websiteURL": "http://crazzle.github.io",
+    "watching": {
+        "totalCount": 27
+    },
+    "avatarURL": "https://avatars2.githubusercontent.com/u/471120?v=3",
+    "starredRepositories": {
+        "totalCount": 56
+    },
+    "followers": {
+        "totalCount": 13
+    },
+    "login": "crazzle",
+    "following": {
+        "totalCount": 16
+    },
+    "contributedRepositories": {
+        "totalCount": 14,
+        "edges": [
+            {
+                "node": {
+                    "description": "A non-blocking perceptron implementation in scala to build multi layered perceptrons",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNDgyNTkxNQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 13234
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2016-10-30T09:30:09Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 31,
+                        "total_commits": 9,
+                        "num_of_weeks": 5,
+                        "dels": 18
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2014-10-05T20:47:41Z",
+                    "name": "scala_perceptron"
+                }
+            },
+            {
+                "node": {
+                    "description": "A small wrapper around the Apache Kafka consumer and producer API",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MDc3MDUyNw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 13246
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2016-01-31T11:10:15Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 37,
+                        "total_commits": 7,
+                        "num_of_weeks": 3,
+                        "dels": 6
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-01-31T11:10:06Z",
+                    "name": "ScalaKafkaApi"
+                }
+            },
+            {
+                "node": {
+                    "description": "A small power plant simulator that can ramp to a certain power level. Great for noisy time-series data generation!",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0ODQ0MDk0Mg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 17863
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 14882
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2017-02-05T22:32:56Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 168,
+                        "total_commits": 11,
+                        "num_of_weeks": 5,
+                        "dels": 92
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2015-12-22T15:59:59Z",
+                    "name": "PyPoSim"
+                }
+            },
+            {
+                "node": {
+                    "description": "A local Data Science infrastructure example using Docker, Vagrant, Python, Reactive Streams, Kafka and Spark",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2OTE2MTYxMw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 1583
+                            },
+                            {
+                                "node": {
+                                    "color": "#DA5B0B",
+                                    "id": "MDg6TGFuZ3VhZ2U0ODk=",
+                                    "name": "Jupyter Notebook"
+                                },
+                                "size": 4171
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook",
+                        "id": "MDg6TGFuZ3VhZ2U0ODk="
+                    },
+                    "updatedAt": "2016-10-10T07:58:17Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 25,
+                        "total_commits": 3,
+                        "num_of_weeks": 3,
+                        "dels": 1
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-09-25T11:57:31Z",
+                    "name": "data2day-vagrant"
+                }
+            },
+            {
+                "node": {
+                    "description": "A small NodeJS application that can be deployed as a Docker container",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NzUzOTUxOA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 252
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "name": "JavaScript",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA="
+                    },
+                    "updatedAt": "2016-09-11T19:55:32Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 59,
+                        "total_commits": 2,
+                        "num_of_weeks": 2,
+                        "dels": 0
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-09-06T19:22:01Z",
+                    "name": "pottjs-app"
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3NzMwMzQwMg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 7997
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2016-12-24T23:20:50Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 1,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-12-24T23:20:26Z",
+                    "name": "python_elevator"
+                }
+            },
+            {
+                "node": {
+                    "description": "Bigfit Boxclub Reservation System",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxOTg4NzAwMQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 3738
+                            },
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                                    "name": "PHP"
+                                },
+                                "size": 49543
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 20617
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "name": "PHP",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "updatedAt": "2016-10-10T14:11:01Z",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 23,
+                        "total_commits": 2,
+                        "num_of_weeks": 2,
+                        "dels": 0
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2014-05-17T13:19:34Z",
+                    "name": "bigfit_reservation"
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMTUyMzE0NA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 31628
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2016-10-10T14:10:35Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 27,
+                        "total_commits": 3,
+                        "num_of_weeks": 3,
+                        "dels": 1
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2014-07-05T15:55:35Z",
+                    "name": "stask"
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNjMyMzU4OA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 2798
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2016-10-10T14:10:17Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 40,
+                        "total_commits": 3,
+                        "num_of_weeks": 2,
+                        "dels": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2015-05-26T21:02:59Z",
+                    "name": "scalatra-minimal-rest"
+                }
+            },
+            {
+                "node": {
+                    "description": "A set of examples for a quick-start with Apache Storm",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0NjIzODAzNg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 6871
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-10-10T14:10:01Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 21,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2015-11-15T22:06:25Z",
+                    "name": "storm-examples"
+                }
+            },
+            {
+                "node": {
+                    "description": "A small Docker deployment example with Jenkins and Nodejs using Vagrant",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NzUzOTU3NA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 1385
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 44771
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "name": "HTML",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc="
+                    },
+                    "updatedAt": "2016-09-11T19:49:19Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 21,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-09-06T19:22:46Z",
+                    "name": "pottjs-vagrant"
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzgwODU4Nw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 55694
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-12-22T08:12:32Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 21,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2014-03-16T20:35:40Z",
+                    "name": "Blockies"
+                }
+            },
+            {
+                "node": {
+                    "description": "Source code for Object Oriented Programming FOM",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2ODUzNTg1NA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 77714
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-09-18T17:22:20Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 12,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-09-18T17:18:08Z",
+                    "name": "FOM_Java_OOP"
+                }
+            },
+            {
+                "node": {
+                    "description": "Sort e-mails by date",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NTk1MjA1Ng==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                                    "name": "C++"
+                                },
+                                "size": 21164
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#f34b7d",
+                        "name": "C++",
+                        "id": "MDg6TGFuZ3VhZ2UxNDI="
+                    },
+                    "updatedAt": "2016-04-11T07:48:02Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 49,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-04-11T07:45:38Z",
+                    "name": "MailSort"
+                }
+            }
+        ],
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "MTQ="
+        }
+    },
+    "bio": "Software Engineer, Technical Enthusiast, Passionated Snowboarder",
+    "gists": {
+        "totalCount": 0
+    },
+    "name": "Mark Keinh\u00f6rster",
+    "id": "MDQ6VXNlcjQ3MTEyMA=="
+}

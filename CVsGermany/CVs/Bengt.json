@@ -1,0 +1,654 @@
+{
+    "organizations": {
+        "totalCount": 3,
+        "nodes": [
+            {
+                "login": "PodSearch",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/2096318?v=3",
+                "url": "https://github.com/PodSearch",
+                "name": "PodSearch"
+            },
+            {
+                "login": "BengtKlaasNastja",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/2766847?v=3",
+                "url": "https://github.com/BengtKlaasNastja",
+                "name": "BengtKlaasNastja"
+            },
+            {
+                "login": "cigroup-ol",
+                "avatarURL": "https://avatars2.githubusercontent.com/u/5174840?v=3",
+                "url": "https://github.com/cigroup-ol",
+                "name": "Computational Intelligence Group"
+            }
+        ]
+    },
+    "location": "Oldenburg (Oldb), Lower-Saxony, Germany",
+    "email": "",
+    "pullRequests": {
+        "totalCount": 79
+    },
+    "company": null,
+    "pinnedRepositories": {
+        "totalCount": 6,
+        "nodes": [
+            {
+                "name": "metaopt"
+            },
+            {
+                "name": "AL-FanControl"
+            },
+            {
+                "name": "microbar"
+            },
+            {
+                "name": "FactoryTiles"
+            },
+            {
+                "name": "podfilter"
+            },
+            {
+                "name": "pyserial"
+            }
+        ]
+    },
+    "websiteURL": "http://bengtl\u00fcers.de",
+    "watching": {
+        "totalCount": 179
+    },
+    "avatarURL": "https://avatars3.githubusercontent.com/u/11575?v=3",
+    "starredRepositories": {
+        "totalCount": 1260
+    },
+    "followers": {
+        "totalCount": 23
+    },
+    "login": "Bengt",
+    "following": {
+        "totalCount": 39
+    },
+    "contributedRepositories": {
+        "totalCount": 10,
+        "edges": [
+            {
+                "node": {
+                    "description": "An application-level fan control for desktop PCs using Linux, Python, Arduino and PWM fans.",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0MzYzMzU3OQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#bd79d1",
+                                    "id": "MDg6TGFuZ3VhZ2UyNTY=",
+                                    "name": "Arduino"
+                                },
+                                "size": 29378
+                            },
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 31666
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2016-09-28T16:58:37Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 4
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 4537,
+                        "total_commits": 63,
+                        "num_of_weeks": 10,
+                        "dels": 1841
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2015-10-04T11:04:41Z",
+                    "name": "AL-FanControl"
+                }
+            },
+            {
+                "node": {
+                    "description": "Low-pressure bar graphs for Python.",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NzI1MjM5Mg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 16798
+                            },
+                            {
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM=",
+                                    "name": "Batchfile"
+                                },
+                                "size": 1598
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2016-09-03T13:42:47Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 1552,
+                        "total_commits": 30,
+                        "num_of_weeks": 1,
+                        "dels": 82
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-09-02T20:21:22Z",
+                    "name": "microbar"
+                }
+            },
+            {
+                "node": {
+                    "description": "This is a 3D-printable grip to insert into a desktop computer's 5.25 inch drive bay.",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MzgwNTY4OA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2UzOTE=",
+                                    "name": "OpenSCAD"
+                                },
+                                "size": 7519
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": null,
+                        "name": "OpenSCAD",
+                        "id": "MDg6TGFuZ3VhZ2UzOTE="
+                    },
+                    "updatedAt": "2016-03-13T20:44:53Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 237179,
+                        "total_commits": 17,
+                        "num_of_weeks": 1,
+                        "dels": 152850
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-03-13T20:21:02Z",
+                    "name": "Desktop-Computer-Drive-Bay-Grip"
+                }
+            },
+            {
+                "node": {
+                    "description": "Demonstration of an object where two parameters suffice to determine the third one.",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3MzY0MDM0Mw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 4668
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2016-11-13T20:17:38Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 329,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-11-13T20:16:14Z",
+                    "name": "Optional-Parameters-in-Python"
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NTM3MjUyNg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 4076
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2016-04-03T22:49:07Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 376,
+                        "total_commits": 5,
+                        "num_of_weeks": 1,
+                        "dels": 21
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-04-03T22:36:37Z",
+                    "name": "DownloadTheInternet"
+                }
+            },
+            {
+                "node": {
+                    "description": "Atom package for virtualenv management",
+                    "forks": {
+                        "totalCount": 12
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMjMwNDI0Mw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#244776",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU=",
+                                    "name": "CoffeeScript"
+                                },
+                                "size": 7869
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#244776",
+                        "name": "CoffeeScript",
+                        "id": "MDg6TGFuZ3VhZ2UxOTU="
+                    },
+                    "updatedAt": "2017-01-04T16:36:21Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 9
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 1,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 1
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2014-07-27T05:41:12Z",
+                    "name": "virtualenv"
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "forks": {
+                        "totalCount": 45
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxMzg0NTkwNw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile"
+                                },
+                                "size": 1532
+                            },
+                            {
+                                "node": {
+                                    "color": "#178600",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzI=",
+                                    "name": "C#"
+                                },
+                                "size": 131489
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#178600",
+                        "name": "C#",
+                        "id": "MDg6TGFuZ3VhZ2UyMzI="
+                    },
+                    "updatedAt": "2017-01-17T20:23:43Z",
+                    "watchers": {
+                        "totalCount": 40
+                    },
+                    "stargazers": {
+                        "totalCount": 73
+                    },
+                    "isFork": true,
+                    "contribution": 0,
+                    "homepageURL": null,
+                    "createdAt": "2013-10-24T22:21:44Z",
+                    "name": "ModuleManager"
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3MDMyOTU0MA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#244776",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU=",
+                                    "name": "CoffeeScript"
+                                },
+                                "size": 7476
+                            },
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 1302
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 973
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#244776",
+                        "name": "CoffeeScript",
+                        "id": "MDg6TGFuZ3VhZ2UxOTU="
+                    },
+                    "updatedAt": "2016-10-08T12:27:18Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2016-10-08T12:25:10Z",
+                    "name": "python-suite"
+                }
+            },
+            {
+                "node": {
+                    "description": "Keybase Go Library, Client, Service, OS X, iOS, Android, Electron",
+                    "forks": {
+                        "totalCount": 86
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyOTA5OTE4MQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 125831
+                            },
+                            {
+                                "node": {
+                                    "color": "#375eab",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTA=",
+                                    "name": "Go"
+                                },
+                                "size": 4855337
+                            },
+                            {
+                                "node": {
+                                    "color": "#244776",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU=",
+                                    "name": "CoffeeScript"
+                                },
+                                "size": 21137
+                            },
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "name": "Ruby"
+                                },
+                                "size": 31965
+                            },
+                            {
+                                "node": {
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY=",
+                                    "name": "Objective-C"
+                                },
+                                "size": 1242794
+                            },
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 19305
+                            },
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile"
+                                },
+                                "size": 2823
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 723
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 2403276
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 3332
+                            },
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 49048
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0NDE=",
+                                    "name": "Inno Setup"
+                                },
+                                "size": 21773
+                            },
+                            {
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM=",
+                                    "name": "Batchfile"
+                                },
+                                "size": 16925
+                            },
+                            {
+                                "node": {
+                                    "color": "#EB8CEB",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDI=",
+                                    "name": "XSLT"
+                                },
+                                "size": 977
+                            },
+                            {
+                                "node": {
+                                    "color": "#e69f56",
+                                    "id": "MDg6TGFuZ3VhZ2UxNzU=",
+                                    "name": "Groovy"
+                                },
+                                "size": 7693
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#375eab",
+                        "name": "Go",
+                        "id": "MDg6TGFuZ3VhZ2UxOTA="
+                    },
+                    "updatedAt": "2017-02-05T21:06:46Z",
+                    "watchers": {
+                        "totalCount": 59
+                    },
+                    "stargazers": {
+                        "totalCount": 958
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "",
+                    "createdAt": "2015-01-11T17:17:12Z",
+                    "name": "client"
+                }
+            },
+            {
+                "node": {
+                    "description": "Run python nosetests from within the atom editor",
+                    "forks": {
+                        "totalCount": 4
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNjM2MDgzMg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#244776",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU=",
+                                    "name": "CoffeeScript"
+                                },
+                                "size": 13372
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 2150
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#244776",
+                        "name": "CoffeeScript",
+                        "id": "MDg6TGFuZ3VhZ2UxOTU="
+                    },
+                    "updatedAt": "2016-02-23T22:49:18Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 4
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2015-05-27T10:51:33Z",
+                    "name": "atom-nosetests"
+                }
+            }
+        ],
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "MTA="
+        }
+    },
+    "bio": null,
+    "gists": {
+        "totalCount": 31
+    },
+    "name": "Bengt L\u00fcers",
+    "id": "MDQ6VXNlcjExNTc1"
+}

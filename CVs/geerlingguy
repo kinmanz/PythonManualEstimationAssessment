@@ -1,0 +1,3795 @@
+{
+    "location": "St. Louis, MO",
+    "pinnedRepositories": {
+        "totalCount": 6,
+        "nodes": [
+            {
+                "name": "drupal-vm"
+            },
+            {
+                "name": "ansible-vagrant-examples"
+            },
+            {
+                "name": "ansible-for-devops"
+            },
+            {
+                "name": "mac-dev-playbook"
+            },
+            {
+                "name": "raspberry-pi-dramble"
+            },
+            {
+                "name": "Ping"
+            }
+        ]
+    },
+    "id": "MDQ6VXNlcjQ4MTY3Nw==",
+    "avatarURL": "https://avatars2.githubusercontent.com/u/481677?v=3",
+    "following": {
+        "totalCount": 38
+    },
+    "name": "Jeff Geerling",
+    "starredRepositories": {
+        "totalCount": 403
+    },
+    "company": "@acquia ",
+    "login": "geerlingguy",
+    "watching": {
+        "totalCount": 132
+    },
+    "websiteURL": "https://www.jeffgeerling.com/",
+    "contributedRepositories": {
+        "totalCount": 129,
+        "pageInfo": {
+            "endCursor": "MTAw",
+            "hasNextPage": true
+        },
+        "edges": [
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 866
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://www.drupalvm.com/",
+                    "forks": {
+                        "totalCount": 380
+                    },
+                    "name": "drupal-vm",
+                    "watchers": {
+                        "totalCount": 81
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 19819,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 582,
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 4304,
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-23T22:19:45Z",
+                    "contribution": {
+                        "total_commits": 487,
+                        "dels": 5868,
+                        "adds": 22182,
+                        "num_of_weeks": 107
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNjI0NjUzNg==",
+                    "description": "A VM for local Drupal development",
+                    "createdAt": "2014-01-26T04:26:54Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 138
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "forks": {
+                        "totalCount": 115
+                    },
+                    "name": "blt",
+                    "watchers": {
+                        "totalCount": 29
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 18069,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 194652,
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 685,
+                                "node": {
+                                    "name": "ApacheConf",
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0MTg="
+                                }
+                            },
+                            {
+                                "size": 385,
+                                "node": {
+                                    "name": "Cucumber",
+                                    "color": "#5B2063",
+                                    "id": "MDg6TGFuZ3VhZ2U0MzY="
+                                }
+                            },
+                            {
+                                "size": 128,
+                                "node": {
+                                    "name": "Makefile",
+                                    "color": "#427819",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 544,
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 1541,
+                                "node": {
+                                    "name": "JavaScript",
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-22T05:52:36Z",
+                    "contribution": {
+                        "total_commits": 24,
+                        "dels": 147,
+                        "adds": 212,
+                        "num_of_weeks": 12
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NzIzOTAyNw==",
+                    "description": "BLT is a tool for building, testing, and launching Drupal sites.",
+                    "createdAt": "2016-04-27T19:04:48Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP",
+                        "color": "#4F5D95"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 276
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/mysql/",
+                    "forks": {
+                        "totalCount": 222
+                    },
+                    "name": "ansible-role-mysql",
+                    "watchers": {
+                        "totalCount": 41
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 425,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-23T07:24:20Z",
+                    "contribution": {
+                        "total_commits": 110,
+                        "dels": 810,
+                        "adds": 1306,
+                        "num_of_weeks": 42
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMwNjg5NA==",
+                    "description": "Ansible Role - MySQL",
+                    "createdAt": "2014-03-01T03:31:50Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 178
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/php/",
+                    "forks": {
+                        "totalCount": 147
+                    },
+                    "name": "ansible-role-php",
+                    "watchers": {
+                        "totalCount": 20
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 4463,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-22T16:03:15Z",
+                    "contribution": {
+                        "total_commits": 151,
+                        "dels": 2334,
+                        "adds": 3518,
+                        "num_of_weeks": 53
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMwNjA4Mg==",
+                    "description": "Ansible Role - PHP",
+                    "createdAt": "2014-03-01T02:38:38Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 43
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/solr/",
+                    "forks": {
+                        "totalCount": 42
+                    },
+                    "name": "ansible-role-solr",
+                    "watchers": {
+                        "totalCount": 12
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3967,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2016-11-29T12:55:10Z",
+                    "contribution": {
+                        "total_commits": 83,
+                        "dels": 788,
+                        "adds": 1459,
+                        "num_of_weeks": 27
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMyMDg4MQ==",
+                    "description": "Ansible Role - Apache Solr",
+                    "createdAt": "2014-03-01T18:09:41Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 194
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/jenkins/",
+                    "forks": {
+                        "totalCount": 165
+                    },
+                    "name": "ansible-role-jenkins",
+                    "watchers": {
+                        "totalCount": 25
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 571,
+                                "node": {
+                                    "name": "Groovy",
+                                    "color": "#e69f56",
+                                    "id": "MDg6TGFuZ3VhZ2UxNzU="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-22T02:49:39Z",
+                    "contribution": {
+                        "total_commits": 50,
+                        "dels": 493,
+                        "adds": 726,
+                        "num_of_weeks": 23
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMwNzI2Ng==",
+                    "description": "Ansible Role - Jenkins CI",
+                    "createdAt": "2014-03-01T03:58:08Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNzU=",
+                        "name": "Groovy",
+                        "color": "#e69f56"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 593
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "forks": {
+                        "totalCount": 198
+                    },
+                    "name": "mac-dev-playbook",
+                    "watchers": {
+                        "totalCount": 35
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-23T17:46:52Z",
+                    "contribution": {
+                        "total_commits": 104,
+                        "dels": 2037,
+                        "adds": 1761,
+                        "num_of_weeks": 43
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNjc3MzU3Mg==",
+                    "description": "Mac setup and configuration via Ansible.",
+                    "createdAt": "2014-02-12T16:29:15Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 53
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/java/",
+                    "forks": {
+                        "totalCount": 77
+                    },
+                    "name": "ansible-role-java",
+                    "watchers": {
+                        "totalCount": 6
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-14T13:20:53Z",
+                    "contribution": {
+                        "total_commits": 48,
+                        "dels": 266,
+                        "adds": 500,
+                        "num_of_weeks": 21
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMwNzE2OA==",
+                    "description": "Ansible Role - Java.",
+                    "createdAt": "2014-03-01T03:50:40Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 32
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/varnish/",
+                    "forks": {
+                        "totalCount": 38
+                    },
+                    "name": "ansible-role-varnish",
+                    "watchers": {
+                        "totalCount": 6
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-10-22T08:04:33Z",
+                    "contribution": {
+                        "total_commits": 44,
+                        "dels": 328,
+                        "adds": 743,
+                        "num_of_weeks": 17
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxODQxNDA3Mg==",
+                    "description": "Ansible Role - Varnish HTTP accelerator",
+                    "createdAt": "2014-04-03T18:44:30Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 373
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://www.pidramble.com/",
+                    "forks": {
+                        "totalCount": 51
+                    },
+                    "name": "raspberry-pi-dramble",
+                    "watchers": {
+                        "totalCount": 48
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 4689,
+                                "node": {
+                                    "name": "Python",
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 3051,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 2489,
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-21T18:55:14Z",
+                    "contribution": {
+                        "total_commits": 198,
+                        "dels": 2693,
+                        "adds": 4870,
+                        "num_of_weeks": 24
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzMDgxNjMzOQ==",
+                    "description": "Drupal HA/HP Cluster using Raspberry Pis",
+                    "createdAt": "2015-02-15T03:09:40Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python",
+                        "color": "#3572A5"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 22
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/php-xdebug/",
+                    "forks": {
+                        "totalCount": 32
+                    },
+                    "name": "ansible-role-php-xdebug",
+                    "watchers": {
+                        "totalCount": 4
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 357,
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-23T21:26:59Z",
+                    "contribution": {
+                        "total_commits": 46,
+                        "dels": 339,
+                        "adds": 510,
+                        "num_of_weeks": 16
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxODU2MjM1OA==",
+                    "description": "Ansible Role - PHP Xdebug",
+                    "createdAt": "2014-04-08T14:52:09Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP",
+                        "color": "#4F5D95"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 76
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/nodejs/",
+                    "forks": {
+                        "totalCount": 51
+                    },
+                    "name": "ansible-role-nodejs",
+                    "watchers": {
+                        "totalCount": 10
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-21T20:57:16Z",
+                    "contribution": {
+                        "total_commits": 41,
+                        "dels": 314,
+                        "adds": 544,
+                        "num_of_weeks": 20
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzQ2NDIzMA==",
+                    "description": "Ansible Role - Node.js",
+                    "createdAt": "2014-03-06T03:02:52Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 164
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/apache/",
+                    "forks": {
+                        "totalCount": 148
+                    },
+                    "name": "ansible-role-apache",
+                    "watchers": {
+                        "totalCount": 24
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-19T08:22:25Z",
+                    "contribution": {
+                        "total_commits": 96,
+                        "dels": 1814,
+                        "adds": 2342,
+                        "num_of_weeks": 31
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMwMTcxNA==",
+                    "description": "Ansible Role - Apache 2.x.",
+                    "createdAt": "2014-02-28T22:22:28Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 18
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/glusterfs/",
+                    "forks": {
+                        "totalCount": 13
+                    },
+                    "name": "ansible-role-glusterfs",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-22T16:19:53Z",
+                    "contribution": {
+                        "total_commits": 36,
+                        "dels": 301,
+                        "adds": 517,
+                        "num_of_weeks": 11
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNTk4NzQxNA==",
+                    "description": "Ansible Role - GlusterFS",
+                    "createdAt": "2014-10-30T19:58:56Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 48
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/git/",
+                    "forks": {
+                        "totalCount": 39
+                    },
+                    "name": "ansible-role-git",
+                    "watchers": {
+                        "totalCount": 7
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-21T02:10:36Z",
+                    "contribution": {
+                        "total_commits": 56,
+                        "dels": 370,
+                        "adds": 622,
+                        "num_of_weeks": 17
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMwNjMwNA==",
+                    "description": "Ansible Role - Git",
+                    "createdAt": "2014-03-01T02:52:28Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 180
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/nginx/",
+                    "forks": {
+                        "totalCount": 134
+                    },
+                    "name": "ansible-role-nginx",
+                    "watchers": {
+                        "totalCount": 23
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-23T17:22:59Z",
+                    "contribution": {
+                        "total_commits": 49,
+                        "dels": 270,
+                        "adds": 656,
+                        "num_of_weeks": 27
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzUxNzA5MA==",
+                    "description": "Ansible Role - Nginx",
+                    "createdAt": "2014-03-07T14:53:17Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 131
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/firewall/",
+                    "forks": {
+                        "totalCount": 56
+                    },
+                    "name": "ansible-role-firewall",
+                    "watchers": {
+                        "totalCount": 19
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 5130,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-20T03:53:01Z",
+                    "contribution": {
+                        "total_commits": 38,
+                        "dels": 237,
+                        "adds": 635,
+                        "num_of_weeks": 19
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzM5MDE3MA==",
+                    "description": "Ansible Role - iptables Firewall configuration.",
+                    "createdAt": "2014-03-04T04:19:37Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/php-xhprof/",
+                    "forks": {
+                        "totalCount": 10
+                    },
+                    "name": "ansible-role-php-xhprof",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1105,
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2016-11-23T15:13:23Z",
+                    "contribution": {
+                        "total_commits": 34,
+                        "dels": 312,
+                        "adds": 422,
+                        "num_of_weeks": 14
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNjAyODcxNw==",
+                    "description": "Ansible Role - PHP XHProf",
+                    "createdAt": "2014-10-31T18:43:17Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP",
+                        "color": "#4F5D95"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 8
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/postgresql/",
+                    "forks": {
+                        "totalCount": 5
+                    },
+                    "name": "ansible-role-postgresql",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-12-27T13:54:57Z",
+                    "contribution": {
+                        "total_commits": 24,
+                        "dels": 159,
+                        "adds": 666,
+                        "num_of_weeks": 4
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2OTU4MDY3Nw==",
+                    "description": "Ansible Role - PostgreSQL",
+                    "createdAt": "2016-09-29T15:24:25Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 23
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/mailhog/",
+                    "forks": {
+                        "totalCount": 16
+                    },
+                    "name": "ansible-role-mailhog",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1290,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2016-12-23T20:37:34Z",
+                    "contribution": {
+                        "total_commits": 44,
+                        "dels": 413,
+                        "adds": 705,
+                        "num_of_weeks": 15
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyODE0MjcyNw==",
+                    "description": "Ansible Role - MailHog for catching and viewing emails",
+                    "createdAt": "2014-12-17T15:22:10Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 70
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/composer/",
+                    "forks": {
+                        "totalCount": 45
+                    },
+                    "name": "ansible-role-composer",
+                    "watchers": {
+                        "totalCount": 6
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-12T03:28:46Z",
+                    "contribution": {
+                        "total_commits": 53,
+                        "dels": 273,
+                        "adds": 531,
+                        "num_of_weeks": 25
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMwMTkwOQ==",
+                    "description": "Ansible Role - Composer PHP Dependency Manager",
+                    "createdAt": "2014-02-28T22:30:56Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 33
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/certbot/",
+                    "forks": {
+                        "totalCount": 10
+                    },
+                    "name": "ansible-role-certbot",
+                    "watchers": {
+                        "totalCount": 5
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-21T23:43:43Z",
+                    "contribution": {
+                        "total_commits": 18,
+                        "dels": 144,
+                        "adds": 350,
+                        "num_of_weeks": 6
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MzQyODg4Mw==",
+                    "description": "Ansible Role - Certbot (for Let's Encrypt)",
+                    "createdAt": "2016-03-08T16:49:38Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 35
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/elasticsearch/",
+                    "forks": {
+                        "totalCount": 51
+                    },
+                    "name": "ansible-role-elasticsearch",
+                    "watchers": {
+                        "totalCount": 8
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-11T15:04:53Z",
+                    "contribution": {
+                        "total_commits": 34,
+                        "dels": 220,
+                        "adds": 398,
+                        "num_of_weeks": 13
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMzIzNzQ4Ng==",
+                    "description": "Ansible Role - Elasticsearch",
+                    "createdAt": "2014-08-22T19:38:34Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 741
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://ansiblefordevops.com/",
+                    "forks": {
+                        "totalCount": 216
+                    },
+                    "name": "ansible-for-devops",
+                    "watchers": {
+                        "totalCount": 102
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 8948,
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 65441,
+                                "node": {
+                                    "name": "Python",
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 830,
+                                "node": {
+                                    "name": "JavaScript",
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 1713,
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-23T21:16:46Z",
+                    "contribution": {
+                        "total_commits": 110,
+                        "dels": 2571,
+                        "adds": 6796,
+                        "num_of_weeks": 43
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxOTEzMDM2Mg==",
+                    "description": "Ansible examples from Ansible for DevOps.",
+                    "createdAt": "2014-04-25T01:44:25Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python",
+                        "color": "#3572A5"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 14
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/gogs/",
+                    "forks": {
+                        "totalCount": 5
+                    },
+                    "name": "ansible-role-gogs",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-02T06:20:43Z",
+                    "contribution": {
+                        "total_commits": 38,
+                        "dels": 345,
+                        "adds": 636,
+                        "num_of_weeks": 12
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxOTMxNTc4MQ==",
+                    "description": "Ansible Role - Gogs: Go Git Service",
+                    "createdAt": "2014-04-30T14:13:45Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 20
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/drush/",
+                    "forks": {
+                        "totalCount": 30
+                    },
+                    "name": "ansible-role-drush",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-12-02T18:53:27Z",
+                    "contribution": {
+                        "total_commits": 40,
+                        "dels": 160,
+                        "adds": 372,
+                        "num_of_weeks": 21
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMwNjU5NQ==",
+                    "description": "Ansible Role - Drush for Drupal",
+                    "createdAt": "2014-03-01T03:11:46Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 110
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/security/",
+                    "forks": {
+                        "totalCount": 31
+                    },
+                    "name": "ansible-role-security",
+                    "watchers": {
+                        "totalCount": 17
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-22T21:22:34Z",
+                    "contribution": {
+                        "total_commits": 30,
+                        "dels": 212,
+                        "adds": 505,
+                        "num_of_weeks": 17
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMDgyNDQyMw==",
+                    "description": "Ansible Role - Security",
+                    "createdAt": "2014-06-14T03:44:50Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 98
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/gitlab/",
+                    "forks": {
+                        "totalCount": 84
+                    },
+                    "name": "ansible-role-gitlab",
+                    "watchers": {
+                        "totalCount": 5
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-20T03:54:28Z",
+                    "contribution": {
+                        "total_commits": 42,
+                        "dels": 882,
+                        "adds": 1157,
+                        "num_of_weeks": 14
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzY3NTc1Ng==",
+                    "description": "Ansible Role - GitLab",
+                    "createdAt": "2014-03-12T17:18:06Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 10
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/php-mysql/",
+                    "forks": {
+                        "totalCount": 12
+                    },
+                    "name": "ansible-role-php-mysql",
+                    "watchers": {
+                        "totalCount": 4
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-12-29T12:58:10Z",
+                    "contribution": {
+                        "total_commits": 44,
+                        "dels": 249,
+                        "adds": 431,
+                        "num_of_weeks": 16
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMwNjc5Mw==",
+                    "description": "Ansible Role - PHP MySQL support",
+                    "createdAt": "2014-03-01T03:24:12Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 6
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/daemonize/",
+                    "forks": {
+                        "totalCount": 7
+                    },
+                    "name": "ansible-role-daemonize",
+                    "watchers": {
+                        "totalCount": 4
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-02T15:37:16Z",
+                    "contribution": {
+                        "total_commits": 27,
+                        "dels": 203,
+                        "adds": 385,
+                        "num_of_weeks": 8
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyODE0MjU5Nw==",
+                    "description": "Ansible Role - Daemonize.",
+                    "createdAt": "2014-12-17T15:19:10Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 42
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/ntp/",
+                    "forks": {
+                        "totalCount": 34
+                    },
+                    "name": "ansible-role-ntp",
+                    "watchers": {
+                        "totalCount": 9
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-18T14:50:00Z",
+                    "contribution": {
+                        "total_commits": 35,
+                        "dels": 242,
+                        "adds": 490,
+                        "num_of_weeks": 16
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzQ0NTcyOA==",
+                    "description": "Ansible Role - NTP",
+                    "createdAt": "2014-03-05T15:49:42Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 36
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "forks": {
+                        "totalCount": 10
+                    },
+                    "name": "drupal-pi",
+                    "watchers": {
+                        "totalCount": 6
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-10-16T19:15:43Z",
+                    "contribution": {
+                        "total_commits": 70,
+                        "dels": 782,
+                        "adds": 1333,
+                        "num_of_weeks": 16
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNzkyOTY5NA==",
+                    "description": "Drupal on a single Raspberry Pi.",
+                    "createdAt": "2015-06-23T16:06:45Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 8
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/svn/",
+                    "forks": {
+                        "totalCount": 5
+                    },
+                    "name": "ansible-role-svn",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 2037,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2016-11-13T19:37:41Z",
+                    "contribution": {
+                        "total_commits": 21,
+                        "dels": 148,
+                        "adds": 463,
+                        "num_of_weeks": 8
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxODA2NzkxMg==",
+                    "description": "Ansible Role - SVN",
+                    "createdAt": "2014-03-24T15:46:01Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 7
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/drupal-console/",
+                    "forks": {
+                        "totalCount": 11
+                    },
+                    "name": "ansible-role-drupal-console",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-23T15:05:43Z",
+                    "contribution": {
+                        "total_commits": 28,
+                        "dels": 94,
+                        "adds": 294,
+                        "num_of_weeks": 12
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNTM0NDkwNQ==",
+                    "description": "Ansible Role - Drupal Console",
+                    "createdAt": "2015-05-09T20:48:32Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 8
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/passenger/",
+                    "forks": {
+                        "totalCount": 7
+                    },
+                    "name": "ansible-role-passenger",
+                    "watchers": {
+                        "totalCount": 0
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-14T14:07:27Z",
+                    "contribution": {
+                        "total_commits": 35,
+                        "dels": 173,
+                        "adds": 514,
+                        "num_of_weeks": 7
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzMDM2ODM0Mg==",
+                    "description": "Ansible Role - Passenger with Nginx",
+                    "createdAt": "2015-02-05T17:28:27Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/exim/",
+                    "forks": {
+                        "totalCount": 6
+                    },
+                    "name": "ansible-role-exim",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-23T15:06:37Z",
+                    "contribution": {
+                        "total_commits": 22,
+                        "dels": 197,
+                        "adds": 381,
+                        "num_of_weeks": 6
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0MTIzMjkxMg==",
+                    "description": "Ansible Role - Exim",
+                    "createdAt": "2015-08-23T02:42:19Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 6
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/filebeat/",
+                    "forks": {
+                        "totalCount": 8
+                    },
+                    "name": "ansible-role-filebeat",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-07T23:48:52Z",
+                    "contribution": {
+                        "total_commits": 15,
+                        "dels": 105,
+                        "adds": 496,
+                        "num_of_weeks": 6
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NzMyNTMyMA==",
+                    "description": "Ansible Role - Filebeat for ELK stack",
+                    "createdAt": "2016-09-04T04:20:14Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/svn2git/",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "ansible-role-svn2git",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-23T15:13:49Z",
+                    "contribution": {
+                        "total_commits": 21,
+                        "dels": 138,
+                        "adds": 318,
+                        "num_of_weeks": 7
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxODEwMDg4Mw==",
+                    "description": "Ansible Role - Svn2Git (from KDE)",
+                    "createdAt": "2014-03-25T13:19:08Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 27
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/dotfiles/",
+                    "forks": {
+                        "totalCount": 24
+                    },
+                    "name": "ansible-role-dotfiles",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-12-29T11:59:42Z",
+                    "contribution": {
+                        "total_commits": 17,
+                        "dels": 73,
+                        "adds": 240,
+                        "num_of_weeks": 7
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyODczNTM1Mg==",
+                    "description": "Ansible Role - Easy and flexible dotfile installation.",
+                    "createdAt": "2015-01-03T04:55:38Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 8
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "forks": {
+                        "totalCount": 6
+                    },
+                    "name": "docker-examples",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1036,
+                                "node": {
+                                    "name": "Python",
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 252,
+                                "node": {
+                                    "name": "HTML",
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 23,
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2016-09-29T09:14:35Z",
+                    "contribution": {
+                        "total_commits": 14,
+                        "dels": 63,
+                        "adds": 515,
+                        "num_of_weeks": 3
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NDgxMjk2Ng==",
+                    "description": "There are many like it, but this one is mine.",
+                    "createdAt": "2016-08-03T03:44:40Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python",
+                        "color": "#3572A5"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 29
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/nfs/",
+                    "forks": {
+                        "totalCount": 33
+                    },
+                    "name": "ansible-role-nfs",
+                    "watchers": {
+                        "totalCount": 5
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-23T10:33:21Z",
+                    "contribution": {
+                        "total_commits": 27,
+                        "dels": 122,
+                        "adds": 299,
+                        "num_of_weeks": 12
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzQyNjkyNw==",
+                    "description": "Ansible Role - NFS",
+                    "createdAt": "2014-03-05T03:38:40Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 31
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/ruby/",
+                    "forks": {
+                        "totalCount": 28
+                    },
+                    "name": "ansible-role-ruby",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 120,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-20T05:15:49Z",
+                    "contribution": {
+                        "total_commits": 36,
+                        "dels": 282,
+                        "adds": 621,
+                        "num_of_weeks": 17
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzUxNjU2Mg==",
+                    "description": "Ansible Role - Ruby",
+                    "createdAt": "2014-03-07T14:34:16Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/blackfire/",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "ansible-role-blackfire",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-23T15:04:01Z",
+                    "contribution": {
+                        "total_commits": 17,
+                        "dels": 163,
+                        "adds": 352,
+                        "num_of_weeks": 5
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1ODQ5MzI4Mw==",
+                    "description": "Ansible Role - Blackfire PHP Profiler",
+                    "createdAt": "2016-05-10T21:00:16Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 28
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "name": "macbook-pro-battery-test",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 2081,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-21T12:36:05Z",
+                    "contribution": {
+                        "total_commits": 9,
+                        "dels": 16,
+                        "adds": 157,
+                        "num_of_weeks": 2
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3ODMwMjcxMA==",
+                    "description": "Test script to emulate a relatively heavy workload for battery life testing.",
+                    "createdAt": "2017-01-07T20:44:22Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 35
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/homebrew/",
+                    "forks": {
+                        "totalCount": 50
+                    },
+                    "name": "ansible-role-homebrew",
+                    "watchers": {
+                        "totalCount": 6
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-12-23T19:01:27Z",
+                    "contribution": {
+                        "total_commits": 27,
+                        "dels": 141,
+                        "adds": 419,
+                        "num_of_weeks": 11
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNDc0NTc5Nw==",
+                    "description": "Ansible Role - Homebrew for Mac",
+                    "createdAt": "2014-10-03T03:37:29Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 88
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "forks": {
+                        "totalCount": 43
+                    },
+                    "name": "dotfiles",
+                    "watchers": {
+                        "totalCount": 5
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3329,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 1880,
+                                "node": {
+                                    "name": "VimL",
+                                    "color": "#199f4b",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTU="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-20T13:32:40Z",
+                    "contribution": {
+                        "total_commits": 52,
+                        "dels": 171,
+                        "adds": 848,
+                        "num_of_weeks": 31
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTgwMDc4OQ==",
+                    "description": "My configuration. Minimalist, but helps save a few thousand keystrokes a day.",
+                    "createdAt": "2014-01-10T14:59:39Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 44
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/logstash/",
+                    "forks": {
+                        "totalCount": 46
+                    },
+                    "name": "ansible-role-logstash",
+                    "watchers": {
+                        "totalCount": 6
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-20T10:19:19Z",
+                    "contribution": {
+                        "total_commits": 41,
+                        "dels": 371,
+                        "adds": 765,
+                        "num_of_weeks": 17
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMzIzODQ5MA==",
+                    "description": "Ansible Role - Logstash",
+                    "createdAt": "2014-08-22T20:14:03Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 16
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/kibana/",
+                    "forks": {
+                        "totalCount": 27
+                    },
+                    "name": "ansible-role-kibana",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-11T15:04:03Z",
+                    "contribution": {
+                        "total_commits": 22,
+                        "dels": 367,
+                        "adds": 642,
+                        "num_of_weeks": 12
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMzIzODEzNg==",
+                    "description": "Ansible Role - Kibana",
+                    "createdAt": "2014-08-22T20:00:26Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 8
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/list#/roles/4340",
+                    "forks": {
+                        "totalCount": 11
+                    },
+                    "name": "ansible-role-selenium",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3548,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-11T23:36:13Z",
+                    "contribution": {
+                        "total_commits": 5,
+                        "dels": 57,
+                        "adds": 127,
+                        "num_of_weeks": 4
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzODgxOTY2Nw==",
+                    "description": "Ansible Role Selenium",
+                    "createdAt": "2015-07-09T12:45:38Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 53
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/repo-epel/",
+                    "forks": {
+                        "totalCount": 45
+                    },
+                    "name": "ansible-role-repo-epel",
+                    "watchers": {
+                        "totalCount": 5
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-14T22:38:08Z",
+                    "contribution": {
+                        "total_commits": 16,
+                        "dels": 126,
+                        "adds": 236,
+                        "num_of_weeks": 8
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMwNjk4Ng==",
+                    "description": "Ansible Role - EPEL Repository for RHEL/CentOS",
+                    "createdAt": "2014-03-01T03:38:19Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 72
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://files.midwesternmac.com/",
+                    "forks": {
+                        "totalCount": 37
+                    },
+                    "name": "packer-ubuntu-1604",
+                    "watchers": {
+                        "totalCount": 7
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 944,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-15T18:32:17Z",
+                    "contribution": {
+                        "total_commits": 13,
+                        "dels": 79,
+                        "adds": 432,
+                        "num_of_weeks": 8
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1Njc4MTU3OQ==",
+                    "description": "Packer Example - Ubuntu 16.04 minimal Vagrant Box using Ansible provisioner",
+                    "createdAt": "2016-04-21T14:43:33Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 26
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/drupal/",
+                    "forks": {
+                        "totalCount": 17
+                    },
+                    "name": "ansible-role-drupal",
+                    "watchers": {
+                        "totalCount": 7
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 425,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2016-12-21T20:39:33Z",
+                    "contribution": {
+                        "total_commits": 42,
+                        "dels": 193,
+                        "adds": 528,
+                        "num_of_weeks": 16
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMDA4NjQ2OA==",
+                    "description": "Ansible Role - Drupal",
+                    "createdAt": "2014-05-23T04:11:07Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 69
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://files.midwesternmac.com/",
+                    "forks": {
+                        "totalCount": 52
+                    },
+                    "name": "packer-centos-7",
+                    "watchers": {
+                        "totalCount": 8
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 406,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-19T03:22:13Z",
+                    "contribution": {
+                        "total_commits": 27,
+                        "dels": 73,
+                        "adds": 382,
+                        "num_of_weeks": 16
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNTk4Nzc1Mw==",
+                    "description": "Packer Example - CentOS 7 minimal Vagrant Box using Ansible provisioner",
+                    "createdAt": "2014-10-30T20:09:01Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 35
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/redis/",
+                    "forks": {
+                        "totalCount": 37
+                    },
+                    "name": "ansible-role-redis",
+                    "watchers": {
+                        "totalCount": 4
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-23T15:13:36Z",
+                    "contribution": {
+                        "total_commits": 30,
+                        "dels": 145,
+                        "adds": 428,
+                        "num_of_weeks": 12
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzQ4NDkwMA==",
+                    "description": "Ansible Role - Redis",
+                    "createdAt": "2014-03-06T16:47:43Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 13
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/munin-node/",
+                    "forks": {
+                        "totalCount": 7
+                    },
+                    "name": "ansible-role-munin-node",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-15T11:50:32Z",
+                    "contribution": {
+                        "total_commits": 28,
+                        "dels": 220,
+                        "adds": 465,
+                        "num_of_weeks": 13
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzgxNTU0NQ==",
+                    "description": "Ansible Role - Munin node",
+                    "createdAt": "2014-03-17T02:56:56Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 14
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/phpmyadmin/",
+                    "forks": {
+                        "totalCount": 11
+                    },
+                    "name": "ansible-role-phpmyadmin",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-20T03:53:13Z",
+                    "contribution": {
+                        "total_commits": 25,
+                        "dels": 141,
+                        "adds": 408,
+                        "num_of_weeks": 11
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzQ0MzA5Mg==",
+                    "description": "Ansible Role - phpMyAdmin",
+                    "createdAt": "2014-03-05T14:25:22Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 15
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/php-pecl/",
+                    "forks": {
+                        "totalCount": 18
+                    },
+                    "name": "ansible-role-php-pecl",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-07T19:23:28Z",
+                    "contribution": {
+                        "total_commits": 21,
+                        "dels": 100,
+                        "adds": 272,
+                        "num_of_weeks": 12
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzM5MDY0OA==",
+                    "description": "Ansible Role - PHP PECL extension",
+                    "createdAt": "2014-03-04T04:44:38Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 304
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "forks": {
+                        "totalCount": 50
+                    },
+                    "name": "macos-virtualbox-vm",
+                    "watchers": {
+                        "totalCount": 7
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 6912,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-24T00:58:37Z",
+                    "contribution": {
+                        "total_commits": 5,
+                        "dels": 17,
+                        "adds": 110,
+                        "num_of_weeks": 3
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzMzcwMzI5OA==",
+                    "description": "Instructions and script to help you create a VirtualBox VM running macOS.",
+                    "createdAt": "2015-04-10T02:12:36Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 15
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/haproxy/",
+                    "forks": {
+                        "totalCount": 32
+                    },
+                    "name": "ansible-role-haproxy",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-06T19:55:38Z",
+                    "contribution": {
+                        "total_commits": 15,
+                        "dels": 91,
+                        "adds": 366,
+                        "num_of_weeks": 7
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzOTI4NjU0MQ==",
+                    "description": "Ansible Role - HAProxy",
+                    "createdAt": "2015-07-18T04:27:59Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 70
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://files.midwesternmac.com/",
+                    "forks": {
+                        "totalCount": 42
+                    },
+                    "name": "packer-centos-6",
+                    "watchers": {
+                        "totalCount": 6
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 508,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-17T21:24:51Z",
+                    "contribution": {
+                        "total_commits": 27,
+                        "dels": 140,
+                        "adds": 421,
+                        "num_of_weeks": 16
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxODIzMzM5Nw==",
+                    "description": "Packer Example - CentOS 6 minimal Vagrant Box using Ansible provisioner",
+                    "createdAt": "2014-03-29T03:19:18Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 8
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/ansible/",
+                    "forks": {
+                        "totalCount": 6
+                    },
+                    "name": "ansible-role-ansible",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-12T09:54:15Z",
+                    "contribution": {
+                        "total_commits": 18,
+                        "dels": 84,
+                        "adds": 234,
+                        "num_of_weeks": 10
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMDU5Njg1Mg==",
+                    "description": "Ansible Role - Ansible",
+                    "createdAt": "2014-06-07T16:04:27Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 8
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/php-redis/",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "ansible-role-php-redis",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 573,
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-09T03:48:54Z",
+                    "contribution": {
+                        "total_commits": 16,
+                        "dels": 100,
+                        "adds": 371,
+                        "num_of_weeks": 7
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0Nzg5NjA1MA==",
+                    "description": "Ansible Role - PhpRedis",
+                    "createdAt": "2015-12-12T21:55:50Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP",
+                        "color": "#4F5D95"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 10
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/apache-php-fpm/",
+                    "forks": {
+                        "totalCount": 7
+                    },
+                    "name": "ansible-role-apache-php-fpm",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-12T09:56:48Z",
+                    "contribution": {
+                        "total_commits": 24,
+                        "dels": 212,
+                        "adds": 386,
+                        "num_of_weeks": 7
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0OTYyMDQyOA==",
+                    "description": "Apache FastCGI support for PHP-FPM",
+                    "createdAt": "2016-01-14T03:34:11Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 6
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/php-pear/",
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "name": "ansible-role-php-pear",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-22T02:02:03Z",
+                    "contribution": {
+                        "total_commits": 15,
+                        "dels": 91,
+                        "adds": 270,
+                        "num_of_weeks": 7
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzM5MDUwMA==",
+                    "description": "Ansible Role - PHP PEAR library installation",
+                    "createdAt": "2014-03-04T04:37:12Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 11
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/sonar/",
+                    "forks": {
+                        "totalCount": 16
+                    },
+                    "name": "ansible-role-sonar",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-09-02T19:11:02Z",
+                    "contribution": {
+                        "total_commits": 25,
+                        "dels": 305,
+                        "adds": 544,
+                        "num_of_weeks": 7
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMDk3MTA3Mg==",
+                    "description": "Ansible Role - SonarQube",
+                    "createdAt": "2014-06-18T17:20:29Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 10
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/elasticsearch-curator/",
+                    "forks": {
+                        "totalCount": 13
+                    },
+                    "name": "ansible-role-elasticsearch-curator",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-15T11:48:02Z",
+                    "contribution": {
+                        "total_commits": 18,
+                        "dels": 83,
+                        "adds": 252,
+                        "num_of_weeks": 10
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMzQyOTg0Ng==",
+                    "description": "Ansible Role - Elasticsearch Curator",
+                    "createdAt": "2014-08-28T13:57:15Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 16
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/munin/",
+                    "forks": {
+                        "totalCount": 13
+                    },
+                    "name": "ansible-role-munin",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-15T11:52:58Z",
+                    "contribution": {
+                        "total_commits": 19,
+                        "dels": 122,
+                        "adds": 447,
+                        "num_of_weeks": 12
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxOTY3MzU4Ng==",
+                    "description": "Ansible Role - Munin",
+                    "createdAt": "2014-05-11T18:11:35Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 6
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/samba/",
+                    "forks": {
+                        "totalCount": 5
+                    },
+                    "name": "ansible-role-samba",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-23T15:13:40Z",
+                    "contribution": {
+                        "total_commits": 13,
+                        "dels": 137,
+                        "adds": 275,
+                        "num_of_weeks": 9
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMwNzExNg==",
+                    "description": "Ansible Role - Samba",
+                    "createdAt": "2014-03-01T03:46:38Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://www.drupalvm.com/",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "drupalvm.github.io",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 245,
+                                "node": {
+                                    "name": "ApacheConf",
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0MTg="
+                                }
+                            },
+                            {
+                                "size": 133642,
+                                "node": {
+                                    "name": "CSS",
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 14898,
+                                "node": {
+                                    "name": "HTML",
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 43061,
+                                "node": {
+                                    "name": "JavaScript",
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2016-12-10T16:52:59Z",
+                    "contribution": {
+                        "total_commits": 9,
+                        "dels": 43,
+                        "adds": 16657,
+                        "num_of_weeks": 6
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1ODgzOTQ5MA==",
+                    "description": "Drupal VM static site",
+                    "createdAt": "2016-05-15T02:03:57Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                        "name": "CSS",
+                        "color": "#563d7c"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 24
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/packer-rhel/",
+                    "forks": {
+                        "totalCount": 17
+                    },
+                    "name": "ansible-role-packer-rhel",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-09T09:25:33Z",
+                    "contribution": {
+                        "total_commits": 21,
+                        "dels": 111,
+                        "adds": 442,
+                        "num_of_weeks": 13
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxODIyMTU1Ng==",
+                    "description": "Ansible Role - Packer RHEL/CentOS Configuration for Vagrant VirtualBox",
+                    "createdAt": "2014-03-28T18:05:05Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/php-memcached/",
+                    "forks": {
+                        "totalCount": 11
+                    },
+                    "name": "ansible-role-php-memcached",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 765,
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2016-10-22T04:30:04Z",
+                    "contribution": {
+                        "total_commits": 16,
+                        "dels": 91,
+                        "adds": 280,
+                        "num_of_weeks": 9
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNTE2Mzc4OA==",
+                    "description": "Ansible Role - PHP Memcached",
+                    "createdAt": "2014-10-13T15:10:45Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP",
+                        "color": "#4F5D95"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 24
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/memcached/",
+                    "forks": {
+                        "totalCount": 30
+                    },
+                    "name": "ansible-role-memcached",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-12-20T09:35:34Z",
+                    "contribution": {
+                        "total_commits": 12,
+                        "dels": 107,
+                        "adds": 307,
+                        "num_of_weeks": 7
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNTE2MDM3MA==",
+                    "description": "Ansible Role - Memcached",
+                    "createdAt": "2014-10-13T13:45:58Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://hub.docker.com/r/geerlingguy/docker-ubuntu1404-ansible/",
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "docker-ubuntu1404-ansible",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-10-14T15:48:10Z",
+                    "contribution": {
+                        "total_commits": 8,
+                        "dels": 35,
+                        "adds": 109,
+                        "num_of_weeks": 2
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2Njc4ODcyNQ==",
+                    "description": "Ubuntu 14.04 LTS (Trusty) Docker container for Ansible playbook and role testing.",
+                    "createdAt": "2016-08-28T20:16:38Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/sonar-runner/",
+                    "forks": {
+                        "totalCount": 4
+                    },
+                    "name": "ansible-role-sonar-runner",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 135,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2016-11-23T15:13:45Z",
+                    "contribution": {
+                        "total_commits": 13,
+                        "dels": 97,
+                        "adds": 299,
+                        "num_of_weeks": 8
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMDk2OTI3MQ==",
+                    "description": "Ansible Role - SonarQube Runner",
+                    "createdAt": "2014-06-18T16:23:01Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://hub.docker.com/r/geerlingguy/docker-debian8-ansible/",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "docker-debian8-ansible",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 425,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2016-10-31T21:13:35Z",
+                    "contribution": {
+                        "total_commits": 7,
+                        "dels": 8,
+                        "adds": 112,
+                        "num_of_weeks": 5
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NzA0MTI0Ng==",
+                    "description": "Debian 8 (Jessie) Docker container for Ansible playbook and role testing.",
+                    "createdAt": "2016-08-31T13:45:05Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 69
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://files.midwesternmac.com/",
+                    "forks": {
+                        "totalCount": 41
+                    },
+                    "name": "packer-ubuntu-1404",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 847,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-15T05:12:49Z",
+                    "contribution": {
+                        "total_commits": 26,
+                        "dels": 115,
+                        "adds": 432,
+                        "num_of_weeks": 16
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMjg0NTU0OQ==",
+                    "description": "Packer Example - Ubuntu 14.04 minimal Vagrant Box using Ansible provisioner",
+                    "createdAt": "2014-08-11T16:11:38Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 123
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://www.midwesternmac.com/ping",
+                    "forks": {
+                        "totalCount": 73
+                    },
+                    "name": "Ping",
+                    "watchers": {
+                        "totalCount": 13
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 11870,
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-05T12:18:06Z",
+                    "contribution": {
+                        "total_commits": 28,
+                        "dels": 430,
+                        "adds": 941,
+                        "num_of_weeks": 12
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2MDM2MjMy",
+                    "description": "A PHP class to ping hosts.",
+                    "createdAt": "2012-10-01T20:58:47Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP",
+                        "color": "#4F5D95"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/repo-dotdeb/",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "ansible-role-repo-dotdeb",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-22T02:02:42Z",
+                    "contribution": {
+                        "total_commits": 7,
+                        "dels": 22,
+                        "adds": 140,
+                        "num_of_weeks": 3
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2ODMxNjIwOA==",
+                    "description": "Ansible Role - DotDeb repo for Debian",
+                    "createdAt": "2016-09-15T17:35:11Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 16
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/packer-debian/",
+                    "forks": {
+                        "totalCount": 10
+                    },
+                    "name": "ansible-role-packer-debian",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-15T11:53:23Z",
+                    "contribution": {
+                        "total_commits": 17,
+                        "dels": 99,
+                        "adds": 389,
+                        "num_of_weeks": 13
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMDMwNzE3Mw==",
+                    "description": "Ansible Role - Packer Debian/Ubuntu Configuration for Vagrant VirtualBox",
+                    "createdAt": "2014-05-29T20:18:38Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 6
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/mas/",
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "ansible-role-mas",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-12-29T11:56:06Z",
+                    "contribution": {
+                        "total_commits": 5,
+                        "dels": 59,
+                        "adds": 306,
+                        "num_of_weeks": 2
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3NTY2MzE0OQ==",
+                    "description": "Ansible Role - Mac App Store CLI.",
+                    "createdAt": "2016-12-05T20:25:00Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/phergie/",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "ansible-role-phergie",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-22T02:01:54Z",
+                    "contribution": {
+                        "total_commits": 12,
+                        "dels": 159,
+                        "adds": 515,
+                        "num_of_weeks": 8
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzkwNzkyNA==",
+                    "description": "Ansible Role - Phergie PHP bot",
+                    "createdAt": "2014-03-19T14:48:50Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://hub.docker.com/r/geerlingguy/docker-centos6-ansible/",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "docker-centos6-ansible",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-08-28T19:51:50Z",
+                    "contribution": {
+                        "total_commits": 7,
+                        "dels": 6,
+                        "adds": 79,
+                        "num_of_weeks": 3
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2Njc4NzQwNg==",
+                    "description": "CentOS 6.x Docker container for Ansible playbook and role testing.",
+                    "createdAt": "2016-08-28T19:45:07Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 818
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "forks": {
+                        "totalCount": 237
+                    },
+                    "name": "ansible-vagrant-examples",
+                    "watchers": {
+                        "totalCount": 61
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 14557,
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 283,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 252,
+                                "node": {
+                                    "name": "HTML",
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-23T10:47:52Z",
+                    "contribution": {
+                        "total_commits": 97,
+                        "dels": 916,
+                        "adds": 3227,
+                        "num_of_weeks": 37
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzc0OTczMw==",
+                    "description": "Ansible examples using Vagrant to deploy to local VMs.",
+                    "createdAt": "2014-03-14T14:56:56Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                        "name": "Ruby",
+                        "color": "#701516"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://hub.docker.com/r/geerlingguy/docker-ubuntu1204-ansible/",
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "docker-ubuntu1204-ansible",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-23T15:31:38Z",
+                    "contribution": {
+                        "total_commits": 5,
+                        "dels": 6,
+                        "adds": 82,
+                        "num_of_weeks": 2
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2Njc4ODQyNA==",
+                    "description": "Ubuntu 12.04 LTS (Precise) Docker container for Ansible playbook and role testing.",
+                    "createdAt": "2016-08-28T20:09:17Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 6
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/pimpmylog/",
+                    "forks": {
+                        "totalCount": 6
+                    },
+                    "name": "ansible-role-pimpmylog",
+                    "watchers": {
+                        "totalCount": 0
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-23T15:13:29Z",
+                    "contribution": {
+                        "total_commits": 9,
+                        "dels": 59,
+                        "adds": 216,
+                        "num_of_weeks": 7
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNDQ4MzA1MQ==",
+                    "description": "Ansible Role - Pimp my Log",
+                    "createdAt": "2015-04-23T21:42:01Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/php-tideways/",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "ansible-role-php-tideways",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1155,
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-14T09:22:37Z",
+                    "contribution": {
+                        "total_commits": 3,
+                        "dels": 31,
+                        "adds": 329,
+                        "num_of_weeks": 2
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3ODkxNTU2MA==",
+                    "description": "Ansible Role - Tideways PHP Extension",
+                    "createdAt": "2017-01-14T05:13:25Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP",
+                        "color": "#4F5D95"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://hub.docker.com/r/geerlingguy/docker-centos7-ansible/",
+                    "forks": {
+                        "totalCount": 9
+                    },
+                    "name": "docker-centos7-ansible",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-10-22T20:07:44Z",
+                    "contribution": {
+                        "total_commits": 6,
+                        "dels": 6,
+                        "adds": 92,
+                        "num_of_weeks": 3
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2Njc4Nzg0OA==",
+                    "description": "CentOS 7.x Docker container for Ansible playbook and role testing.",
+                    "createdAt": "2016-08-28T19:56:04Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://files.midwesternmac.com/",
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "packer-ubuntu-1204",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 917,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2016-10-29T13:29:12Z",
+                    "contribution": {
+                        "total_commits": 21,
+                        "dels": 58,
+                        "adds": 390,
+                        "num_of_weeks": 14
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNjM0NzQwOA==",
+                    "description": "Packer Example - Ubuntu 12.04 minimal Vagrant Box using Ansible provisioner ",
+                    "createdAt": "2014-11-08T02:35:18Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "backup-pi",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-15T19:00:27Z",
+                    "contribution": {
+                        "total_commits": 5,
+                        "dels": 5,
+                        "adds": 122,
+                        "num_of_weeks": 2
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3MTUwMjA5Mw==",
+                    "description": "Use a Raspberry Pi for backups.",
+                    "createdAt": "2016-10-20T20:33:30Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 80
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "forks": {
+                        "totalCount": 31
+                    },
+                    "name": "JJG-Ansible-Windows",
+                    "watchers": {
+                        "totalCount": 8
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 2269,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2016-11-14T16:11:21Z",
+                    "contribution": {
+                        "total_commits": 19,
+                        "dels": 42,
+                        "adds": 161,
+                        "num_of_weeks": 12
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTg5MTYyMQ==",
+                    "description": "[DEPRECATED] Windows shell provisioning script to bootstrap Ansible from within a Vagrant VM.",
+                    "createdAt": "2014-01-14T04:12:44Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 13
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/raspberry-pi/",
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "ansible-role-raspberry-pi",
+                    "watchers": {
+                        "totalCount": 6
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-16T04:21:48Z",
+                    "contribution": {
+                        "total_commits": 9,
+                        "dels": 12,
+                        "adds": 144,
+                        "num_of_weeks": 5
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0NzY2ODY4OQ==",
+                    "description": "Configures a Raspberry Pi (running Raspbian).",
+                    "createdAt": "2015-12-09T04:36:15Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/php-pgsql/",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "ansible-role-php-pgsql",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-23T15:13:18Z",
+                    "contribution": {
+                        "total_commits": 5,
+                        "dels": 4,
+                        "adds": 177,
+                        "num_of_weeks": 3
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2OTcwOTQxNA==",
+                    "description": "Ansible Role - PHP support for PostgreSQL.",
+                    "createdAt": "2016-09-30T23:44:15Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 6
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/tomcat6/",
+                    "forks": {
+                        "totalCount": 8
+                    },
+                    "name": "ansible-role-tomcat6",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-11-17T20:00:56Z",
+                    "contribution": {
+                        "total_commits": 29,
+                        "dels": 65,
+                        "adds": 398,
+                        "num_of_weeks": 16
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMxOTU4NQ==",
+                    "description": "Ansible Role - Tomcat 6 (DEPRECATED)",
+                    "createdAt": "2014-03-01T17:04:22Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 11
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/postfix/",
+                    "forks": {
+                        "totalCount": 10
+                    },
+                    "name": "ansible-role-postfix",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-10-22T04:34:56Z",
+                    "contribution": {
+                        "total_commits": 10,
+                        "dels": 52,
+                        "adds": 167,
+                        "num_of_weeks": 8
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxOTk2NTA3Mg==",
+                    "description": "Ansible Role - Postfix",
+                    "createdAt": "2014-05-20T02:36:03Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/repo-puias/",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "ansible-role-repo-puias",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2017-01-22T02:02:48Z",
+                    "contribution": {
+                        "total_commits": 9,
+                        "dels": 92,
+                        "adds": 203,
+                        "num_of_weeks": 7
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzQ3OTUwMQ==",
+                    "description": "Ansible Role - PUIAS Computational Repository for RHEL/CentOS",
+                    "createdAt": "2014-03-06T14:01:40Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 7
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/repo-remi/",
+                    "forks": {
+                        "totalCount": 14
+                    },
+                    "name": "ansible-role-repo-remi",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-12-23T22:34:58Z",
+                    "contribution": {
+                        "total_commits": 10,
+                        "dels": 99,
+                        "adds": 202,
+                        "num_of_weeks": 7
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMwNzAxMg==",
+                    "description": "Ansible Role - Remi RPM Repository for RHEL/CentOS",
+                    "createdAt": "2014-03-01T03:39:51Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/hdparm/",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "ansible-role-hdparm",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "updatedAt": "2016-10-24T21:42:00Z",
+                    "contribution": {
+                        "total_commits": 4,
+                        "dels": 3,
+                        "adds": 137,
+                        "num_of_weeks": 3
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3MTgyNzYxOQ==",
+                    "description": "Ansible Role - hdparm.",
+                    "createdAt": "2016-10-24T20:07:12Z",
+                    "primaryLanguage": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "topsecret",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 54565,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 7873,
+                                "node": {
+                                    "name": "ApacheConf",
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0MTg="
+                                }
+                            },
+                            {
+                                "size": 32069232,
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 50583,
+                                "node": {
+                                    "name": "C++",
+                                    "color": "#f34b7d",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                }
+                            },
+                            {
+                                "size": 1569238,
+                                "node": {
+                                    "name": "JavaScript",
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 504596,
+                                "node": {
+                                    "name": "CSS",
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 523634,
+                                "node": {
+                                    "name": "HTML",
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 124094,
+                                "node": {
+                                    "name": "CoffeeScript",
+                                    "color": "#244776",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU="
+                                }
+                            },
+                            {
+                                "size": 910,
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 21010,
+                                "node": {
+                                    "name": "Cucumber",
+                                    "color": "#5B2063",
+                                    "id": "MDg6TGFuZ3VhZ2U0MzY="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2016-04-29T15:41:32Z",
+                    "contribution": -1,
+                    "id": "MDEwOlJlcG9zaXRvcnk1NzM5NTMxNQ==",
+                    "description": null,
+                    "createdAt": "2016-04-29T15:40:23Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP",
+                        "color": "#4F5D95"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 6
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://hub.docker.com/r/geerlingguy/docker-ubuntu1604-ansible/",
+                    "forks": {
+                        "totalCount": 5
+                    },
+                    "name": "docker-ubuntu1604-ansible",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 425,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2016-12-22T01:09:29Z",
+                    "contribution": {
+                        "total_commits": 4,
+                        "dels": 3,
+                        "adds": 108,
+                        "num_of_weeks": 2
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2Njc4ODczNg==",
+                    "description": "Ubuntu 16.04 LTS (Xenial) Docker container for Ansible playbook and role testing.",
+                    "createdAt": "2016-08-28T20:16:53Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 25
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "forks": {
+                        "totalCount": 20
+                    },
+                    "name": "ansible-newrelic",
+                    "watchers": {
+                        "totalCount": 5
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 451,
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-20T22:41:54Z",
+                    "contribution": 0,
+                    "id": "MDEwOlJlcG9zaXRvcnkzNjIzMjEwOA==",
+                    "description": "Ansible role which installs and configures New Relic Server Monitoring Daemon",
+                    "createdAt": "2015-05-25T13:12:52Z",
+                    "primaryLanguage": {
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell",
+                        "color": "#89e051"
+                    }
+                }
+            }
+        ]
+    },
+    "email": "",
+    "pullRequests": {
+        "totalCount": 140
+    },
+    "gists": {
+        "totalCount": 15
+    },
+    "organizations": {
+        "totalCount": 3,
+        "nodes": [
+            {
+                "name": "flocknote",
+                "avatarURL": "https://avatars2.githubusercontent.com/u/838410?v=3",
+                "login": "flocknote",
+                "url": "https://github.com/flocknote"
+            },
+            {
+                "name": "Acquia PSO",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/1236592?v=3",
+                "login": "acquia-pso",
+                "url": "https://github.com/acquia-pso"
+            },
+            {
+                "name": "Open Source Catholic",
+                "avatarURL": "https://avatars1.githubusercontent.com/u/16409973?v=3",
+                "login": "opensourcecatholic",
+                "url": "https://github.com/opensourcecatholic"
+            }
+        ]
+    },
+    "bio": "Catholic dad and husband. I write, build, and tinker on a Mac. #stl #drupal #ansible #crohns",
+    "followers": {
+        "totalCount": 1199
+    }
+}

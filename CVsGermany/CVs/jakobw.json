@@ -1,0 +1,673 @@
+{
+    "organizations": {
+        "totalCount": 2,
+        "nodes": [
+            {
+                "login": "wmde",
+                "avatarURL": "https://avatars2.githubusercontent.com/u/664724?v=3",
+                "url": "https://github.com/wmde",
+                "name": "Wikimedia Deutschland e.V."
+            },
+            {
+                "login": "DataValues",
+                "avatarURL": "https://avatars1.githubusercontent.com/u/5956296?v=3",
+                "url": "https://github.com/DataValues",
+                "name": "DataValues"
+            }
+        ]
+    },
+    "location": "Berlin, Germany",
+    "email": "j.warkotsch@gmail.com",
+    "pullRequests": {
+        "totalCount": 160
+    },
+    "company": null,
+    "pinnedRepositories": {
+        "totalCount": 5,
+        "nodes": [
+            {
+                "name": "phragile"
+            },
+            {
+                "name": "Lizenzhinweisgenerator"
+            },
+            {
+                "name": "ALP-I"
+            },
+            {
+                "name": "borsig-tt"
+            },
+            {
+                "name": "whos-that-pokemon"
+            }
+        ]
+    },
+    "websiteURL": null,
+    "watching": {
+        "totalCount": 90
+    },
+    "avatarURL": "https://avatars1.githubusercontent.com/u/453024?v=3",
+    "starredRepositories": {
+        "totalCount": 45
+    },
+    "followers": {
+        "totalCount": 13
+    },
+    "login": "jakobw",
+    "following": {
+        "totalCount": 11
+    },
+    "contributedRepositories": {
+        "totalCount": 10,
+        "edges": [
+            {
+                "node": {
+                    "description": "Sprint overviews and data visualizations for Phabricator projects",
+                    "forks": {
+                        "totalCount": 4
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNTQ2MTM0OA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 26968
+                            },
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                                    "name": "PHP"
+                                },
+                                "size": 263279
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0MTg=",
+                                    "name": "ApacheConf"
+                                },
+                                "size": 356
+                            },
+                            {
+                                "node": {
+                                    "color": "#5B2063",
+                                    "id": "MDg6TGFuZ3VhZ2U0MzY=",
+                                    "name": "Cucumber"
+                                },
+                                "size": 18277
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 5177
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 1853
+                            },
+                            {
+                                "node": {
+                                    "color": "#9469E9",
+                                    "id": "MDg6TGFuZ3VhZ2U0MjE=",
+                                    "name": "Nginx"
+                                },
+                                "size": 1406
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "name": "PHP",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "updatedAt": "2017-01-04T01:39:22Z",
+                    "watchers": {
+                        "totalCount": 20
+                    },
+                    "stargazers": {
+                        "totalCount": 22
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "",
+                    "createdAt": "2014-10-20T10:24:04Z",
+                    "name": "phragile"
+                }
+            },
+            {
+                "node": {
+                    "description": "Make Gerrit send awesome clickbait instead of boring code review emails",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NzU5NDAxMw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 988
+                            },
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                                    "name": "PHP"
+                                },
+                                "size": 1590
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "name": "PHP",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "updatedAt": "2016-09-07T12:27:01Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 97,
+                        "total_commits": 14,
+                        "num_of_weeks": 1,
+                        "dels": 18
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-09-07T09:48:00Z",
+                    "name": "gerrit-clickbait"
+                }
+            },
+            {
+                "node": {
+                    "description": "An application that helps generating a legally correct attribution with images from Wikipedia, Wikimedia Commons or any other online resource.",
+                    "forks": {
+                        "totalCount": 4
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxMzQ5NTc1Ng==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 154295
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 19335
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 34644
+                            },
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                                    "name": "PHP"
+                                },
+                                "size": 5397
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "name": "JavaScript",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA="
+                    },
+                    "updatedAt": "2017-01-19T20:04:08Z",
+                    "watchers": {
+                        "totalCount": 26
+                    },
+                    "stargazers": {
+                        "totalCount": 10
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "https://lizenzhinweisgenerator.de/",
+                    "createdAt": "2013-10-11T10:06:00Z",
+                    "name": "Lizenzhinweisgenerator"
+                }
+            },
+            {
+                "node": {
+                    "description": "PHP implementation of the Wikibase Data Model",
+                    "forks": {
+                        "totalCount": 8
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTExMDc4OA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                                    "name": "PHP"
+                                },
+                                "size": 383558
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "name": "PHP",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "updatedAt": "2017-01-05T13:42:06Z",
+                    "watchers": {
+                        "totalCount": 25
+                    },
+                    "stargazers": {
+                        "totalCount": 18
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "http://wikiba.se/",
+                    "createdAt": "2013-12-11T15:20:51Z",
+                    "name": "WikibaseDataModel"
+                }
+            },
+            {
+                "node": {
+                    "description": "wp-content directory of the http://borsig-tt.de/ website based on WordPress.",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk4NjUyNzU5",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                                    "name": "PHP"
+                                },
+                                "size": 6394
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 24084
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 9385
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#563d7c",
+                        "name": "CSS",
+                        "id": "MDg6TGFuZ3VhZ2UzMDg="
+                    },
+                    "updatedAt": "2017-02-01T16:42:32Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 2225,
+                        "total_commits": 53,
+                        "num_of_weeks": 16,
+                        "dels": 96
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2013-03-08T14:43:32Z",
+                    "name": "borsig-tt"
+                }
+            },
+            {
+                "node": {
+                    "description": "A collection of services around Wikibase DataModel",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNzgzMzM3NQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                                    "name": "PHP"
+                                },
+                                "size": 245690
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "name": "PHP",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "updatedAt": "2016-10-28T10:26:20Z",
+                    "watchers": {
+                        "totalCount": 23
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "http://wikiba.se",
+                    "createdAt": "2015-06-22T01:47:49Z",
+                    "name": "WikibaseDataModelServices"
+                }
+            },
+            {
+                "node": {
+                    "description": ":dog: Hoodie Website",
+                    "forks": {
+                        "totalCount": 61
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNDE4MTc2Mw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 214455
+                            },
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "name": "Ruby"
+                                },
+                                "size": 3312
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 82926
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 11026
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "name": "HTML",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc="
+                    },
+                    "updatedAt": "2016-12-28T16:47:24Z",
+                    "watchers": {
+                        "totalCount": 61
+                    },
+                    "stargazers": {
+                        "totalCount": 62
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "http://hood.ie",
+                    "createdAt": "2014-09-18T09:17:03Z",
+                    "name": "hood.ie"
+                }
+            },
+            {
+                "node": {
+                    "description": "Pok\u00e9mon Showdown's Pok\u00e9dex",
+                    "forks": {
+                        "totalCount": 8
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NzMyOTE0OQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0MTg=",
+                                    "name": "ApacheConf"
+                                },
+                                "size": 1088
+                            },
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                                    "name": "PHP"
+                                },
+                                "size": 4210
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 123881
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 19295
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 2726
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "name": "JavaScript",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA="
+                    },
+                    "updatedAt": "2016-12-07T06:36:52Z",
+                    "watchers": {
+                        "totalCount": 7
+                    },
+                    "stargazers": {
+                        "totalCount": 7
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": null,
+                    "createdAt": "2016-09-04T06:20:21Z",
+                    "name": "Pokemon-Showdown-Dex"
+                }
+            },
+            {
+                "node": {
+                    "description": "MediaWiki extension boilerplate maker",
+                    "forks": {
+                        "totalCount": 4
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0NDk0NjY0MQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                                    "name": "PHP"
+                                },
+                                "size": 37972
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 2725
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 14050
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 1422
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "name": "PHP",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "updatedAt": "2016-12-23T22:30:46Z",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "stargazers": {
+                        "totalCount": 11
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2015-10-26T04:49:03Z",
+                    "name": "MWStew"
+                }
+            },
+            {
+                "node": {
+                    "description": "The Wikiba.se website",
+                    "forks": {
+                        "totalCount": 8
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMjg3NjQ4NA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 35905
+                            },
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                                    "name": "PHP"
+                                },
+                                "size": 1485
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 1770
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0MTg=",
+                                    "name": "ApacheConf"
+                                },
+                                "size": 79
+                            },
+                            {
+                                "node": {
+                                    "color": "#9cc9dd",
+                                    "id": "MDg6TGFuZ3VhZ2U0MjY=",
+                                    "name": "Web Ontology Language"
+                                },
+                                "size": 15557
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "name": "HTML",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc="
+                    },
+                    "updatedAt": "2016-12-22T04:57:09Z",
+                    "watchers": {
+                        "totalCount": 28
+                    },
+                    "stargazers": {
+                        "totalCount": 24
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "http://wikiba.se",
+                    "createdAt": "2014-08-12T12:28:26Z",
+                    "name": "Wikiba.se"
+                }
+            }
+        ],
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "MTA="
+        }
+    },
+    "bio": null,
+    "gists": {
+        "totalCount": 4
+    },
+    "name": "Jakob Warkotsch",
+    "id": "MDQ6VXNlcjQ1MzAyNA=="
+}

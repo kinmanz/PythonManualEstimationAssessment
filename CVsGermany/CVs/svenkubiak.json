@@ -1,0 +1,468 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 0
+    },
+    "contributedRepositories": {
+        "totalCount": 8,
+        "pageInfo": {
+            "endCursor": "OA==",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2017-01-31T19:58:50Z",
+                    "createdAt": "2015-06-01T13:57:15Z",
+                    "description": "An Intuitive, Lightweight, High Performance Full Stack Java Web Framework.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 632385,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 29471,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 32126,
+                                "node": {
+                                    "color": "#0050b2",
+                                    "name": "FreeMarker",
+                                    "id": "MDg6TGFuZ3VhZ2U0ODY="
+                                }
+                            },
+                            {
+                                "size": 36511,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 8338,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 21
+                    },
+                    "forks": {
+                        "totalCount": 9
+                    },
+                    "name": "mangooio",
+                    "id": "MDEwOlJlcG9zaXRvcnkzNjY2NDE1Mw==",
+                    "contribution": {
+                        "adds": 103686,
+                        "total_commits": 1258,
+                        "num_of_weeks": 81,
+                        "dels": 79520
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 8
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-24T12:31:19Z",
+                    "createdAt": "2015-07-08T08:31:57Z",
+                    "description": "This is an easly plugable module for the mangoo I/O Framework to work with Hibernate.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "https://mangoo.io",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 12566,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "mangooio-hibernate-extension",
+                    "id": "MDEwOlJlcG9zaXRvcnkzODc0MTk2NQ==",
+                    "contribution": {
+                        "adds": 1386,
+                        "total_commits": 57,
+                        "num_of_weeks": 19,
+                        "dels": 449
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-16T13:30:32Z",
+                    "createdAt": "2015-05-11T06:43:49Z",
+                    "description": "This is an easly plugable module for the mangoo IO Framework to work with MongoDB and optional Morphia (a MongoDB ORM) by providing convinent services, all required dependencies and some testing utilities.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "https://mangoo.io",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 11027,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "mangooio-mongodb-extension",
+                    "id": "MDEwOlJlcG9zaXRvcnkzNTQwNjkwOQ==",
+                    "contribution": {
+                        "adds": 886,
+                        "total_commits": 69,
+                        "num_of_weeks": 26,
+                        "dels": 757
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-01-17T15:03:38Z",
+                    "createdAt": "2014-08-11T07:50:11Z",
+                    "description": "Embedded MongoDB for unit testing purposes based on flapdoodle-oss/de.flapdoodle.embed.mongo",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3940,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "embedded-mongodb",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMjgzMTEyNw==",
+                    "contribution": {
+                        "adds": 457,
+                        "total_commits": 66,
+                        "num_of_weeks": 30,
+                        "dels": 261
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-21T19:52:18Z",
+                    "createdAt": "2015-01-07T12:06:47Z",
+                    "description": "Convenient class for sending a message to pushover in Java project",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 16435,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "JPushover",
+                    "id": "MDEwOlJlcG9zaXRvcnkyODkxMjg4Nw==",
+                    "contribution": {
+                        "adds": 523,
+                        "total_commits": 50,
+                        "num_of_weeks": 19,
+                        "dels": 465
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-02T14:41:15Z",
+                    "createdAt": "2017-01-02T14:12:15Z",
+                    "description": "This is an easly plugable extension for the mangoo I/O framework to work with Pebble Template Engine.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 6960,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "mangooio-pebble-extension",
+                    "id": "MDEwOlJlcG9zaXRvcnk3NzgzODA1OA==",
+                    "contribution": {
+                        "adds": 721,
+                        "total_commits": 9,
+                        "num_of_weeks": 1,
+                        "dels": 73
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-21T06:57:55Z",
+                    "createdAt": "2015-02-04T08:08:43Z",
+                    "description": "A Java implementation of OpenBSD's Blowfish password hashing code http://www.mindrot.org/projects/jBCrypt",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 34562,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 18
+                    },
+                    "forks": {
+                        "totalCount": 6
+                    },
+                    "name": "jBCrypt",
+                    "id": "MDEwOlJlcG9zaXRvcnkzMDI4ODI1Mw==",
+                    "contribution": {
+                        "adds": 90,
+                        "total_commits": 12,
+                        "num_of_weeks": 6,
+                        "dels": 32
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 3
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T11:28:07Z",
+                    "createdAt": "2013-06-27T00:32:18Z",
+                    "description": "A Java library for the Dropbox Core API.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "https://www.dropbox.com/developers/documentation/java",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 676895,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 178166,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 1971,
+                                "node": {
+                                    "color": "#a3522f",
+                                    "name": "IDL",
+                                    "id": "MDg6TGFuZ3VhZ2UzMzY="
+                                }
+                            },
+                            {
+                                "size": 275,
+                                "node": {
+                                    "color": "#74283c",
+                                    "name": "Prolog",
+                                    "id": "MDg6TGFuZ3VhZ2UyNDY="
+                                }
+                            },
+                            {
+                                "size": 4223,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 194
+                    },
+                    "forks": {
+                        "totalCount": 166
+                    },
+                    "name": "dropbox-sdk-java",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMDk4MzA1MA==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 39
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Germany",
+    "following": {
+        "totalCount": 2
+    },
+    "avatarURL": "https://avatars0.githubusercontent.com/u/67564?v=3",
+    "company": "",
+    "pinnedRepositories": {
+        "totalCount": 6,
+        "nodes": [
+            {
+                "name": "mangooio"
+            },
+            {
+                "name": "jBCrypt"
+            },
+            {
+                "name": "JPushover"
+            },
+            {
+                "name": "mangooio-hibernate-extension"
+            },
+            {
+                "name": "mangooio-mongodb-extension"
+            },
+            {
+                "name": "embedded-mongodb"
+            }
+        ]
+    },
+    "name": "Sven Kubiak",
+    "watching": {
+        "totalCount": 7
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 29
+    },
+    "starredRepositories": {
+        "totalCount": 2
+    },
+    "followers": {
+        "totalCount": 11
+    },
+    "login": "svenkubiak",
+    "websiteURL": "https://svenkubiak.de",
+    "id": "MDQ6VXNlcjY3NTY0",
+    "email": "sk@svenkubiak.de"
+}

@@ -1,0 +1,1573 @@
+{
+    "organizations": {
+        "totalCount": 3,
+        "nodes": [
+            {
+                "login": "lift",
+                "avatarURL": "https://avatars2.githubusercontent.com/u/317975?v=3",
+                "url": "https://github.com/lift",
+                "name": "Lift Web Framework"
+            },
+            {
+                "login": "NICTA",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/1151968?v=3",
+                "url": "https://github.com/NICTA",
+                "name": "NICTA"
+            },
+            {
+                "login": "atnos-org",
+                "avatarURL": "https://avatars3.githubusercontent.com/u/18184602?v=3",
+                "url": "https://github.com/atnos-org",
+                "name": "Atnos-org"
+            }
+        ]
+    },
+    "location": "Berlin, Germany",
+    "email": "etorreborre@yahoo.com",
+    "pullRequests": {
+        "totalCount": 195
+    },
+    "company": "",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "websiteURL": "http://etorreborre.blogspot.com",
+    "watching": {
+        "totalCount": 152
+    },
+    "avatarURL": "https://avatars1.githubusercontent.com/u/10988?v=3",
+    "starredRepositories": {
+        "totalCount": 88
+    },
+    "followers": {
+        "totalCount": 155
+    },
+    "login": "etorreborre",
+    "following": {
+        "totalCount": 8
+    },
+    "contributedRepositories": {
+        "totalCount": 29,
+        "edges": [
+            {
+                "node": {
+                    "description": "Eff monad for cats - http://atnos-org.github.io/eff",
+                    "forks": {
+                        "totalCount": 31
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0OTAyNzM3Mw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 494469
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 19742
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-02-03T12:17:21Z",
+                    "watchers": {
+                        "totalCount": 21
+                    },
+                    "stargazers": {
+                        "totalCount": 180
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 24395,
+                        "total_commits": 106,
+                        "num_of_weeks": 16,
+                        "dels": 16017
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-01-04T22:34:26Z",
+                    "name": "eff"
+                }
+            },
+            {
+                "node": {
+                    "description": "Software Specifications for Scala",
+                    "forks": {
+                        "totalCount": 138
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk4ODQ4MDA=",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 2404733
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 33814
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 25037
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 432555
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 21133
+                            },
+                            {
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM=",
+                                    "name": "Batchfile"
+                                },
+                                "size": 5434
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-02-03T07:23:17Z",
+                    "watchers": {
+                        "totalCount": 31
+                    },
+                    "stargazers": {
+                        "totalCount": 561
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 409397,
+                        "total_commits": 3505,
+                        "num_of_weeks": 304,
+                        "dels": 306055
+                    },
+                    "homepageURL": "http://specs2.org",
+                    "createdAt": "2010-09-03T01:55:10Z",
+                    "name": "specs2"
+                }
+            },
+            {
+                "node": {
+                    "description": "Produce a stream of elements using the Eff monad for effects",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NTc1Nzc4MQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 65088
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 19412
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2016-10-26T20:51:14Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2016-08-15T19:10:43Z",
+                    "name": "producer"
+                }
+            },
+            {
+                "node": {
+                    "description": "Grafter is a library to configure and wire Scala applications",
+                    "forks": {
+                        "totalCount": 14
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3NTI4MjMyOQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 34532
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 19466
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-02-06T09:45:35Z",
+                    "watchers": {
+                        "totalCount": 13
+                    },
+                    "stargazers": {
+                        "totalCount": 97
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2016-12-01T10:35:41Z",
+                    "name": "grafter"
+                }
+            },
+            {
+                "node": {
+                    "description": "This project is deprecated !!! Please go to http://github.com/atnos-org/eff",
+                    "forks": {
+                        "totalCount": 8
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0Njk0OTc0NQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 245377
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 19412
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-01-07T12:31:57Z",
+                    "watchers": {
+                        "totalCount": 15
+                    },
+                    "stargazers": {
+                        "totalCount": 75
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 24395,
+                        "total_commits": 106,
+                        "num_of_weeks": 16,
+                        "dels": 16017
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2015-11-26T22:47:20Z",
+                    "name": "eff-scalaz"
+                }
+            },
+            {
+                "node": {
+                    "description": "Monadic folds",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2MjIwMDA0MA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 44785
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 19257
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-01-28T23:34:47Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 11
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 10505,
+                        "total_commits": 34,
+                        "num_of_weeks": 8,
+                        "dels": 3144
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-06-29T06:06:55Z",
+                    "name": "origami"
+                }
+            },
+            {
+                "node": {
+                    "description": "A self documenting DSL built on http4s",
+                    "forks": {
+                        "totalCount": 14
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMTMyODUyOQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 348255
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 990
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-02-01T17:55:47Z",
+                    "watchers": {
+                        "totalCount": 25
+                    },
+                    "stargazers": {
+                        "totalCount": 92
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 77,
+                        "total_commits": 5,
+                        "num_of_weeks": 3,
+                        "dels": 21
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2014-06-29T17:41:15Z",
+                    "name": "rho"
+                }
+            },
+            {
+                "node": {
+                    "description": "A minimal, idiomatic Scala interface for HTTP",
+                    "forks": {
+                        "totalCount": 165
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNjkyMTg4",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 1015619
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 2261
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 18
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 9
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-02-04T03:48:39Z",
+                    "watchers": {
+                        "totalCount": 55
+                    },
+                    "stargazers": {
+                        "totalCount": 661
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 123,
+                        "total_commits": 5,
+                        "num_of_weeks": 4,
+                        "dels": 18
+                    },
+                    "homepageURL": "http://http4s.org/",
+                    "createdAt": "2012-03-12T04:41:20Z",
+                    "name": "http4s"
+                }
+            },
+            {
+                "node": {
+                    "description": "JSON Schema Validation with Play JSON",
+                    "forks": {
+                        "totalCount": 5
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNDA2NzA0MA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 248751
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 19472
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2016-12-23T07:05:50Z",
+                    "watchers": {
+                        "totalCount": 11
+                    },
+                    "stargazers": {
+                        "totalCount": 28
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 690,
+                        "total_commits": 6,
+                        "num_of_weeks": 1,
+                        "dels": 328
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2015-04-16T16:26:37Z",
+                    "name": "play-json-schema-validator"
+                }
+            },
+            {
+                "node": {
+                    "description": "Publisher for Hiptest projects",
+                    "forks": {
+                        "totalCount": 19
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNDYxMjg5OQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "name": "Ruby"
+                                },
+                                "size": 628318
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 281
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 50899
+                            },
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile"
+                                },
+                                "size": 949
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "updatedAt": "2016-12-21T23:02:57Z",
+                    "watchers": {
+                        "totalCount": 11
+                    },
+                    "stargazers": {
+                        "totalCount": 14
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "",
+                    "createdAt": "2014-09-29T21:01:57Z",
+                    "name": "hiptest-publisher"
+                }
+            },
+            {
+                "node": {
+                    "description": "A community driven list of useful Scala libraries, frameworks and software.",
+                    "forks": {
+                        "totalCount": 662
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMTYwNDUwNQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 6399
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2017-02-06T12:17:50Z",
+                    "watchers": {
+                        "totalCount": 564
+                    },
+                    "stargazers": {
+                        "totalCount": 4538
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "",
+                    "createdAt": "2014-07-08T08:13:52Z",
+                    "name": "awesome-scala"
+                }
+            },
+            {
+                "node": {
+                    "description": "API Discovery Solution for Microservice Architectures",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3NzkwMTcyMA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 51547
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 463
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 108801
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 143355
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 20396
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#563d7c",
+                        "name": "CSS",
+                        "id": "MDg6TGFuZ3VhZ2UzMDg="
+                    },
+                    "updatedAt": "2017-01-24T12:54:01Z",
+                    "watchers": {
+                        "totalCount": 6
+                    },
+                    "stargazers": {
+                        "totalCount": 4
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": null,
+                    "createdAt": "2017-01-03T09:16:33Z",
+                    "name": "api-discovery"
+                }
+            },
+            {
+                "node": {
+                    "description": "Web site of typelevel.scala",
+                    "forks": {
+                        "totalCount": 37
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk4ODEwMTM3",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 27142
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 46112
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 5866
+                            },
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "name": "Ruby"
+                                },
+                                "size": 56
+                            },
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 7088
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 656
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#563d7c",
+                        "name": "CSS",
+                        "id": "MDg6TGFuZ3VhZ2UzMDg="
+                    },
+                    "updatedAt": "2017-01-17T22:13:42Z",
+                    "watchers": {
+                        "totalCount": 19
+                    },
+                    "stargazers": {
+                        "totalCount": 14
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "http://typelevel.org",
+                    "createdAt": "2013-03-15T22:19:50Z",
+                    "name": "typelevel.github.com"
+                }
+            },
+            {
+                "node": {
+                    "description": "Little snippets of code illustrating functional programming techniques in Scala",
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2Njg2MjgxMg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 95988
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2016-12-20T05:07:09Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 19
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 709,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 551
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-08-29T16:59:04Z",
+                    "name": "gist"
+                }
+            },
+            {
+                "node": {
+                    "description": "Lightweight, modular, and extensible library for functional programming.",
+                    "forks": {
+                        "totalCount": 357
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyOTk4NjcyNw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 883755
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 1579
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-02-06T11:34:59Z",
+                    "watchers": {
+                        "totalCount": 152
+                    },
+                    "stargazers": {
+                        "totalCount": 1558
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "http://typelevel.org/cats/",
+                    "createdAt": "2015-01-28T20:26:48Z",
+                    "name": "cats"
+                }
+            },
+            {
+                "node": {
+                    "description": "Discover scalaz in a practical way",
+                    "forks": {
+                        "totalCount": 13
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2MDE1NjM3Ng==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 20627
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-01-23T14:05:06Z",
+                    "watchers": {
+                        "totalCount": 5
+                    },
+                    "stargazers": {
+                        "totalCount": 77
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": null,
+                    "createdAt": "2016-06-01T07:49:28Z",
+                    "name": "hands-on-scalaz"
+                }
+            },
+            {
+                "node": {
+                    "description": "Fix for SI-2712 implemented as a compiler plugin for Scala 2.11.8 and 2.10.6",
+                    "forks": {
+                        "totalCount": 5
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NzMyNzk4MA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 36072
+                            },
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 2414
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2016-12-19T20:04:00Z",
+                    "watchers": {
+                        "totalCount": 5
+                    },
+                    "stargazers": {
+                        "totalCount": 38
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "",
+                    "createdAt": "2016-04-28T19:24:13Z",
+                    "name": "si2712fix-plugin"
+                }
+            },
+            {
+                "node": {
+                    "description": "Yet another JSON library for Scala",
+                    "forks": {
+                        "totalCount": 126
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0MDAxMTA4MA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 431249
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-02-06T11:16:42Z",
+                    "watchers": {
+                        "totalCount": 52
+                    },
+                    "stargazers": {
+                        "totalCount": 741
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "https://circe.github.io/circe/",
+                    "createdAt": "2015-07-31T15:12:09Z",
+                    "name": "circe"
+                }
+            },
+            {
+                "node": {
+                    "description": "Monadic folds for Scala",
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNTU5Njg2OQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 97018
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 19496
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2016-11-28T13:40:41Z",
+                    "watchers": {
+                        "totalCount": 24
+                    },
+                    "stargazers": {
+                        "totalCount": 33
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 10505,
+                        "total_commits": 34,
+                        "num_of_weeks": 8,
+                        "dels": 3144
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2015-05-14T07:09:51Z",
+                    "name": "origami"
+                }
+            },
+            {
+                "node": {
+                    "description": "Micro-framework that manages external services for tests: mock HTTP services, Docker containers, DBs, etc.",
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MDk5NDg3MA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 37582
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 18
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 19472
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-01-30T10:00:49Z",
+                    "watchers": {
+                        "totalCount": 13
+                    },
+                    "stargazers": {
+                        "totalCount": 8
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 685,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 59
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-02-03T11:19:07Z",
+                    "name": "test-service-kit"
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MjIyMDYxNw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 8100
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 19412
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#89e051",
+                        "name": "Shell",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk="
+                    },
+                    "updatedAt": "2016-02-22T22:29:01Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 587,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 39
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-02-21T18:19:50Z",
+                    "name": "specs2-thread-issue"
+                }
+            },
+            {
+                "node": {
+                    "description": "Web site of typelevel.scala",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3NjA0OTUzMA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "name": "Ruby"
+                                },
+                                "size": 55
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 25835
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 46112
+                            },
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 7088
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 656
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 5866
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#563d7c",
+                        "name": "CSS",
+                        "id": "MDg6TGFuZ3VhZ2UzMDg="
+                    },
+                    "updatedAt": "2016-12-09T16:00:12Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": true,
+                    "contribution": 0,
+                    "homepageURL": "http://typelevel.org",
+                    "createdAt": "2016-12-09T16:00:10Z",
+                    "name": "typelevel.github.com"
+                }
+            },
+            {
+                "node": {
+                    "description": "Stack Overflow question repo",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1Mzg5NjgzMg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 2373
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2016-03-14T22:38:29Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 558,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 10
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-03-14T22:36:23Z",
+                    "name": "specs2-mockito-so-example"
+                }
+            },
+            {
+                "node": {
+                    "description": "Test project for specs2",
+                    "forks": {
+                        "totalCount": 9
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNDMzMjEx",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 25630
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 19412
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2016-11-17T10:25:58Z",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "stargazers": {
+                        "totalCount": 16
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 3466,
+                        "total_commits": 74,
+                        "num_of_weeks": 39,
+                        "dels": 1969
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2011-03-03T00:58:27Z",
+                    "name": "specs2-test"
+                }
+            },
+            {
+                "node": {
+                    "description": "Let our powers combine!",
+                    "forks": {
+                        "totalCount": 22
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxMTg5ODUxNQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 168708
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-01-23T10:32:12Z",
+                    "watchers": {
+                        "totalCount": 10
+                    },
+                    "stargazers": {
+                        "totalCount": 119
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 1,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 1
+                    },
+                    "homepageURL": "http://scalamacros.org/",
+                    "createdAt": "2013-08-05T13:12:13Z",
+                    "name": "paradise"
+                }
+            },
+            {
+                "node": {
+                    "description": "Generic programming for Scala",
+                    "forks": {
+                        "totalCount": 315
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzMDA2MDY2",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 1233022
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 1023
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-02-06T12:26:08Z",
+                    "watchers": {
+                        "totalCount": 131
+                    },
+                    "stargazers": {
+                        "totalCount": 1905
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "",
+                    "createdAt": "2011-12-18T13:36:38Z",
+                    "name": "shapeless"
+                }
+            },
+            {
+                "node": {
+                    "description": "A model set of guidelines for RESTful APIs, created by Zalando",
+                    "forks": {
+                        "totalCount": 45
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NTI0MDg1Ng==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile"
+                                },
+                                "size": 853
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 2014
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "name": "JavaScript",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA="
+                    },
+                    "updatedAt": "2017-02-05T11:08:18Z",
+                    "watchers": {
+                        "totalCount": 43
+                    },
+                    "stargazers": {
+                        "totalCount": 307
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "http://zalando.github.io/restful-api-guidelines/",
+                    "createdAt": "2016-04-01T15:06:54Z",
+                    "name": "restful-api-guidelines"
+                }
+            },
+            {
+                "node": {
+                    "description": "Freek, a freaky simple Free to combine your DSL seamlessly",
+                    "forks": {
+                        "totalCount": 13
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1OTA2MDE0MQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 119575
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-01-27T10:06:17Z",
+                    "watchers": {
+                        "totalCount": 17
+                    },
+                    "stargazers": {
+                        "totalCount": 172
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "",
+                    "createdAt": "2016-05-17T21:23:51Z",
+                    "name": "freek"
+                }
+            },
+            {
+                "node": {
+                    "description": "An extension to the core Scala library for functional programming.",
+                    "forks": {
+                        "totalCount": 455
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0NzQ2MzM=",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 1987818
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 19258
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-02-05T12:48:12Z",
+                    "watchers": {
+                        "totalCount": 253
+                    },
+                    "stargazers": {
+                        "totalCount": 2934
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "http://scalaz.github.io/scalaz/#scaladoc",
+                    "createdAt": "2010-01-16T06:18:51Z",
+                    "name": "scalaz"
+                }
+            }
+        ],
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "Mjk="
+        }
+    },
+    "bio": null,
+    "gists": {
+        "totalCount": 179
+    },
+    "name": "Eric Torreborre",
+    "id": "MDQ6VXNlcjEwOTg4"
+}

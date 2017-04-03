@@ -1,0 +1,661 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 8
+    },
+    "contributedRepositories": {
+        "totalCount": 10,
+        "pageInfo": {
+            "endCursor": "MTA=",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T04:31:28Z",
+                    "createdAt": "2016-01-02T14:11:36Z",
+                    "description": "The C++ engine that powers the scientific computing library ND4J - n-dimensional arrays for Java",
+                    "primaryLanguage": {
+                        "color": "#f34b7d",
+                        "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                        "name": "C++"
+                    },
+                    "homepageURL": "http://nd4j.org/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 213976,
+                                "node": {
+                                    "color": null,
+                                    "name": "CMake",
+                                    "id": "MDg6TGFuZ3VhZ2U0NDA="
+                                }
+                            },
+                            {
+                                "size": 5198316,
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                }
+                            },
+                            {
+                                "size": 193891,
+                                "node": {
+                                    "color": "#3A4E3A",
+                                    "name": "Cuda",
+                                    "id": "MDg6TGFuZ3VhZ2UzNjg="
+                                }
+                            },
+                            {
+                                "size": 177438,
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                }
+                            },
+                            {
+                                "size": 451787,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 34201,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 25783,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 25387,
+                                "node": {
+                                    "color": null,
+                                    "name": "M4",
+                                    "id": "MDg6TGFuZ3VhZ2U0OTY="
+                                }
+                            },
+                            {
+                                "size": 3143,
+                                "node": {
+                                    "color": "#438eff",
+                                    "name": "Objective-C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 41
+                    },
+                    "forks": {
+                        "totalCount": 38
+                    },
+                    "name": "libnd4j",
+                    "id": "MDEwOlJlcG9zaXRvcnk0ODkxMTgyMA==",
+                    "contribution": {
+                        "adds": 8666,
+                        "total_commits": 60,
+                        "num_of_weeks": 12,
+                        "dels": 17289
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 22
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T07:32:19Z",
+                    "createdAt": "2014-08-31T03:47:00Z",
+                    "description": "Fast, Scientific and Numerical Computing for the JVM (NDArrays)",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "http://nd4j.org",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 6400332,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 10773,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 881
+                    },
+                    "forks": {
+                        "totalCount": 318
+                    },
+                    "name": "nd4j",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMzUwNTg3OQ==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 119
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-05T00:14:33Z",
+                    "createdAt": "2013-11-27T02:03:28Z",
+                    "description": "Deep Learning for Java, Scala & Clojure on Hadoop & Spark With GPUs - From Skymind",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "http://deeplearning4j.org",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 7899960,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 14033,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 639264,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 245406,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 18278,
+                                "node": {
+                                    "color": "#0050b2",
+                                    "name": "FreeMarker",
+                                    "id": "MDg6TGFuZ3VhZ2U0ODY="
+                                }
+                            },
+                            {
+                                "size": 77884,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            },
+                            {
+                                "size": 4558,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 171594,
+                                "node": {
+                                    "color": "#c22d40",
+                                    "name": "Scala",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk="
+                                }
+                            },
+                            {
+                                "size": 110381,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 931,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 5382
+                    },
+                    "forks": {
+                        "totalCount": 2208
+                    },
+                    "name": "deeplearning4j",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNDczNDg3Ng==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 767
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-27T11:46:44Z",
+                    "createdAt": "2016-07-06T07:26:46Z",
+                    "description": "ETL Library for Machine Learning",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 5429,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 3316006,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 16049,
+                                "node": {
+                                    "color": "#0050b2",
+                                    "name": "FreeMarker",
+                                    "id": "MDg6TGFuZ3VhZ2U0ODY="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 68
+                    },
+                    "forks": {
+                        "totalCount": 48
+                    },
+                    "name": "DataVec",
+                    "id": "MDEwOlJlcG9zaXRvcnk2MjcwMDQxMA==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 39
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-06-27T19:44:12Z",
+                    "createdAt": "2016-06-27T18:30:47Z",
+                    "description": "The source for dubs.tech",
+                    "primaryLanguage": {
+                        "color": "#563d7c",
+                        "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                        "name": "CSS"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 7452,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 18996,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "treo.github.io",
+                    "id": "MDEwOlJlcG9zaXRvcnk2MjA3ODczNw==",
+                    "contribution": {
+                        "adds": 4976,
+                        "total_commits": 5,
+                        "num_of_weeks": 1,
+                        "dels": 2576
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-03-23T06:55:08Z",
+                    "createdAt": "2016-03-23T06:52:01Z",
+                    "description": "Simple Microbenchmarks for ND4J utilizing the JMH",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 30521,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "benchmarking_nd4j",
+                    "id": "MDEwOlJlcG9zaXRvcnk1NDUzNzU3MA==",
+                    "contribution": {
+                        "adds": 751,
+                        "total_commits": 7,
+                        "num_of_weeks": 4,
+                        "dels": 175
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T07:56:56Z",
+                    "createdAt": "2015-08-24T15:17:43Z",
+                    "description": "Deeplearning4j Examples (DL4J, DL4J Spark, DataVec)",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "http://deeplearning4j.org/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 684947,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 5876,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 311
+                    },
+                    "forks": {
+                        "totalCount": 450
+                    },
+                    "name": "dl4j-examples",
+                    "id": "MDEwOlJlcG9zaXRvcnk0MTMxMDUyMw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 90
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-05-19T17:35:27Z",
+                    "createdAt": "2016-05-19T17:34:56Z",
+                    "description": "This repository contains a simple example project that should be used to track down the differences in behavior between CPU and CUDA backend.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3074,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "dl4j-different-behavior",
+                    "id": "MDEwOlJlcG9zaXRvcnk1OTIyODIxMA==",
+                    "contribution": {
+                        "adds": 120,
+                        "total_commits": 2,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-10T12:02:24Z",
+                    "createdAt": "2015-09-15T00:29:26Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                        "name": "Scala"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 51554,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 235539,
+                                "node": {
+                                    "color": "#c22d40",
+                                    "name": "Scala",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk="
+                                }
+                            },
+                            {
+                                "size": 20202,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 654,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "corpus",
+                    "id": "MDEwOlJlcG9zaXRvcnk0MjQ4NDk1OQ==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T02:29:15Z",
+                    "createdAt": "2014-04-21T12:47:21Z",
+                    "description": "The missing bridge between Java and native C++",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 960117,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 1590,
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1819
+                    },
+                    "forks": {
+                        "totalCount": 225
+                    },
+                    "name": "javacpp",
+                    "id": "MDEwOlJlcG9zaXRvcnkxODk5MjE5Mw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 129
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Mainz, Germany",
+    "following": {
+        "totalCount": 1
+    },
+    "avatarURL": "https://avatars3.githubusercontent.com/u/509379?v=3",
+    "company": "",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Paul Dubs",
+    "watching": {
+        "totalCount": 22
+    },
+    "organizations": {
+        "totalCount": 1,
+        "nodes": [
+            {
+                "url": "https://github.com/deeplearning4j",
+                "name": "Deeplearning4j",
+                "login": "deeplearning4j",
+                "avatarURL": "https://avatars1.githubusercontent.com/u/10988606?v=3"
+            }
+        ]
+    },
+    "pullRequests": {
+        "totalCount": 46
+    },
+    "starredRepositories": {
+        "totalCount": 75
+    },
+    "followers": {
+        "totalCount": 10
+    },
+    "login": "treo",
+    "websiteURL": "",
+    "id": "MDQ6VXNlcjUwOTM3OQ==",
+    "email": ""
+}

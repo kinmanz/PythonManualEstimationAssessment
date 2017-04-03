@@ -1,0 +1,633 @@
+{
+    "gists": {
+        "totalCount": 32
+    },
+    "company": null,
+    "pullRequests": {
+        "totalCount": 27
+    },
+    "organizations": {
+        "nodes": [],
+        "totalCount": 0
+    },
+    "starredRepositories": {
+        "totalCount": 12
+    },
+    "watching": {
+        "totalCount": 77
+    },
+    "followers": {
+        "totalCount": 772
+    },
+    "login": "darkoperator",
+    "following": {
+        "totalCount": 5
+    },
+    "email": "carlos_perez@darkoperator.com",
+    "pinnedRepositories": {
+        "nodes": [],
+        "totalCount": 0
+    },
+    "bio": null,
+    "id": "MDQ6VXNlcjUyMTI0Ng==",
+    "name": "Carlos Perez",
+    "contributedRepositories": {
+        "edges": [
+            {
+                "node": {
+                    "primaryLanguage": {
+                        "name": "PowerShell",
+                        "color": null,
+                        "id": "MDg6TGFuZ3VhZ2UyNjQ="
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyOTg2NDAzNQ==",
+                    "homepageURL": null,
+                    "description": "PowerShell module for creating and managing Sysinternals Sysmon config files.",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ=",
+                                    "color": null,
+                                    "name": "PowerShell"
+                                },
+                                "size": 95353
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 30
+                    },
+                    "watchers": {
+                        "totalCount": 8
+                    },
+                    "createdAt": "2015-01-26T14:17:57Z",
+                    "contribution": {
+                        "dels": 11327,
+                        "num_of_weeks": 18,
+                        "adds": 20100,
+                        "total_commits": 72
+                    },
+                    "isFork": false,
+                    "name": "Posh-Sysmon",
+                    "forks": {
+                        "totalCount": 7
+                    },
+                    "updatedAt": "2017-01-11T06:37:22Z"
+                }
+            },
+            {
+                "node": {
+                    "primaryLanguage": {
+                        "name": "C#",
+                        "color": "#178600",
+                        "id": "MDg6TGFuZ3VhZ2UyMzI="
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2MTk5Mjg4",
+                    "homepageURL": "",
+                    "description": "PowerShell Module for automating tasks on remote systems using SSH",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ=",
+                                    "color": null,
+                                    "name": "PowerShell"
+                                },
+                                "size": 103438
+                            },
+                            {
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UyMzI=",
+                                    "color": "#178600",
+                                    "name": "C#"
+                                },
+                                "size": 121526
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 279
+                    },
+                    "watchers": {
+                        "totalCount": 50
+                    },
+                    "createdAt": "2012-10-13T03:14:01Z",
+                    "contribution": {
+                        "dels": 439310,
+                        "num_of_weeks": 33,
+                        "adds": 455487,
+                        "total_commits": 116
+                    },
+                    "isFork": false,
+                    "name": "Posh-SSH",
+                    "forks": {
+                        "totalCount": 55
+                    },
+                    "updatedAt": "2017-01-24T18:51:11Z"
+                }
+            },
+            {
+                "node": {
+                    "primaryLanguage": {
+                        "name": "Python",
+                        "color": "#3572A5",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxMTczMTIz",
+                    "homepageURL": "",
+                    "description": "DNS Enumeration Script",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "color": "#3572A5",
+                                    "name": "Python"
+                                },
+                                "size": 114129
+                            },
+                            {
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "color": "#701516",
+                                    "name": "Ruby"
+                                },
+                                "size": 6880
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 477
+                    },
+                    "watchers": {
+                        "totalCount": 55
+                    },
+                    "createdAt": "2010-12-16T03:25:49Z",
+                    "contribution": {
+                        "dels": 4835,
+                        "num_of_weeks": 51,
+                        "adds": 149924,
+                        "total_commits": 205
+                    },
+                    "isFork": false,
+                    "name": "dnsrecon",
+                    "forks": {
+                        "totalCount": 123
+                    },
+                    "updatedAt": "2017-01-25T09:53:19Z"
+                }
+            },
+            {
+                "node": {
+                    "primaryLanguage": {
+                        "name": "Ruby",
+                        "color": "#701516",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxMjA3NDQx",
+                    "homepageURL": "",
+                    "description": "Plugins for Metasploit Framework",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "color": "#701516",
+                                    "name": "Ruby"
+                                },
+                                "size": 100640
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 159
+                    },
+                    "watchers": {
+                        "totalCount": 25
+                    },
+                    "createdAt": "2010-12-30T01:38:26Z",
+                    "contribution": {
+                        "dels": 10158,
+                        "num_of_weeks": 27,
+                        "adds": 13136,
+                        "total_commits": 78
+                    },
+                    "isFork": false,
+                    "name": "Metasploit-Plugins",
+                    "forks": {
+                        "totalCount": 68
+                    },
+                    "updatedAt": "2017-01-22T06:44:15Z"
+                }
+            },
+            {
+                "node": {
+                    "primaryLanguage": {
+                        "name": "PowerShell",
+                        "color": null,
+                        "id": "MDg6TGFuZ3VhZ2UyNjQ="
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyOTU5NjkxMw==",
+                    "homepageURL": null,
+                    "description": "PowerShell Module for automating Tenable Nessus Vulnerability Scanner.",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ=",
+                                    "color": null,
+                                    "name": "PowerShell"
+                                },
+                                "size": 159285
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 32
+                    },
+                    "watchers": {
+                        "totalCount": 16
+                    },
+                    "createdAt": "2015-01-21T15:46:48Z",
+                    "contribution": -1,
+                    "isFork": false,
+                    "name": "Posh-Nessus",
+                    "forks": {
+                        "totalCount": 17
+                    },
+                    "updatedAt": "2017-01-08T17:15:29Z"
+                }
+            },
+            {
+                "node": {
+                    "primaryLanguage": {
+                        "name": "PowerShell",
+                        "color": null,
+                        "id": "MDg6TGFuZ3VhZ2UyNjQ="
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NTQ4OTkyMg==",
+                    "homepageURL": null,
+                    "description": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ=",
+                                    "color": null,
+                                    "name": "PowerShell"
+                                },
+                                "size": 33269
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "createdAt": "2016-08-11T17:50:57Z",
+                    "contribution": {
+                        "dels": 0,
+                        "num_of_weeks": 2,
+                        "adds": 667,
+                        "total_commits": 2
+                    },
+                    "isFork": false,
+                    "name": "EventHunt",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "updatedAt": "2017-01-06T10:35:13Z"
+                }
+            },
+            {
+                "node": {
+                    "primaryLanguage": null,
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMxNzEyMw==",
+                    "homepageURL": "",
+                    "description": "The Unofficial PowerShell Best Practices and Style Guide",
+                    "languages": {
+                        "edges": []
+                    },
+                    "stargazers": {
+                        "totalCount": 331
+                    },
+                    "watchers": {
+                        "totalCount": 107
+                    },
+                    "createdAt": "2014-03-01T15:02:58Z",
+                    "contribution": -1,
+                    "isFork": false,
+                    "name": "PowerShellPracticeAndStyle",
+                    "forks": {
+                        "totalCount": 69
+                    },
+                    "updatedAt": "2017-01-26T16:22:02Z"
+                }
+            },
+            {
+                "node": {
+                    "primaryLanguage": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk2NjUwNTE1OA==",
+                    "homepageURL": null,
+                    "description": null,
+                    "languages": {
+                        "edges": []
+                    },
+                    "stargazers": {
+                        "totalCount": 18
+                    },
+                    "watchers": {
+                        "totalCount": 9
+                    },
+                    "createdAt": "2016-08-24T22:46:36Z",
+                    "contribution": -1,
+                    "isFork": false,
+                    "name": "PSGumshoe",
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "updatedAt": "2017-01-11T00:16:08Z"
+                }
+            },
+            {
+                "node": {
+                    "primaryLanguage": {
+                        "name": "Ruby",
+                        "color": "#701516",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxMTY1MjQ0",
+                    "homepageURL": "",
+                    "description": "Meterpreter Scripts that I'm working on",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "color": "#701516",
+                                    "name": "Ruby"
+                                },
+                                "size": 153079
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 92
+                    },
+                    "watchers": {
+                        "totalCount": 16
+                    },
+                    "createdAt": "2010-12-13T17:10:13Z",
+                    "contribution": {
+                        "dels": 6646,
+                        "num_of_weeks": 29,
+                        "adds": 10312,
+                        "total_commits": 106
+                    },
+                    "isFork": false,
+                    "name": "Meterpreter-Scripts",
+                    "forks": {
+                        "totalCount": 25
+                    },
+                    "updatedAt": "2017-01-13T23:25:38Z"
+                }
+            },
+            {
+                "node": {
+                    "primaryLanguage": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk3MzMxMTUwNA==",
+                    "homepageURL": null,
+                    "description": "Repository of yara rules",
+                    "languages": {
+                        "edges": []
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "watchers": {
+                        "totalCount": 12
+                    },
+                    "createdAt": "2016-11-09T18:45:34Z",
+                    "contribution": -1,
+                    "isFork": false,
+                    "name": "yara-rules",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "updatedAt": "2017-01-13T21:28:16Z"
+                }
+            },
+            {
+                "node": {
+                    "primaryLanguage": {
+                        "name": "PowerShell",
+                        "color": null,
+                        "id": "MDg6TGFuZ3VhZ2UyNjQ="
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTg1MzkwNw==",
+                    "homepageURL": null,
+                    "description": "PowerShell Module to interact with VirusTotal",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ=",
+                                    "color": null,
+                                    "name": "PowerShell"
+                                },
+                                "size": 85719
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 31
+                    },
+                    "watchers": {
+                        "totalCount": 6
+                    },
+                    "createdAt": "2014-01-13T00:19:31Z",
+                    "contribution": {
+                        "dels": 7328,
+                        "num_of_weeks": 11,
+                        "adds": 15086,
+                        "total_commits": 28
+                    },
+                    "isFork": false,
+                    "name": "Posh-VirusTotal",
+                    "forks": {
+                        "totalCount": 7
+                    },
+                    "updatedAt": "2017-01-25T06:59:34Z"
+                }
+            },
+            {
+                "node": {
+                    "primaryLanguage": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk1MzY2NDQxMA==",
+                    "homepageURL": null,
+                    "description": "Windows PowerShell module to help in the auditing of Active Directory environments.",
+                    "languages": {
+                        "edges": []
+                    },
+                    "stargazers": {
+                        "totalCount": 16
+                    },
+                    "watchers": {
+                        "totalCount": 6
+                    },
+                    "createdAt": "2016-03-11T12:05:24Z",
+                    "contribution": {
+                        "dels": 1,
+                        "num_of_weeks": 1,
+                        "adds": 69,
+                        "total_commits": 2
+                    },
+                    "isFork": false,
+                    "name": "ADAudit",
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "updatedAt": "2017-01-10T14:25:53Z"
+                }
+            },
+            {
+                "node": {
+                    "primaryLanguage": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk2OTA2NTQ1Mw==",
+                    "homepageURL": null,
+                    "description": "Presentation Slides ",
+                    "languages": {
+                        "edges": []
+                    },
+                    "stargazers": {
+                        "totalCount": 4
+                    },
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "createdAt": "2016-09-23T22:41:41Z",
+                    "contribution": {
+                        "dels": 0,
+                        "num_of_weeks": 1,
+                        "adds": 0,
+                        "total_commits": 1
+                    },
+                    "isFork": false,
+                    "name": "Presentations",
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "updatedAt": "2016-11-15T12:53:13Z"
+                }
+            },
+            {
+                "node": {
+                    "primaryLanguage": {
+                        "name": "PowerShell",
+                        "color": null,
+                        "id": "MDg6TGFuZ3VhZ2UyNjQ="
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNjcyMTQx",
+                    "homepageURL": "",
+                    "description": "Powershell Scripts ",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ=",
+                                    "color": null,
+                                    "name": "PowerShell"
+                                },
+                                "size": 51846
+                            },
+                            {
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "color": "#3572A5",
+                                    "name": "Python"
+                                },
+                                "size": 2787
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 52
+                    },
+                    "watchers": {
+                        "totalCount": 12
+                    },
+                    "createdAt": "2012-03-09T15:55:01Z",
+                    "contribution": {
+                        "dels": 509,
+                        "num_of_weeks": 8,
+                        "adds": 1994,
+                        "total_commits": 16
+                    },
+                    "isFork": false,
+                    "name": "powershell_scripts",
+                    "forks": {
+                        "totalCount": 12
+                    },
+                    "updatedAt": "2017-01-16T21:09:41Z"
+                }
+            },
+            {
+                "node": {
+                    "primaryLanguage": {
+                        "name": "C#",
+                        "color": "#178600",
+                        "id": "MDg6TGFuZ3VhZ2UyMzI="
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0OTY3Mzg3Mg==",
+                    "homepageURL": "",
+                    "description": "SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism.",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2UyMzI=",
+                                    "color": "#178600",
+                                    "name": "C#"
+                                },
+                                "size": 3609572
+                            },
+                            {
+                                "node": {
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM=",
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile"
+                                },
+                                "size": 426
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 355
+                    },
+                    "watchers": {
+                        "totalCount": 68
+                    },
+                    "createdAt": "2016-01-14T20:41:54Z",
+                    "contribution": 0,
+                    "isFork": false,
+                    "name": "SSH.NET",
+                    "forks": {
+                        "totalCount": 105
+                    },
+                    "updatedAt": "2017-01-26T16:59:04Z"
+                }
+            }
+        ],
+        "pageInfo": {
+            "endCursor": "MTU=",
+            "hasNextPage": false
+        },
+        "totalCount": 15
+    },
+    "websiteURL": "http://www.darkoperator.com",
+    "location": "Puerto Rico",
+    "avatarURL": "https://avatars3.githubusercontent.com/u/521246?v=3"
+}

@@ -1,0 +1,428 @@
+{
+    "organizations": {
+        "totalCount": 1,
+        "nodes": [
+            {
+                "name": "codecentric AG",
+                "url": "https://github.com/codecentric",
+                "login": "codecentric",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/1009716?v=3"
+            }
+        ]
+    },
+    "bio": null,
+    "company": "codecentric AG",
+    "login": "marcelbirkner",
+    "starredRepositories": {
+        "totalCount": 23
+    },
+    "pullRequests": {
+        "totalCount": 11
+    },
+    "following": {
+        "totalCount": 4
+    },
+    "id": "MDQ6VXNlcjU1ODI1Ng==",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "avatarURL": "https://avatars0.githubusercontent.com/u/558256?v=3",
+    "location": "Germany",
+    "email": "marcel.birkner@gmail.com",
+    "contributedRepositories": {
+        "totalCount": 8,
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "OA=="
+        },
+        "edges": [
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 397
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "id": "MDEwOlJlcG9zaXRvcnkzODU0MzM0Ng==",
+                    "updatedAt": "2017-02-04T09:17:20Z",
+                    "description": "Docker Infrastructure via docker-compose (Jenkins, SonarQube, Nexus, GitLab, Selenium Grid)",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 1357
+                            },
+                            {
+                                "node": {
+                                    "color": "#e69f56",
+                                    "name": "Groovy",
+                                    "id": "MDg6TGFuZ3VhZ2UxNzU="
+                                },
+                                "size": 13058
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 236
+                    },
+                    "createdAt": "2015-07-04T18:18:42Z",
+                    "name": "docker-ci-tool-stack",
+                    "watchers": {
+                        "totalCount": 53
+                    },
+                    "primaryLanguage": {
+                        "color": "#e69f56",
+                        "name": "Groovy",
+                        "id": "MDg6TGFuZ3VhZ2UxNzU="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 9,
+                        "adds": 4533,
+                        "total_commits": 64,
+                        "dels": 2590
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 17
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk0MzI0MzQ0OA==",
+                    "updatedAt": "2016-12-28T09:07:32Z",
+                    "description": "Docker Container with Jenkins Job DSL examples",
+                    "languages": {
+                        "edges": []
+                    },
+                    "forks": {
+                        "totalCount": 6
+                    },
+                    "createdAt": "2015-09-27T11:04:07Z",
+                    "name": "docker-jenkins-job-dsl",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "primaryLanguage": null,
+                    "contribution": {
+                        "num_of_weeks": 2,
+                        "adds": 901,
+                        "total_commits": 7,
+                        "dels": 12
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk1NTk2OTk2NA==",
+                    "updatedAt": "2016-04-11T12:40:28Z",
+                    "description": "Small demo project",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                },
+                                "size": 536
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "createdAt": "2016-04-11T12:23:34Z",
+                    "name": "wdr-demo",
+                    "watchers": {
+                        "totalCount": 0
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 1,
+                        "adds": 225,
+                        "total_commits": 3,
+                        "dels": 0
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 8
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMjkxMDg1NQ==",
+                    "updatedAt": "2017-01-13T14:32:37Z",
+                    "description": "Hackergarden conference app",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                },
+                                "size": 194151
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 933
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 249
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 2561
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 4977
+                            },
+                            {
+                                "node": {
+                                    "color": "#302B6D",
+                                    "name": "Puppet",
+                                    "id": "MDg6TGFuZ3VhZ2UyNTk="
+                                },
+                                "size": 4465
+                            },
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 832
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 10
+                    },
+                    "createdAt": "2014-08-13T09:47:56Z",
+                    "name": "conference-app",
+                    "watchers": {
+                        "totalCount": 158
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk1MTU0NzUxNg==",
+                    "updatedAt": "2016-04-25T10:02:59Z",
+                    "description": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                },
+                                "size": 413
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 4
+                    },
+                    "createdAt": "2016-02-11T21:15:14Z",
+                    "name": "edmp-config-server",
+                    "watchers": {
+                        "totalCount": 9
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk0Mzc1Mzg4OQ==",
+                    "updatedAt": "2016-07-28T19:31:30Z",
+                    "description": "Selenium 2 Maven Test Project",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                },
+                                "size": 1510
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 4
+                    },
+                    "createdAt": "2015-10-06T13:54:34Z",
+                    "name": "selenium2-maven-project",
+                    "watchers": {
+                        "totalCount": 0
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 2,
+                        "adds": 42,
+                        "total_commits": 4,
+                        "dels": 4
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk1MTU0OTc4NQ==",
+                    "updatedAt": "2016-11-23T10:47:58Z",
+                    "description": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                },
+                                "size": 401
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "createdAt": "2016-02-11T21:52:57Z",
+                    "name": "edmp-monitoring",
+                    "watchers": {
+                        "totalCount": 9
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 65
+                    },
+                    "isFork": true,
+                    "homepageURL": "",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MTQ0MDMzNg==",
+                    "updatedAt": "2017-01-26T15:03:48Z",
+                    "description": "Event Driven Microservices Platform using Kafka, Docker, Spring Boot, Jenkins, Nexus",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e69f56",
+                                    "name": "Groovy",
+                                    "id": "MDg6TGFuZ3VhZ2UxNzU="
+                                },
+                                "size": 10747
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 384
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 33
+                    },
+                    "createdAt": "2016-02-10T12:41:44Z",
+                    "name": "event-driven-microservices-platform",
+                    "watchers": {
+                        "totalCount": 162
+                    },
+                    "primaryLanguage": {
+                        "color": "#e69f56",
+                        "name": "Groovy",
+                        "id": "MDg6TGFuZ3VhZ2UxNzU="
+                    },
+                    "contribution": -1
+                }
+            }
+        ]
+    },
+    "websiteURL": "http://blog.codecentric.de/en/author/marcel-birkner/",
+    "watching": {
+        "totalCount": 46
+    },
+    "name": "Marcel Birkner",
+    "gists": {
+        "totalCount": 17
+    },
+    "followers": {
+        "totalCount": 68
+    }
+}

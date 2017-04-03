@@ -1,0 +1,913 @@
+{
+    "name": "Johannes",
+    "following": {
+        "totalCount": 7
+    },
+    "location": "",
+    "websiteURL": "https://scrutinizer-ci.com",
+    "starredRepositories": {
+        "totalCount": 145
+    },
+    "id": "MDQ6VXNlcjE5NzAxNw==",
+    "gists": {
+        "totalCount": 8
+    },
+    "followers": {
+        "totalCount": 809
+    },
+    "watching": {
+        "totalCount": 143
+    },
+    "organizations": {
+        "nodes": [
+            {
+                "name": "Doctrine",
+                "login": "doctrine",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/209254?v=3",
+                "url": "https://github.com/doctrine"
+            },
+            {
+                "name": "Behat",
+                "login": "Behat",
+                "avatarURL": "https://avatars2.githubusercontent.com/u/547869?v=3",
+                "url": "https://github.com/Behat"
+            },
+            {
+                "name": "Continuous Inspection",
+                "login": "scrutinizer-ci",
+                "avatarURL": "https://avatars1.githubusercontent.com/u/2988888?v=3",
+                "url": "https://github.com/scrutinizer-ci"
+            }
+        ],
+        "totalCount": 3
+    },
+    "login": "schmittjoh",
+    "pullRequests": {
+        "totalCount": 307
+    },
+    "contributedRepositories": {
+        "pageInfo": {
+            "endCursor": "MTU=",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "name": "serializer",
+                    "homepageURL": "http://jmsyst.com/libs/serializer",
+                    "contribution": {
+                        "adds": 36891,
+                        "num_of_weeks": 78,
+                        "total_commits": 241,
+                        "dels": 24519
+                    },
+                    "isFork": false,
+                    "primaryLanguage": {
+                        "name": "PHP",
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "watchers": {
+                        "totalCount": 41
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 658364
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2OTU0MDQ4",
+                    "description": "Library for (de-)serializing data of any complexity (supports XML, JSON, YAML)",
+                    "stargazers": {
+                        "totalCount": 556
+                    },
+                    "createdAt": "2012-12-01T12:46:39Z",
+                    "updatedAt": "2017-01-25T19:15:28Z",
+                    "forks": {
+                        "totalCount": 381
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "JMSJobQueueBundle",
+                    "homepageURL": "http://jmsyst.com/bundles/JMSJobQueueBundle",
+                    "contribution": {
+                        "adds": 30153,
+                        "num_of_weeks": 29,
+                        "total_commits": 100,
+                        "dels": 1885
+                    },
+                    "isFork": false,
+                    "primaryLanguage": {
+                        "name": "PHP",
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "watchers": {
+                        "totalCount": 32
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 163837
+                            },
+                            {
+                                "node": {
+                                    "name": "HTML",
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 11459
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NzAzMzYy",
+                    "description": "Run and Schedule Symfony Console Commands as Background Jobs",
+                    "stargazers": {
+                        "totalCount": 220
+                    },
+                    "createdAt": "2012-09-06T14:25:52Z",
+                    "updatedAt": "2017-01-26T02:07:23Z",
+                    "forks": {
+                        "totalCount": 108
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "utils",
+                    "homepageURL": null,
+                    "contribution": -1,
+                    "isFork": false,
+                    "primaryLanguage": {
+                        "name": "PHP",
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "watchers": {
+                        "totalCount": 5
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 27412
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3NDIwODU5",
+                    "description": null,
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "createdAt": "2013-01-03T10:03:48Z",
+                    "updatedAt": "2016-12-16T16:20:12Z",
+                    "forks": {
+                        "totalCount": 4
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "object-routing",
+                    "homepageURL": "http://jmsyst.com/libs/object-routing",
+                    "contribution": {
+                        "adds": 1156,
+                        "num_of_weeks": 2,
+                        "total_commits": 5,
+                        "dels": 10
+                    },
+                    "isFork": false,
+                    "primaryLanguage": {
+                        "name": "PHP",
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "watchers": {
+                        "totalCount": 7
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 31418
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk4MjUwMjAx",
+                    "description": "Library for generating routes based on objects.",
+                    "stargazers": {
+                        "totalCount": 54
+                    },
+                    "createdAt": "2013-02-17T12:18:31Z",
+                    "updatedAt": "2017-01-16T12:25:46Z",
+                    "forks": {
+                        "totalCount": 4
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "metadata",
+                    "homepageURL": "",
+                    "contribution": {
+                        "adds": 2035,
+                        "num_of_weeks": 24,
+                        "total_commits": 41,
+                        "dels": 307
+                    },
+                    "isFork": false,
+                    "primaryLanguage": {
+                        "name": "PHP",
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "watchers": {
+                        "totalCount": 9
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 61690
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzEyNTYz",
+                    "description": "Metadata is a library for metadata management in PHP",
+                    "stargazers": {
+                        "totalCount": 128
+                    },
+                    "createdAt": "2011-05-06T18:00:57Z",
+                    "updatedAt": "2017-01-24T08:42:42Z",
+                    "forks": {
+                        "totalCount": 45
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "JMSDiExtraBundle",
+                    "homepageURL": "http://jmsyst.com/bundles/JMSDiExtraBundle",
+                    "contribution": {
+                        "adds": 10678,
+                        "num_of_weeks": 46,
+                        "total_commits": 116,
+                        "dels": 2377
+                    },
+                    "isFork": false,
+                    "primaryLanguage": {
+                        "name": "PHP",
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "watchers": {
+                        "totalCount": 22
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 175117
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxOTUyMDky",
+                    "description": "Provides Advanced Dependency Injection Features for Symfony2",
+                    "stargazers": {
+                        "totalCount": 249
+                    },
+                    "createdAt": "2011-06-25T13:20:39Z",
+                    "updatedAt": "2017-01-26T05:15:57Z",
+                    "forks": {
+                        "totalCount": 92
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "ocular",
+                    "homepageURL": "https://scrutinizer-ci.com",
+                    "contribution": -1,
+                    "isFork": false,
+                    "primaryLanguage": {
+                        "name": "PHP",
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "watchers": {
+                        "totalCount": 7
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 14306
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxMjgxNTI3OQ==",
+                    "description": "CLI for uploading external code coverage data",
+                    "stargazers": {
+                        "totalCount": 25
+                    },
+                    "createdAt": "2013-09-13T17:28:10Z",
+                    "updatedAt": "2016-11-26T13:42:54Z",
+                    "forks": {
+                        "totalCount": 12
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "JMSSecurityExtraBundle",
+                    "homepageURL": "http://jmsyst.com/bundles/JMSSecurityExtraBundle",
+                    "contribution": {
+                        "adds": 27515,
+                        "num_of_weeks": 54,
+                        "total_commits": 155,
+                        "dels": 13950
+                    },
+                    "isFork": false,
+                    "primaryLanguage": {
+                        "name": "PHP",
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "watchers": {
+                        "totalCount": 29
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 340583
+                            },
+                            {
+                                "node": {
+                                    "name": "HTML",
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 506
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxMTcwODQ2",
+                    "description": "Enhances the Symfony2 Security Component with several new features",
+                    "stargazers": {
+                        "totalCount": 233
+                    },
+                    "createdAt": "2010-12-15T11:12:39Z",
+                    "updatedAt": "2017-01-24T08:43:14Z",
+                    "forks": {
+                        "totalCount": 79
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "scrutinizer",
+                    "homepageURL": "https://scrutinizer-ci.com/docs",
+                    "contribution": -1,
+                    "isFork": false,
+                    "primaryLanguage": null,
+                    "watchers": {
+                        "totalCount": 8
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3Mzg1NDA3",
+                    "description": "Legacy repository - archives past feature requests/bug reports",
+                    "stargazers": {
+                        "totalCount": 147
+                    },
+                    "createdAt": "2012-12-31T09:11:24Z",
+                    "updatedAt": "2017-01-05T10:03:18Z",
+                    "forks": {
+                        "totalCount": 34
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "composer-deps-analyzer",
+                    "homepageURL": null,
+                    "contribution": {
+                        "adds": 2131,
+                        "num_of_weeks": 8,
+                        "total_commits": 16,
+                        "dels": 224
+                    },
+                    "isFork": false,
+                    "primaryLanguage": {
+                        "name": "PHP",
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "watchers": {
+                        "totalCount": 6
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 27882
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NTIwMzQ5",
+                    "description": "Library for Analyzing Dependencies of composer projects",
+                    "stargazers": {
+                        "totalCount": 44
+                    },
+                    "createdAt": "2012-11-03T14:31:47Z",
+                    "updatedAt": "2016-11-09T16:59:20Z",
+                    "forks": {
+                        "totalCount": 9
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "php-analyzer",
+                    "homepageURL": "https://scrutinizer-ci.com/docs/tools/php/php-analyzer/",
+                    "contribution": -1,
+                    "isFork": false,
+                    "primaryLanguage": null,
+                    "watchers": {
+                        "totalCount": 22
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk4NTUxNTQ2",
+                    "description": "Performs advanced static analysis on PHP code",
+                    "stargazers": {
+                        "totalCount": 446
+                    },
+                    "createdAt": "2013-03-04T08:45:38Z",
+                    "updatedAt": "2016-12-28T05:12:09Z",
+                    "forks": {
+                        "totalCount": 55
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "cg-library",
+                    "homepageURL": "",
+                    "contribution": {
+                        "adds": 5361,
+                        "num_of_weeks": 13,
+                        "total_commits": 44,
+                        "dels": 865
+                    },
+                    "isFork": false,
+                    "primaryLanguage": {
+                        "name": "PHP",
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "watchers": {
+                        "totalCount": 8
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 125235
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMzgxOTg1",
+                    "description": "Provides a toolset for generating PHP code",
+                    "stargazers": {
+                        "totalCount": 82
+                    },
+                    "createdAt": "2011-09-13T23:01:52Z",
+                    "updatedAt": "2016-11-08T07:18:07Z",
+                    "forks": {
+                        "totalCount": 18
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "heroku-buildpack-php",
+                    "homepageURL": "https://devcenter.heroku.com/categories/php",
+                    "contribution": -1,
+                    "isFork": false,
+                    "primaryLanguage": {
+                        "name": "Shell",
+                        "color": "#89e051",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk="
+                    },
+                    "watchers": {
+                        "totalCount": 76
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 190999
+                            },
+                            {
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 27022
+                            },
+                            {
+                                "node": {
+                                    "name": "Python",
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                },
+                                "size": 931
+                            },
+                            {
+                                "node": {
+                                    "name": "ApacheConf",
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0MTg="
+                                },
+                                "size": 19589
+                            },
+                            {
+                                "node": {
+                                    "name": "Nginx",
+                                    "color": "#9469E9",
+                                    "id": "MDg6TGFuZ3VhZ2U0MjE="
+                                },
+                                "size": 688
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzU4NjA5",
+                    "description": "The official PHP buildpack for Heroku.",
+                    "stargazers": {
+                        "totalCount": 537
+                    },
+                    "createdAt": "2011-05-17T01:30:12Z",
+                    "updatedAt": "2017-01-26T13:19:09Z",
+                    "forks": {
+                        "totalCount": 819
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "hhvm",
+                    "homepageURL": "http://hhvm.com",
+                    "contribution": -1,
+                    "isFork": false,
+                    "primaryLanguage": {
+                        "name": "C++",
+                        "color": "#f34b7d",
+                        "id": "MDg6TGFuZ3VhZ2UxNDI="
+                    },
+                    "watchers": {
+                        "totalCount": 1139
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "CMake",
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0NDA="
+                                },
+                                "size": 423957
+                            },
+                            {
+                                "node": {
+                                    "name": "Shell",
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 29841
+                            },
+                            {
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 17121308
+                            },
+                            {
+                                "node": {
+                                    "name": "C++",
+                                    "color": "#f34b7d",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                },
+                                "size": 45886469
+                            },
+                            {
+                                "node": {
+                                    "name": "Python",
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                },
+                                "size": 359258
+                            },
+                            {
+                                "node": {
+                                    "name": "Makefile",
+                                    "color": "#427819",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                },
+                                "size": 16054
+                            },
+                            {
+                                "node": {
+                                    "name": "Perl",
+                                    "color": "#0298c3",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDc="
+                                },
+                                "size": 4567
+                            },
+                            {
+                                "node": {
+                                    "name": "CSS",
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 1477
+                            },
+                            {
+                                "node": {
+                                    "name": "Emacs Lisp",
+                                    "color": "#c065db",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTI="
+                                },
+                                "size": 11930
+                            },
+                            {
+                                "node": {
+                                    "name": "OCaml",
+                                    "color": "#3be133",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTk="
+                                },
+                                "size": 4043499
+                            },
+                            {
+                                "node": {
+                                    "name": "Standard ML",
+                                    "color": "#dc566d",
+                                    "id": "MDg6TGFuZ3VhZ2UyNTU="
+                                },
+                                "size": 32948
+                            },
+                            {
+                                "node": {
+                                    "name": "C",
+                                    "color": "#555555",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                },
+                                "size": 2022674
+                            },
+                            {
+                                "node": {
+                                    "name": "Hack",
+                                    "color": "#878787",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDA="
+                                },
+                                "size": 4801097
+                            },
+                            {
+                                "node": {
+                                    "name": "JavaScript",
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 449726
+                            },
+                            {
+                                "node": {
+                                    "name": "HTML",
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 1015
+                            },
+                            {
+                                "node": {
+                                    "name": "Awk",
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2UyODQ="
+                                },
+                                "size": 48
+                            },
+                            {
+                                "node": {
+                                    "name": "XSLT",
+                                    "color": "#EB8CEB",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDI="
+                                },
+                                "size": 15892
+                            },
+                            {
+                                "node": {
+                                    "name": "Assembly",
+                                    "color": "#6E4C13",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzY="
+                                },
+                                "size": 27082
+                            },
+                            {
+                                "node": {
+                                    "name": "LLVM",
+                                    "color": "#185619",
+                                    "id": "MDg6TGFuZ3VhZ2U0NDM="
+                                },
+                                "size": 12000
+                            },
+                            {
+                                "node": {
+                                    "name": "Yacc",
+                                    "color": "#4B6C4B",
+                                    "id": "MDg6TGFuZ3VhZ2U0NzM="
+                                },
+                                "size": 140642
+                            },
+                            {
+                                "node": {
+                                    "name": "Batchfile",
+                                    "color": "#C1F12E",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                },
+                                "size": 2352
+                            },
+                            {
+                                "node": {
+                                    "name": "GDB",
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U1MDY="
+                                },
+                                "size": 2215
+                            },
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 10328
+                            },
+                            {
+                                "node": {
+                                    "name": "Roff",
+                                    "color": "#ecdebe",
+                                    "id": "MDg6TGFuZ3VhZ2U1Njg="
+                                },
+                                "size": 20740
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0NTU2MDA=",
+                    "description": "A virtual machine designed for executing programs written in Hack and PHP. ",
+                    "stargazers": {
+                        "totalCount": 14232
+                    },
+                    "createdAt": "2010-01-02T01:17:06Z",
+                    "updatedAt": "2017-01-26T10:10:13Z",
+                    "forks": {
+                        "totalCount": 2538
+                    }
+                }
+            },
+            {
+                "node": {
+                    "name": "PHP_CodeSniffer",
+                    "homepageURL": "http://pear.php.net/package/PHP_CodeSniffer",
+                    "contribution": -1,
+                    "isFork": false,
+                    "primaryLanguage": {
+                        "name": "PHP",
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "watchers": {
+                        "totalCount": 154
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 2780388
+                            },
+                            {
+                                "node": {
+                                    "name": "JavaScript",
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 50359
+                            },
+                            {
+                                "node": {
+                                    "name": "CSS",
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 12428
+                            },
+                            {
+                                "node": {
+                                    "name": "Batchfile",
+                                    "color": "#C1F12E",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                },
+                                "size": 1310
+                            },
+                            {
+                                "node": {
+                                    "name": "HTML",
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 329
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNjk5OTM1",
+                    "description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
+                    "stargazers": {
+                        "totalCount": 3088
+                    },
+                    "createdAt": "2011-11-03T04:06:24Z",
+                    "updatedAt": "2017-01-25T15:18:07Z",
+                    "forks": {
+                        "totalCount": 667
+                    }
+                }
+            }
+        ],
+        "totalCount": 15
+    },
+    "pinnedRepositories": {
+        "nodes": [],
+        "totalCount": 0
+    },
+    "avatarURL": "https://avatars1.githubusercontent.com/u/197017?v=3",
+    "bio": null,
+    "email": "schmittjoh@gmail.com",
+    "company": "Scrutinizer GmbH"
+}

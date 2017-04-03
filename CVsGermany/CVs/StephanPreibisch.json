@@ -1,0 +1,689 @@
+{
+    "organizations": {
+        "totalCount": 8,
+        "nodes": [
+            {
+                "login": "fiji",
+                "avatarURL": "https://avatars2.githubusercontent.com/u/458129?v=3",
+                "url": "https://github.com/fiji",
+                "name": "Fiji"
+            },
+            {
+                "login": "scijava",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/1262770?v=3",
+                "url": "https://github.com/scijava",
+                "name": "SciJava"
+            },
+            {
+                "login": "imagej",
+                "avatarURL": "https://avatars1.githubusercontent.com/u/1268233?v=3",
+                "url": "https://github.com/imagej",
+                "name": "ImageJ"
+            },
+            {
+                "login": "scifio",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/4398150?v=3",
+                "url": "https://github.com/scifio",
+                "name": "SCIFIO"
+            },
+            {
+                "login": "imglib",
+                "avatarURL": "https://avatars2.githubusercontent.com/u/6209667?v=3",
+                "url": "https://github.com/imglib",
+                "name": "ImgLib2"
+            },
+            {
+                "login": "trakem2",
+                "avatarURL": "https://avatars2.githubusercontent.com/u/9615418?v=3",
+                "url": "https://github.com/trakem2",
+                "name": "TrakEM2"
+            },
+            {
+                "login": "bigdataviewer",
+                "avatarURL": "https://avatars1.githubusercontent.com/u/9824453?v=3",
+                "url": "https://github.com/bigdataviewer",
+                "name": "BigDataViewer"
+            },
+            {
+                "login": "PreibischLab",
+                "avatarURL": "https://avatars2.githubusercontent.com/u/16645510?v=3",
+                "url": "https://github.com/PreibischLab",
+                "name": "PreibischLab"
+            }
+        ]
+    },
+    "location": "Berlin, Germany",
+    "email": "",
+    "pullRequests": {
+        "totalCount": 8
+    },
+    "company": "Berlin Institute for Medical Systems Biology of the MDC",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "websiteURL": "http://www.preibisch.net",
+    "watching": {
+        "totalCount": 241
+    },
+    "avatarURL": "https://avatars2.githubusercontent.com/u/1420587?v=3",
+    "starredRepositories": {
+        "totalCount": 4
+    },
+    "followers": {
+        "totalCount": 41
+    },
+    "login": "StephanPreibisch",
+    "following": {
+        "totalCount": 10
+    },
+    "contributedRepositories": {
+        "totalCount": 13,
+        "edges": [
+            {
+                "node": {
+                    "description": "Lab's website",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0ODA0MjQ0NA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 8156
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 16915
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 118
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#563d7c",
+                        "name": "CSS",
+                        "id": "MDg6TGFuZ3VhZ2UzMDg="
+                    },
+                    "updatedAt": "2017-01-09T09:35:15Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2015-12-15T12:46:36Z",
+                    "name": "preibisch-labsite"
+                }
+            },
+            {
+                "node": {
+                    "description": "Software for the reconstruction of multi-view microscopic acquisitions like Selective Plane Illumination Microscopy (SPIM) Data",
+                    "forks": {
+                        "totalCount": 14
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTgyNTMyOQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 3285950
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-11-26T15:38:52Z",
+                    "watchers": {
+                        "totalCount": 21
+                    },
+                    "stargazers": {
+                        "totalCount": 10
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 118090,
+                        "total_commits": 1012,
+                        "num_of_weeks": 116,
+                        "dels": 49705
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2014-01-11T16:05:38Z",
+                    "name": "SPIM_Registration"
+                }
+            },
+            {
+                "node": {
+                    "description": "Code for analyzing the quality of probes for detection of genomic loci",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NTQ5MjIwMw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 41813
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-04-05T09:14:57Z",
+                    "watchers": {
+                        "totalCount": 6
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2016-04-05T09:12:20Z",
+                    "name": "DNACombing"
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxODUzNjUzNQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 171258
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-04-22T17:32:18Z",
+                    "watchers": {
+                        "totalCount": 12
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "http://fiji.sc/Descriptor-based_registration_(2d/3d)",
+                    "createdAt": "2014-04-07T22:19:54Z",
+                    "name": "Descriptor_based_registration"
+                }
+            },
+            {
+                "node": {
+                    "description": "Helper class to access SPIM_Registration functionality from c++ via JNI",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NjAzODcwNA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 28862
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-08-19T21:17:20Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 309,
+                        "total_commits": 6,
+                        "num_of_weeks": 1,
+                        "dels": 162
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-08-19T00:01:57Z",
+                    "name": "SPIM_Registration_JNI"
+                }
+            },
+            {
+                "node": {
+                    "description": "representation of multi-angle, multi-channel (etc.) SPIM images and their registration",
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxMjM3ODQ3MA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 275170
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-05-19T12:59:57Z",
+                    "watchers": {
+                        "totalCount": 4
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2013-08-26T12:24:09Z",
+                    "name": "spimdata"
+                }
+            },
+            {
+                "node": {
+                    "description": "Code for simulating a multi-view acquisition including attenuation, convolution, reduced sampling and poission noise",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNjQwOTQzMg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 51276
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-04-23T09:30:26Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 2224,
+                        "total_commits": 27,
+                        "num_of_weeks": 8,
+                        "dels": 255
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2014-01-31T13:59:51Z",
+                    "name": "multiview-simulation"
+                }
+            },
+            {
+                "node": {
+                    "description": "Fiji module for image transformation and related algorithms",
+                    "forks": {
+                        "totalCount": 41
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNjYxNTUw",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 1023489
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2017-01-31T05:45:37Z",
+                    "watchers": {
+                        "totalCount": 13
+                    },
+                    "stargazers": {
+                        "totalCount": 28
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 1894,
+                        "total_commits": 7,
+                        "num_of_weeks": 6,
+                        "dels": 1714
+                    },
+                    "homepageURL": "http://fly.mpi-cbg.de/saalfeld/Projects",
+                    "createdAt": "2012-03-08T16:01:20Z",
+                    "name": "mpicbg"
+                }
+            },
+            {
+                "node": {
+                    "description": "To play around with ImgLib2",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0OTQxODMzMw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 305266
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-01-11T10:38:10Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2016-01-11T10:19:13Z",
+                    "name": "ImgLib2TestEnvironment"
+                }
+            },
+            {
+                "node": {
+                    "description": "Algorithms implemented in Imglib2",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MjM1NTMzMg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 34976
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-03-11T21:49:36Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2016-02-23T11:53:44Z",
+                    "name": "Imglib2Algos"
+                }
+            },
+            {
+                "node": {
+                    "description": "Fiji's Stitching plugins reconstruct big images from tiled input images.",
+                    "forks": {
+                        "totalCount": 31
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTcyMTEwNQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 591699
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-12-21T16:09:42Z",
+                    "watchers": {
+                        "totalCount": 17
+                    },
+                    "stargazers": {
+                        "totalCount": 21
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "http://imagej.net/Stitching",
+                    "createdAt": "2014-01-08T00:34:54Z",
+                    "name": "Stitching"
+                }
+            },
+            {
+                "node": {
+                    "description": "Bio-Formats is a Java library for reading and writing data in life sciences image file formats. It is developed by the  Open Microscopy Environment (particularly UW-Madison LOCI and Glencoe Software). Bio-Formats is released under the  GNU General Public License (GPL); commercial licenses are available from  Glencoe Software. ",
+                    "forks": {
+                        "totalCount": 135
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNTEwNTAz",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 12014970
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 5560
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 144417
+                            },
+                            {
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                                    "name": "C++"
+                                },
+                                "size": 16750
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 17781
+                            },
+                            {
+                                "node": {
+                                    "color": "#da291c",
+                                    "id": "MDg6TGFuZ3VhZ2U0MjM=",
+                                    "name": "PostScript"
+                                },
+                                "size": 4503321
+                            },
+                            {
+                                "node": {
+                                    "color": "#bb92ac",
+                                    "id": "MDg6TGFuZ3VhZ2UyNDc=",
+                                    "name": "Matlab"
+                                },
+                                "size": 92496
+                            },
+                            {
+                                "node": {
+                                    "color": "#555555",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk=",
+                                    "name": "C"
+                                },
+                                "size": 6180
+                            },
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 5173
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2017-01-15T10:35:58Z",
+                    "watchers": {
+                        "totalCount": 14
+                    },
+                    "stargazers": {
+                        "totalCount": 113
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "http://www.openmicroscopy.org/site/products/bio-formats",
+                    "createdAt": "2011-10-04T08:06:14Z",
+                    "name": "bioformats"
+                }
+            },
+            {
+                "node": {
+                    "description": "SCientific Image Format Input & Output: a flexible, extensible framework for image I/O. *EXPERIMENTAL* All API is subject to change, so depend at your own risk! See also @openmicroscopy/bioformats.",
+                    "forks": {
+                        "totalCount": 15
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxMDE3NTAzMQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 2882507
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2017-02-04T23:56:48Z",
+                    "watchers": {
+                        "totalCount": 23
+                    },
+                    "stargazers": {
+                        "totalCount": 31
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "http://scif.io/",
+                    "createdAt": "2013-05-20T14:54:47Z",
+                    "name": "scifio"
+                }
+            }
+        ],
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "MTM="
+        }
+    },
+    "bio": null,
+    "gists": {
+        "totalCount": 0
+    },
+    "name": "Stephan Preibisch",
+    "id": "MDQ6VXNlcjE0MjA1ODc="
+}

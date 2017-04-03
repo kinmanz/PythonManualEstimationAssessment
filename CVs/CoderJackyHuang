@@ -1,0 +1,2023 @@
+{
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "websiteURL": "http://huangyibiao.com",
+    "email": "huangyibiao520@163.com",
+    "company": "http://blog.csdn.net/woaifen3344",
+    "avatarURL": "https://avatars1.githubusercontent.com/u/6337290?v=3",
+    "starredRepositories": {
+        "totalCount": 74
+    },
+    "followers": {
+        "totalCount": 1419
+    },
+    "location": "Shen Zhen, China",
+    "contributedRepositories": {
+        "pageInfo": {
+            "endCursor": "NDM=",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "description": "The CocoaPods Master Repo",
+                    "primaryLanguage": null,
+                    "contribution": -1,
+                    "languages": {
+                        "edges": []
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMzY1NTQ5",
+                    "updatedAt": "2017-01-26T03:09:22Z",
+                    "name": "Specs",
+                    "forks": {
+                        "totalCount": 6766
+                    },
+                    "homepageURL": "https://cocoapods.org",
+                    "createdAt": "2011-09-11T13:47:10Z",
+                    "watchers": {
+                        "totalCount": 235
+                    },
+                    "stargazers": {
+                        "totalCount": 3860
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u65e5\u5e38\u5f00\u53d1\u5fc5\u4e0d\u53ef\u5c11\u7684\u795e\u5668\u4e4b\u4e00\uff0cUIBlockKit\u3001UIMakerKit\u3001UIKit\u3001CommonKit\u3001FoundationKit\u3001Controllers\u3001Constants\u7b49\u96c6\u4e8e\u4e00\u8eab\u7684\u795e\u5668\uff01",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 10,
+                        "adds": 132,
+                        "total_commits": 11,
+                        "num_of_weeks": 3
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 219171
+                            },
+                            {
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 1221
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2MjE5MTA3Mw==",
+                    "updatedAt": "2017-01-21T00:33:23Z",
+                    "name": "HYBHelperKit",
+                    "forks": {
+                        "totalCount": 91
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-06-29T03:01:41Z",
+                    "watchers": {
+                        "totalCount": 28
+                    },
+                    "stargazers": {
+                        "totalCount": 396
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "A helpful and very useful library for controller custom transition.Only an API can you finish many kind of animation for controller A to controller B.Though you don't understand any transition animations, it is ok!",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 33,
+                        "adds": 338,
+                        "total_commits": 13,
+                        "num_of_weeks": 2
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 1829
+                            },
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 69889
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NTA0OTY4Mg==",
+                    "updatedAt": "2017-01-24T03:49:11Z",
+                    "name": "HYBControllerTransitions",
+                    "forks": {
+                        "totalCount": 75
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-03-30T09:19:09Z",
+                    "watchers": {
+                        "totalCount": 16
+                    },
+                    "stargazers": {
+                        "totalCount": 304
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u5f00\u6e90\u9ad8\u6548\u5904\u7406\u5706\u89d2\u7684\u6269\u5c55\uff0c\u5305\u62ecUIImageView\u3001UIView\u3001UIButton\u3001UIImage\u7684\u6269\u5c55API\uff0c\u53ef\u6839\u636e\u56fe\u7247\u989c\u8272\u751f\u6210\u56fe\u7247\u5e26\u4efb\u610f\u5706\u89d2\uff0c\u53ef\u7ed9UIButton\u6839\u636e\u4e0d\u540c\u72b6\u6001\u5904\u7406\u56fe\u7247\u3002\u6240\u6709\u751f\u6210\u56fe\u7247\u90fd\u4e0d\u4f1a\u5f15\u8d77\u79bb\u5c4f\u6e32\u67d3\u4e14\u4e0d\u4f1a\u5f15\u8d77\u79bb\u5c4f\u3001\u56fe\u5c42\u6df7\u5408\uff0c\u652f\u6301\u6dfb\u52a0\u56fe\u7247\u8fb9\u6846",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 12,
+                        "adds": 531,
+                        "total_commits": 7,
+                        "num_of_weeks": 3
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 1337
+                            },
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 421392
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NTI0ODM0Ng==",
+                    "updatedAt": "2017-01-25T09:14:05Z",
+                    "name": "HYBImageCliped",
+                    "forks": {
+                        "totalCount": 78
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-04-01T16:58:41Z",
+                    "watchers": {
+                        "totalCount": 16
+                    },
+                    "stargazers": {
+                        "totalCount": 405
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u4e00\u884c\u4ee3\u7801\u63a5\u5165\u8f6e\u64ad\u7ec4\u4ef6\uff0c\u81ea\u5e26\u56fe\u7247\u4e0b\u8f7d\u3001\u7f13\u5b58\u76f8\u5173\u529f\u80fd\uff0c\u65e0\u4efb\u4f55\u7b2c\u4e09\u65b9\u4f9d\u8d56\u3001\u8f7b\u91cf\u7ea7\u7ec4\u4ef6\u3002",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 294,
+                        "adds": 14511,
+                        "total_commits": 43,
+                        "num_of_weeks": 14
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 237128
+                            },
+                            {
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 901
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzMzI0NTgwMQ==",
+                    "updatedAt": "2017-01-25T09:18:39Z",
+                    "name": "HYBLoopScrollView",
+                    "forks": {
+                        "totalCount": 136
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2015-04-01T12:18:19Z",
+                    "watchers": {
+                        "totalCount": 20
+                    },
+                    "stargazers": {
+                        "totalCount": 526
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u57fa\u4e8eAFNetworking3.0\u4ee5\u4e0a\u7248\u672c\u5c01\u88c5\u7684\u7f51\u7edc\u5c42\u3002\u63d0\u4f9b\u5e38\u7528\u7684GET/POST\u63a5\u53e3\u3001\u4e0a\u4f20\u4e0b\u8f7d\u56fe\u7247\u3001\u6587\u4ef6\u63a5\u53e3\u3001\u652f\u6301\u7f13\u5b58\u7b49\u3002",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 77,
+                        "adds": 89,
+                        "total_commits": 5,
+                        "num_of_weeks": 4
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 53843
+                            },
+                            {
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 1182
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0NjIwNTgwOA==",
+                    "updatedAt": "2017-01-22T15:06:57Z",
+                    "name": "HYBNetworking",
+                    "forks": {
+                        "totalCount": 169
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2015-11-15T05:30:15Z",
+                    "watchers": {
+                        "totalCount": 28
+                    },
+                    "stargazers": {
+                        "totalCount": 462
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u89e3\u51b3\u6253\u5370\u65e5\u5fd7\u5bf9\u4e8eUnicode\u7f16\u7801\u4e0d\u80fd\u6b63\u5e38\u663e\u793a\u4e2d\u6587\u7684\u95ee\u9898\uff0c\u53ea\u9700\u8981\u5c06\u6587\u4ef6\u5bfc\u5165\u5de5\u7a0b\uff0c\u4e0d\u9700\u8981\u5f15\u7528\uff0c\u5c31\u80fd\u8fbe\u5230\u6253\u5370\u65e5\u5fd7\u663e\u793aUnicode\u7f16\u7801\u4e2d\u6587\u6570\u636e",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 64,
+                        "adds": 153,
+                        "total_commits": 7,
+                        "num_of_weeks": 2
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 3416
+                            },
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 33548
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0ODcyMjc3Mg==",
+                    "updatedAt": "2017-01-21T08:08:38Z",
+                    "name": "HYBUnicodeReadable",
+                    "forks": {
+                        "totalCount": 51
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2015-12-29T02:26:21Z",
+                    "watchers": {
+                        "totalCount": 13
+                    },
+                    "stargazers": {
+                        "totalCount": 215
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u5b66\u4e60collectionview\u7684\u6240\u6709\u4f8b\u5b50\uff0c\u5305\u62ec\u52a8\u753b\u3001\u5e03\u5c40\u7b49\u3002",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 6,
+                        "adds": 29,
+                        "total_commits": 3,
+                        "num_of_weeks": 2
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 31020
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NDc3OTE2MQ==",
+                    "updatedAt": "2017-01-24T03:46:40Z",
+                    "name": "CollectionViewDemos",
+                    "forks": {
+                        "totalCount": 10
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-03-26T12:59:32Z",
+                    "watchers": {
+                        "totalCount": 4
+                    },
+                    "stargazers": {
+                        "totalCount": 60
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "A very helpful category for calculating the height of cell automatically.",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 15,
+                        "adds": 85,
+                        "total_commits": 7,
+                        "num_of_weeks": 4
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 24513
+                            },
+                            {
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 753
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0MTcxMTQ2OA==",
+                    "updatedAt": "2017-01-23T06:14:22Z",
+                    "name": "HYBMasonryAutoCellHeight",
+                    "forks": {
+                        "totalCount": 107
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2015-09-01T02:09:58Z",
+                    "watchers": {
+                        "totalCount": 18
+                    },
+                    "stargazers": {
+                        "totalCount": 353
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u5b66\u4e60\u5982\u4f55\u4f7f\u7528OC\u5b9e\u73b0WKWebView\u4e0eH5\u4ea4\u4e92\uff0c\u5e76\u5b66\u4e60\u5176API\u4f7f\u7528",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 1,
+                        "adds": 24,
+                        "total_commits": 2,
+                        "num_of_weeks": 2
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 13291
+                            },
+                            {
+                                "node": {
+                                    "name": "HTML",
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 1808
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NDUyMTk0MA==",
+                    "updatedAt": "2017-01-18T07:35:37Z",
+                    "name": "WKWebViewH5ObjCDemo",
+                    "forks": {
+                        "totalCount": 24
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-03-23T01:44:41Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 65
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "HTTP Live Streaming segmenters tool.",
+                    "primaryLanguage": null,
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 32,
+                        "total_commits": 2,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NzI2OTAzNQ==",
+                    "updatedAt": "2016-05-19T07:12:26Z",
+                    "name": "HLSStreamTools",
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-04-28T03:47:29Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u5b66\u4e60block\u7684\u6240\u6709demo",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 28,
+                        "total_commits": 2,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 5956
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NDY4OTc2Mw==",
+                    "updatedAt": "2016-06-16T07:31:51Z",
+                    "name": "BlockDemos",
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-03-25T02:50:06Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u5b66\u4e60\u5982\u4f55\u4f7f\u7528WebViewJavascriptBridge\uff0c\u914d\u6709\u8be6\u7ec6\u7684\u4f7f\u7528\u6559\u7a0b",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 27,
+                        "total_commits": 2,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 76
+                            },
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 8498
+                            },
+                            {
+                                "node": {
+                                    "name": "HTML",
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 3530
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MzQ2MjQwMg==",
+                    "updatedAt": "2017-01-15T13:44:02Z",
+                    "name": "WebViewJavascriptBridgeDemo",
+                    "forks": {
+                        "totalCount": 22
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-03-09T02:43:06Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 88
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u5728\u591a\u9009\u9898\u5904\u7406\u4e2d\uff0cA\u3001B\u3001C\u4e0eD\u4e92\u65a5\u548cA\u4e0eB\u4e92\u65a5\u3001C\u4e0eD\u4e92\u65a5\u5b66\u4e60\u5982\u4f55\u5904\u7406\u3002",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 28,
+                        "total_commits": 2,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 14551
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MzA1MDg3NQ==",
+                    "updatedAt": "2016-09-19T13:56:47Z",
+                    "name": "MultiSelectMutexDemo",
+                    "forks": {
+                        "totalCount": 4
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-03-03T13:06:09Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 14
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "HTML\u4e2d\u70b9\u51fb\u56fe\u7247\u9884\u89c8",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 30,
+                        "total_commits": 2,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 7384
+                            },
+                            {
+                                "node": {
+                                    "name": "Swift",
+                                    "color": "#ffac45",
+                                    "id": "MDg6TGFuZ3VhZ2UzNzE="
+                                },
+                                "size": 6847
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MDgwNzUwMQ==",
+                    "updatedAt": "2016-09-08T06:27:16Z",
+                    "name": "HTMLImagePreviewDemo",
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-02-01T02:12:54Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 8
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u5b66\u4e60Masonry\u5404\u79cd\u7528\u6cd5",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 14,
+                        "adds": 61,
+                        "total_commits": 3,
+                        "num_of_weeks": 2
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 143966
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0NzA0ODQ3NA==",
+                    "updatedAt": "2017-01-21T08:47:34Z",
+                    "name": "MasonryDemo",
+                    "forks": {
+                        "totalCount": 73
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2015-11-29T03:29:52Z",
+                    "watchers": {
+                        "totalCount": 12
+                    },
+                    "stargazers": {
+                        "totalCount": 198
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "PHP\u67e5\u8be2\u624b\u673a\u5f52\u5c5e\u5730\u5c0f\u9879\u76ee\u7ec3\u4e60",
+                    "primaryLanguage": {
+                        "name": "PHP",
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "PHP",
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 2413
+                            },
+                            {
+                                "node": {
+                                    "name": "HTML",
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 1642
+                            },
+                            {
+                                "node": {
+                                    "name": "JavaScript",
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 1044
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NjYzOTI0NA==",
+                    "updatedAt": "2016-08-29T09:05:21Z",
+                    "name": "QueryPhoneDemo",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-08-26T10:26:15Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "primaryLanguage": {
+                        "name": "Swift",
+                        "color": "#ffac45",
+                        "id": "MDg6TGFuZ3VhZ2UzNzE="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 22,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Swift",
+                                    "color": "#ffac45",
+                                    "id": "MDg6TGFuZ3VhZ2UzNzE="
+                                },
+                                "size": 12465
+                            },
+                            {
+                                "node": {
+                                    "name": "CSS",
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 785
+                            },
+                            {
+                                "node": {
+                                    "name": "HTML",
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 887
+                            },
+                            {
+                                "node": {
+                                    "name": "JavaScript",
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 3854
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NjQ1OTAxMA==",
+                    "updatedAt": "2016-08-24T11:41:14Z",
+                    "name": "JavaScriptCoreDemo",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-08-24T11:38:31Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "VideoCaptureDemo",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 15266
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2MDgyMjkyMQ==",
+                    "updatedAt": "2016-12-21T07:44:59Z",
+                    "name": "VideoCaptureDemo",
+                    "forks": {
+                        "totalCount": 9
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-06-10T03:56:26Z",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "stargazers": {
+                        "totalCount": 45
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u5229\u7528UITableView\u7684section\u5b9e\u73b0\u50cfQQ\u90a3\u6837\u7684\u5c55\u5f00\u4e0e\u6536\u8d77\u7684\u6548\u679c",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 10884
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2MDc2NTM5Nw==",
+                    "updatedAt": "2017-01-16T08:48:25Z",
+                    "name": "SectionAnimation",
+                    "forks": {
+                        "totalCount": 4
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-06-09T10:06:27Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 14
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "download demo",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 25384
+                            },
+                            {
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 111
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1OTYzNjk4Mw==",
+                    "updatedAt": "2017-01-17T06:46:52Z",
+                    "name": "DownloadManager",
+                    "forks": {
+                        "totalCount": 26
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-05-25T06:30:37Z",
+                    "watchers": {
+                        "totalCount": 5
+                    },
+                    "stargazers": {
+                        "totalCount": 77
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u6b63\u5728\u5f00\u53d1\u4e2d\u3002\u3002\u3002",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 4236
+                            },
+                            {
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 125
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1Nzk0ODkxOQ==",
+                    "updatedAt": "2016-05-05T01:24:11Z",
+                    "name": "HYBM3U8",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-05-03T07:10:14Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 22,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 48038
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NzkwMDQwMQ==",
+                    "updatedAt": "2016-05-16T08:49:37Z",
+                    "name": "SelectEmployeeDemo",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-05-02T15:34:55Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "learn swift with QQ music demo",
+                    "primaryLanguage": null,
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NzM4MTY2OA==",
+                    "updatedAt": "2016-06-08T12:30:14Z",
+                    "name": "QQMusicSwiftDemo",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-04-29T12:13:38Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u5b66\u4e60\u5982\u4f55\u5728\u7cfb\u7edf\u7684\u5bfc\u822a\u6761\u4e0a\u6dfb\u52a0\u4e00\u4e2aview\uff0c\u7136\u540e\u53ef\u4ee5\u968f\u7740\u6eda\u52a8\u800c\u7f29\u653e\u3002\u901a\u5e38\u5728\u5f88\u591a\u7684app\u4e2d\u90fd\u91c7\u7528\u4e86\u8fd9\u79cd\u6548\u679c\uff0c\u4e3b\u8981\u662f\u663e\u793a\u7528\u6237\u5934\u50cf\u6548\u679c\u3002",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 6481
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NzAyMzQ4Ng==",
+                    "updatedAt": "2017-01-07T07:39:56Z",
+                    "name": "NavigationBarScaleViewDemo",
+                    "forks": {
+                        "totalCount": 8
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-04-25T08:09:06Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 24
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 22,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 30532
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NjkwMTI2OA==",
+                    "updatedAt": "2016-04-23T05:29:15Z",
+                    "name": "LikeEmojiLongPressMoveDemo",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-04-23T04:59:48Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 22,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 11459
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NjE0Mjc1Mg==",
+                    "updatedAt": "2016-04-13T10:32:58Z",
+                    "name": "CellInsertNewCellDemo",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-04-13T10:31:14Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 1,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 62307
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NTk1NDM1Nw==",
+                    "updatedAt": "2016-04-11T08:21:03Z",
+                    "name": "ZhuanZenCalendarDemo",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-04-11T08:19:18Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u5b66\u4e60GCD\u76f8\u5173API\u7684demo",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 6496
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NTY1NzUzMg==",
+                    "updatedAt": "2017-01-12T08:37:16Z",
+                    "name": "GCDDemos",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-04-07T02:37:16Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u7814\u7a76\u6027\u80fd\u95ee\u9898",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 239296
+                            },
+                            {
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 110
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NTQ2MDYyNQ==",
+                    "updatedAt": "2016-04-05T02:25:44Z",
+                    "name": "PerformanceShareDemo",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-04-05T02:17:27Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u5b66\u4e60\u901a\u8fc7\u5b9a\u65f6\u5668\u548ccore animation\u6765\u5b9e\u73b0\u65f6\u949f\u52a8\u753b",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 14766
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1Mzk1NzU5OA==",
+                    "updatedAt": "2016-10-19T04:16:16Z",
+                    "name": "ClockAnimationDemo",
+                    "forks": {
+                        "totalCount": 6
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-03-15T15:46:37Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 19
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "WebView\u52a0\u8f7dHTML\u4e2d\u7684\u56fe\u7247\u65f6\uff0c\u5904\u7406\u56fe\u7247\u8d85\u8fc7\u5c4f\u5e55\u7684\u95ee\u9898\uff0c\u8ba9\u56fe\u7247\u81ea\u9002\u5e94\u5c4f\u5e55",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 6329
+                            },
+                            {
+                                "node": {
+                                    "name": "HTML",
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 450
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MzMyNjQxMA==",
+                    "updatedAt": "2016-12-23T09:39:06Z",
+                    "name": "WebViewImgAutoFit",
+                    "forks": {
+                        "totalCount": 6
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-03-07T13:10:10Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 19
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 22,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 22134
+                            },
+                            {
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 77
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MzE4NTA2Mg==",
+                    "updatedAt": "2016-05-05T07:24:45Z",
+                    "name": "PerformanceDemo",
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-03-05T05:19:29Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "primaryLanguage": null,
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 21,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MzEwNDk2Mw==",
+                    "updatedAt": "2017-01-21T07:57:09Z",
+                    "name": "MDArtileFiles",
+                    "forks": {
+                        "totalCount": 15
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-03-04T03:35:39Z",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "stargazers": {
+                        "totalCount": 31
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u5b66\u4e60\u5728cell\u4e2d\u5d4c\u5957Tableview\u5982\u4f55\u52a8\u6001\u81ea\u52a8\u8ba1\u7b97\u884c\u9ad8\uff0c\u81ea\u52a8\u9002\u5e94\u5185\u5bb9\u7684\u663e\u793a",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 19495
+                            },
+                            {
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 79
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MjkzNjA4Ng==",
+                    "updatedAt": "2016-12-25T08:13:36Z",
+                    "name": "CellEmbedTableView",
+                    "forks": {
+                        "totalCount": 6
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-03-02T05:17:23Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 33
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "UITableViewCell\u5d4c\u5165UIWebView\uff0c\u5982\u4f55\u81ea\u9002\u5e94\u9ad8\u5ea6\u95ee\u9898\u5b66\u4e60",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 11585
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1Mjc3ODE5NQ==",
+                    "updatedAt": "2016-11-17T10:35:11Z",
+                    "name": "UITableViewEmbedUIWebViewDemo",
+                    "forks": {
+                        "totalCount": 7
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-02-29T09:08:06Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 10
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u7ec3\u4e60UITextView\u548cUILabel\u5982\u4f55\u52a0\u8f7dHTML\u5185\u5bb9",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Ruby",
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 87
+                            },
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 15178
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MjcwMTA3Mg==",
+                    "updatedAt": "2016-07-05T03:58:06Z",
+                    "name": "TextVeiw-Label-HTML-DEMO",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-02-28T02:42:18Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u9a8c\u8bc1\u5982\u4f55\u540c\u65f6\u652f\u6301leftBarButtonItem\u53ca\u53f3\u6ed1\u8fd4\u56de\u624b\u52bf",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 12680
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MjI3NTA3OA==",
+                    "updatedAt": "2017-01-16T02:50:43Z",
+                    "name": "NavGestureDemo",
+                    "forks": {
+                        "totalCount": 5
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-02-22T13:25:22Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 19
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u5c1d\u8bd5block\u5185\u5b58\u5f15\u7528\u95ee\u9898",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 9239
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MjAxMjI3NA==",
+                    "updatedAt": "2016-06-24T14:33:24Z",
+                    "name": "iOSBlockUseDemo",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-02-18T14:17:28Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 6
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u672c\u5730\u63a8\u9001demo\uff0c\u5904\u7406\u4e86iOS8\u4e0eIOS7\u4e4b\u524d\u7684\u7248\u672c",
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": {
+                        "dels": 1,
+                        "adds": 1435,
+                        "total_commits": 3,
+                        "num_of_weeks": 2
+                    },
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 8902
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzMjI5ODEyOQ==",
+                    "updatedAt": "2016-11-22T15:14:13Z",
+                    "name": "LocalPush",
+                    "forks": {
+                        "totalCount": 13
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2015-03-16T03:04:23Z",
+                    "watchers": {
+                        "totalCount": 5
+                    },
+                    "stargazers": {
+                        "totalCount": 36
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "\u5b66\u4e60ThinkPHP3.2.3\u7684\u4f8b\u5b50",
+                    "primaryLanguage": null,
+                    "contribution": {
+                        "dels": 0,
+                        "adds": 23,
+                        "total_commits": 1,
+                        "num_of_weeks": 1
+                    },
+                    "languages": {
+                        "edges": []
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MDcxOTQ5Mw==",
+                    "updatedAt": "2016-01-30T10:10:54Z",
+                    "name": "ThinkPHPStudy",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-01-30T10:10:54Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": "wxParse-\u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u5bcc\u6587\u672c\u89e3\u6790\u81ea\u5b9a\u4e49\u7ec4\u4ef6\uff0c\u652f\u6301HTML\u53camarkdown\u89e3\u6790",
+                    "primaryLanguage": {
+                        "name": "JavaScript",
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA="
+                    },
+                    "contribution": -1,
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "JavaScript",
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 107998
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3MTcwMTI1Nw==",
+                    "updatedAt": "2017-01-26T07:49:21Z",
+                    "name": "wxParse",
+                    "forks": {
+                        "totalCount": 151
+                    },
+                    "homepageURL": "http://weappdev.com/",
+                    "createdAt": "2016-10-23T12:25:18Z",
+                    "watchers": {
+                        "totalCount": 54
+                    },
+                    "stargazers": {
+                        "totalCount": 575
+                    },
+                    "isFork": false
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "primaryLanguage": {
+                        "name": "Objective-C",
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY="
+                    },
+                    "contribution": -1,
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Objective-C",
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 3553694
+                            },
+                            {
+                                "node": {
+                                    "name": "C",
+                                    "color": "#555555",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                },
+                                "size": 51838
+                            },
+                            {
+                                "node": {
+                                    "name": "HTML",
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 4555
+                            },
+                            {
+                                "node": {
+                                    "name": "Objective-C++",
+                                    "color": "#6866fb",
+                                    "id": "MDg6TGFuZ3VhZ2UzNDY="
+                                },
+                                "size": 12888
+                            }
+                        ]
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MzAyOTc0Mg==",
+                    "updatedAt": "2016-05-18T03:29:43Z",
+                    "name": "Sino",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-03-03T07:20:29Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false
+                }
+            }
+        ],
+        "totalCount": 43
+    },
+    "id": "MDQ6VXNlcjYzMzcyOTA=",
+    "gists": {
+        "totalCount": 0
+    },
+    "bio": "To be a best iOS developer.",
+    "name": "JackyHuang",
+    "login": "CoderJackyHuang",
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "following": {
+        "totalCount": 19
+    },
+    "watching": {
+        "totalCount": 137
+    },
+    "pullRequests": {
+        "totalCount": 2
+    }
+}

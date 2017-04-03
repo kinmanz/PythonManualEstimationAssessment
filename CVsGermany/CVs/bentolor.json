@@ -1,0 +1,704 @@
+{
+    "organizations": {
+        "totalCount": 2,
+        "nodes": [
+            {
+                "name": "eXXcellent solutions GmbH",
+                "url": "https://github.com/exxcellent",
+                "login": "exxcellent",
+                "avatarURL": "https://avatars2.githubusercontent.com/u/588240?v=3"
+            },
+            {
+                "name": "echo3",
+                "url": "https://github.com/echo3",
+                "login": "echo3",
+                "avatarURL": "https://avatars2.githubusercontent.com/u/1135649?v=3"
+            }
+        ]
+    },
+    "bio": "Technology Advisor @exxcellent ",
+    "company": "eXXcellent solutions GmbH",
+    "login": "bentolor",
+    "starredRepositories": {
+        "totalCount": 79
+    },
+    "pullRequests": {
+        "totalCount": 44
+    },
+    "following": {
+        "totalCount": 6
+    },
+    "id": "MDQ6VXNlcjU4ODI2MA==",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "avatarURL": "https://avatars1.githubusercontent.com/u/588260?v=3",
+    "location": "Darmstadt / Ulm, Germany",
+    "email": "",
+    "contributedRepositories": {
+        "totalCount": 12,
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "MTI="
+        },
+        "edges": [
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk2NzEyMTA5Mw==",
+                    "updatedAt": "2017-01-30T09:53:21Z",
+                    "description": "Android-Entwickler k\u00f6nnen nur sehns\u00fcchtig seufzen: Die neuen Java-8-M\u00f6glichkeiten bleiben ihnen vorenthalten.               Abhilfe schafft hier die Programmiersprache Kotlin, welche dieses Jahr die 1.0 erreicht hat. Ausdrucksstarke Syntax,               nahtlose Android Studio-Integration, funktionale Features und die vollst\u00e4ndige Bin\u00e4r- und Codekompatibilit\u00e4t mit Java 6               machen Kotlin auch unter Android zu einer idealen Alternative. In dieser Session erleben wir live, wie es sich anf\u00fchlt,               die NullpointerException gegen moderne Sprachfeatures einzutauschen. Eine einfache Beispiel-App hilft beim Kennenlernen,               sodass auch Neueinsteiger gut folgen k\u00f6nnen und interessante Einblicke in Kotlin und Android gewinnen.",
+                    "languages": {
+                        "edges": []
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2016-09-01T10:16:44Z",
+                    "name": "kotlin-android-talk",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "primaryLanguage": null,
+                    "contribution": {
+                        "num_of_weeks": 7,
+                        "adds": 39595,
+                        "total_commits": 38,
+                        "dels": 21359
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 40
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://bentolor.github.io/java9-in-action/",
+                    "id": "MDEwOlJlcG9zaXRvcnk2MjMwODE2MA==",
+                    "updatedAt": "2017-02-04T10:37:02Z",
+                    "description": "A RevealJS overview presentation & example project of what to expect from Java 9 (Jul'2016)",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 72903
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 54893
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 166028
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 1020
+                            },
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                },
+                                "size": 8900
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 19
+                    },
+                    "createdAt": "2016-06-30T12:17:18Z",
+                    "name": "java9-in-action",
+                    "watchers": {
+                        "totalCount": 6
+                    },
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "name": "JavaScript",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 3,
+                        "adds": 12858,
+                        "total_commits": 19,
+                        "dels": 612
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 21
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk0NzQxNDUxNQ==",
+                    "updatedAt": "2017-01-24T08:37:49Z",
+                    "description": "A little command-line tool to integrate the awesome IntelliJ IDEA code inspections in your continuous integration (CI) process using Jenkins, Bamboo, et. al.",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e69f56",
+                                    "name": "Groovy",
+                                    "id": "MDg6TGFuZ3VhZ2UxNzU="
+                                },
+                                "size": 15930
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 4
+                    },
+                    "createdAt": "2015-12-04T16:10:07Z",
+                    "name": "idea-cli-inspector",
+                    "watchers": {
+                        "totalCount": 4
+                    },
+                    "primaryLanguage": {
+                        "color": "#e69f56",
+                        "name": "Groovy",
+                        "id": "MDg6TGFuZ3VhZ2UxNzU="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 10,
+                        "adds": 4010,
+                        "total_commits": 24,
+                        "dels": 1119
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 34
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://atom.io/packages/language-asciidoc",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzM3NjQ5Nw==",
+                    "updatedAt": "2016-11-25T03:58:16Z",
+                    "description": "\u269b AsciiDoc language package for the Atom editor.",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#244776",
+                                    "name": "CoffeeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU="
+                                },
+                                "size": 340091
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 3523
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 1834
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 15
+                    },
+                    "createdAt": "2014-03-03T19:06:14Z",
+                    "name": "atom-language-asciidoc",
+                    "watchers": {
+                        "totalCount": 18
+                    },
+                    "primaryLanguage": {
+                        "color": "#244776",
+                        "name": "CoffeeScript",
+                        "id": "MDg6TGFuZ3VhZ2UxOTU="
+                    },
+                    "contribution": 0
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 9
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://atom.io/packages/language-kotlin",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMTUyODcxNA==",
+                    "updatedAt": "2016-11-24T05:14:51Z",
+                    "description": "Adds syntax highlighting to Kotlin files in Atom",
+                    "languages": {
+                        "edges": []
+                    },
+                    "forks": {
+                        "totalCount": 5
+                    },
+                    "createdAt": "2014-07-05T21:38:02Z",
+                    "name": "atom-kotlin-language",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "primaryLanguage": null,
+                    "contribution": 0
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 19006
+                    },
+                    "isFork": false,
+                    "homepageURL": "https://gitlab.com/gitlab-org/gitlab-ce/issues",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNTAwMDg4",
+                    "updatedAt": "2017-02-05T06:13:08Z",
+                    "description": "GitLab CE | Please open new issues in our issue tracker on GitLab.com",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 8121549
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 1082054
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 450640
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 924238
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 21643
+                            },
+                            {
+                                "node": {
+                                    "color": "#5B2063",
+                                    "name": "Gherkin",
+                                    "id": "MDg6TGFuZ3VhZ2U2MzU="
+                                },
+                                "size": 141565
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 5031
+                    },
+                    "createdAt": "2011-10-02T16:25:27Z",
+                    "name": "gitlabhq",
+                    "watchers": {
+                        "totalCount": 1040
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "contribution": 0
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 6
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://echo.nextapp.com/site/echo3/addons/chart",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTcxMDUx",
+                    "updatedAt": "2016-07-26T18:15:06Z",
+                    "description": "Echo3 Chart provides support for rendering charts using JFreeChart from within a server-side Echo3 application. All of the heavy-lifting is done by JFreeChart, this component is only a thin wrapper to simplify its use within Echo applications.",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 179739
+                            },
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                },
+                                "size": 79720
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 1775
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 410
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "createdAt": "2011-04-05T07:26:22Z",
+                    "name": "echo3chart",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "name": "JavaScript",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 235
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk0NDA1OTE4OQ==",
+                    "updatedAt": "2017-02-04T14:47:03Z",
+                    "description": "Back In Time - A simple backup tool for Linux",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                },
+                                "size": 937162
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 8180
+                            },
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                },
+                                "size": 6832
+                            },
+                            {
+                                "node": {
+                                    "color": "#ecdebe",
+                                    "name": "Roff",
+                                    "id": "MDg6TGFuZ3VhZ2U1Njg="
+                                },
+                                "size": 37968
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 23
+                    },
+                    "createdAt": "2015-10-11T16:12:03Z",
+                    "name": "backintime",
+                    "watchers": {
+                        "totalCount": 23
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 25
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNjc3NzE3NQ==",
+                    "updatedAt": "2017-01-19T08:43:57Z",
+                    "description": "View git diffs directly in atom.",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#244776",
+                                    "name": "CoffeeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU="
+                                },
+                                "size": 12850
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 1347
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 10
+                    },
+                    "createdAt": "2014-11-17T21:04:11Z",
+                    "name": "git-diff-details",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "primaryLanguage": {
+                        "color": "#244776",
+                        "name": "CoffeeScript",
+                        "id": "MDg6TGFuZ3VhZ2UxOTU="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 7040
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "id": "MDEwOlJlcG9zaXRvcnkzNjg5MTg2Nw==",
+                    "updatedAt": "2017-02-05T07:25:57Z",
+                    "description": "CLI tool for Angular",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 230325
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 1153
+                            },
+                            {
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                },
+                                "size": 484524
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 72
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 1316
+                    },
+                    "createdAt": "2015-06-04T19:49:37Z",
+                    "name": "angular-cli",
+                    "watchers": {
+                        "totalCount": 656
+                    },
+                    "primaryLanguage": {
+                        "color": "#2b7489",
+                        "name": "TypeScript",
+                        "id": "MDg6TGFuZ3VhZ2UyODc="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 1833
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "id": "MDEwOlJlcG9zaXRvcnk0MTg3MTYyOA==",
+                    "updatedAt": "2017-02-05T00:30:33Z",
+                    "description": "The Fishshell Framework.",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 77849
+                            },
+                            {
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                },
+                                "size": 236
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 132
+                    },
+                    "createdAt": "2015-09-03T16:47:31Z",
+                    "name": "oh-my-fish",
+                    "watchers": {
+                        "totalCount": 60
+                    },
+                    "primaryLanguage": {
+                        "color": "#89e051",
+                        "name": "Shell",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 114
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "id": "MDEwOlJlcG9zaXRvcnkzMDQwMjY0",
+                    "updatedAt": "2017-01-21T02:01:30Z",
+                    "description": "Low traffic social networking client with tree-like threaded conversations. For Android ",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 13391
+                            },
+                            {
+                                "node": {
+                                    "color": "#EB8CEB",
+                                    "name": "XSLT",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDI="
+                                },
+                                "size": 14601
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 4334
+                            },
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                },
+                                "size": 2359906
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 47
+                    },
+                    "createdAt": "2011-12-23T13:33:25Z",
+                    "name": "andstatus",
+                    "watchers": {
+                        "totalCount": 23
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "contribution": -1
+                }
+            }
+        ]
+    },
+    "websiteURL": "",
+    "watching": {
+        "totalCount": 82
+    },
+    "name": "Benjamin Schmid",
+    "gists": {
+        "totalCount": 1
+    },
+    "followers": {
+        "totalCount": 14
+    }
+}

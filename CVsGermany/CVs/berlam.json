@@ -1,0 +1,584 @@
+{
+    "bio": "I am a technology enthusiast and believe in testing and hardening software to continuously deliver high quality code in a fast and frustration-free manner.",
+    "gists": {
+        "totalCount": 2
+    },
+    "contributedRepositories": {
+        "totalCount": 10,
+        "pageInfo": {
+            "endCursor": "MTA=",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2017-01-31T07:55:51Z",
+                    "createdAt": "2015-08-05T13:03:47Z",
+                    "description": "My public dotfiles",
+                    "primaryLanguage": {
+                        "color": "#199f4b",
+                        "id": "MDg6TGFuZ3VhZ2U1Njk=",
+                        "name": "Vim script"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 416,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 31404,
+                                "node": {
+                                    "color": "#000080",
+                                    "name": "Lua",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjQ="
+                                }
+                            },
+                            {
+                                "size": 23345,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 840,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 34,
+                                "node": {
+                                    "color": "#e69f56",
+                                    "name": "Groovy",
+                                    "id": "MDg6TGFuZ3VhZ2UxNzU="
+                                }
+                            },
+                            {
+                                "size": 34790,
+                                "node": {
+                                    "color": "#199f4b",
+                                    "name": "Vim script",
+                                    "id": "MDg6TGFuZ3VhZ2U1Njk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "dotfiles",
+                    "id": "MDEwOlJlcG9zaXRvcnk0MDI0NTUxMg==",
+                    "contribution": {
+                        "adds": 29129,
+                        "total_commits": 49,
+                        "num_of_weeks": 23,
+                        "dels": 13749
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T09:47:18Z",
+                    "createdAt": "2017-01-02T19:27:29Z",
+                    "description": "Deploy public or private GitHub repositories automatically to S3 buckets using Git and deploy keys.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 85403,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 4
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "github-bucket",
+                    "id": "MDEwOlJlcG9zaXRvcnk3Nzg1NjY3OA==",
+                    "contribution": {
+                        "adds": 3522,
+                        "total_commits": 9,
+                        "num_of_weeks": 3,
+                        "dels": 52
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-29T08:03:22Z",
+                    "createdAt": "2015-12-21T14:09:37Z",
+                    "description": "LightDM Webkit Greeter for Debian",
+                    "primaryLanguage": null,
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": []
+                    },
+                    "stargazers": {
+                        "totalCount": 4
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "name": "debian-lightdm-webkit-greeter",
+                    "id": "MDEwOlJlcG9zaXRvcnk0ODM3NTEzOQ==",
+                    "contribution": {
+                        "adds": 130,
+                        "total_commits": 5,
+                        "num_of_weeks": 4,
+                        "dels": 37
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-22T09:09:30Z",
+                    "createdAt": "2016-01-02T12:43:04Z",
+                    "description": "Play steam games inside a docker container.",
+                    "primaryLanguage": {
+                        "color": "#89e051",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 623,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "docker-steam",
+                    "id": "MDEwOlJlcG9zaXRvcnk0ODkwOTQ1OA==",
+                    "contribution": {
+                        "adds": 99,
+                        "total_commits": 6,
+                        "num_of_weeks": 4,
+                        "dels": 28
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-10-08T11:12:48Z",
+                    "createdAt": "2014-09-23T17:51:05Z",
+                    "description": "Familiar Alt-Tab functionality in Awesome WM (3.5.5)",
+                    "primaryLanguage": {
+                        "color": "#000080",
+                        "id": "MDg6TGFuZ3VhZ2UxNjQ=",
+                        "name": "Lua"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 12131,
+                                "node": {
+                                    "color": "#000080",
+                                    "name": "Lua",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjQ="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 22
+                    },
+                    "forks": {
+                        "totalCount": 8
+                    },
+                    "name": "awesome_alttab",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNDM4MjgwOA==",
+                    "contribution": {
+                        "adds": 99,
+                        "total_commits": 6,
+                        "num_of_weeks": 2,
+                        "dels": 57
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 5
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-01T06:55:27Z",
+                    "createdAt": "2016-02-17T08:51:34Z",
+                    "description": "Switch to incognito on matching regular expression",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3020,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 93,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 658,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "chrome-auto-incognito",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MTkwODM4OQ==",
+                    "contribution": {
+                        "adds": 196,
+                        "total_commits": 2,
+                        "num_of_weeks": 2,
+                        "dels": 18
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-03-01T21:33:35Z",
+                    "createdAt": "2016-02-16T13:54:37Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#000080",
+                        "id": "MDg6TGFuZ3VhZ2UxNjQ=",
+                        "name": "Lua"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1101,
+                                "node": {
+                                    "color": "#000080",
+                                    "name": "Lua",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjQ="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "awesome-fullscreen",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MTgzOTQ1OQ==",
+                    "contribution": {
+                        "adds": 83,
+                        "total_commits": 2,
+                        "num_of_weeks": 2,
+                        "dels": 0
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-01T06:57:40Z",
+                    "createdAt": "2016-02-22T08:48:34Z",
+                    "description": "Remember client location when switching between floating, tiling and maximized",
+                    "primaryLanguage": {
+                        "color": "#000080",
+                        "id": "MDg6TGFuZ3VhZ2UxNjQ=",
+                        "name": "Lua"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 2872,
+                                "node": {
+                                    "color": "#000080",
+                                    "name": "Lua",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjQ="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "awesome-remember-geometry",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MjI1OTcwNQ==",
+                    "contribution": {
+                        "adds": 132,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T09:49:22Z",
+                    "createdAt": "2015-11-12T11:22:40Z",
+                    "description": "Switch clients in Awesome WM with the familiar preview functionality",
+                    "primaryLanguage": {
+                        "color": "#000080",
+                        "id": "MDg6TGFuZ3VhZ2UxNjQ=",
+                        "name": "Lua"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 12475,
+                                "node": {
+                                    "color": "#000080",
+                                    "name": "Lua",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjQ="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 4
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "awesome-switcher-preview",
+                    "id": "MDEwOlJlcG9zaXRvcnk0NjA0ODI1OQ==",
+                    "contribution": {
+                        "adds": 99,
+                        "total_commits": 6,
+                        "num_of_weeks": 2,
+                        "dels": 57
+                    },
+                    "isFork": true,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T20:50:09Z",
+                    "createdAt": "2014-03-03T19:56:16Z",
+                    "description": "awesome window manager",
+                    "primaryLanguage": {
+                        "color": "#000080",
+                        "id": "MDg6TGFuZ3VhZ2UxNjQ=",
+                        "name": "Lua"
+                    },
+                    "homepageURL": "https://awesomewm.org/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 980,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 687978,
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                }
+                            },
+                            {
+                                "size": 17392,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 1333149,
+                                "node": {
+                                    "color": "#000080",
+                                    "name": "Lua",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjQ="
+                                }
+                            },
+                            {
+                                "size": 40429,
+                                "node": {
+                                    "color": null,
+                                    "name": "CMake",
+                                    "id": "MDg6TGFuZ3VhZ2U0NDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1109
+                    },
+                    "forks": {
+                        "totalCount": 167
+                    },
+                    "name": "awesome",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzM3ODAwOQ==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 116
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Germany",
+    "following": {
+        "totalCount": 30
+    },
+    "avatarURL": "https://avatars3.githubusercontent.com/u/405757?v=3",
+    "company": "@openknowledge ",
+    "pinnedRepositories": {
+        "totalCount": 6,
+        "nodes": [
+            {
+                "name": "dotfiles"
+            },
+            {
+                "name": "github-bucket"
+            },
+            {
+                "name": "awesome-switcher-preview"
+            },
+            {
+                "name": "awesome-remember-geometry"
+            },
+            {
+                "name": "chrome-auto-incognito"
+            },
+            {
+                "name": "debian-lightdm-webkit-greeter"
+            }
+        ]
+    },
+    "name": "Matthias Berla",
+    "watching": {
+        "totalCount": 24
+    },
+    "organizations": {
+        "totalCount": 3,
+        "nodes": [
+            {
+                "url": "https://github.com/openknowledge",
+                "name": "OPEN KNOWLEDGE",
+                "login": "openknowledge",
+                "avatarURL": "https://avatars3.githubusercontent.com/u/841648?v=3"
+            },
+            {
+                "url": "https://github.com/keyconfig",
+                "name": "KeyConfig",
+                "login": "keyconfig",
+                "avatarURL": "https://avatars3.githubusercontent.com/u/17000284?v=3"
+            },
+            {
+                "url": "https://github.com/colorconfig",
+                "name": "ColorConfig",
+                "login": "colorconfig",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/24293990?v=3"
+            }
+        ]
+    },
+    "pullRequests": {
+        "totalCount": 1
+    },
+    "starredRepositories": {
+        "totalCount": 176
+    },
+    "followers": {
+        "totalCount": 13
+    },
+    "login": "berlam",
+    "websiteURL": "https://matthias.berla.net/",
+    "id": "MDQ6VXNlcjQwNTc1Nw==",
+    "email": ""
+}

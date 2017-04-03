@@ -1,0 +1,637 @@
+{
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "bio": null,
+    "company": "bytemine",
+    "login": "dra",
+    "starredRepositories": {
+        "totalCount": 9
+    },
+    "pullRequests": {
+        "totalCount": 23
+    },
+    "following": {
+        "totalCount": 2
+    },
+    "id": "MDQ6VXNlcjEzMDI5NQ==",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "avatarURL": "https://avatars2.githubusercontent.com/u/130295?v=3",
+    "location": "Oldenburg, Germany",
+    "email": "rauer@bytemine.net",
+    "contributedRepositories": {
+        "totalCount": 12,
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "MTI="
+        },
+        "edges": [
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 7
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk3NDAzNjM5MQ==",
+                    "updatedAt": "2017-02-02T20:08:18Z",
+                    "description": "The infrastructure database core application",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 279219
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 71105
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 13963
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 130614
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 822
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 4
+                    },
+                    "createdAt": "2016-11-17T14:46:26Z",
+                    "name": "the-idb",
+                    "watchers": {
+                        "totalCount": 6
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 6,
+                        "adds": 19377,
+                        "total_commits": 55,
+                        "dels": 379
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk2OTk0MjAxMg==",
+                    "updatedAt": "2016-11-30T10:06:49Z",
+                    "description": "Zarafa WebApp plugin to integrate 2FA with privacyIDEA",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 24235
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 12419
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 250
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "createdAt": "2016-10-04T07:15:45Z",
+                    "name": "webapp-privacyidea",
+                    "watchers": {
+                        "totalCount": 9
+                    },
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "name": "PHP",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk2OTU1MDk4MQ==",
+                    "updatedAt": "2017-02-04T16:50:40Z",
+                    "description": "google two factor authentication plugin for Zarafa WebApp",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                },
+                                "size": 38663
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 20202
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 242
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2016-09-29T09:10:23Z",
+                    "name": "webapp-google2fa",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "name": "PHP",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk3NTA2MTM1MA==",
+                    "updatedAt": "2016-11-30T13:49:14Z",
+                    "description": null,
+                    "languages": {
+                        "edges": []
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2016-11-29T08:46:43Z",
+                    "name": "redmine-issue-test-core",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "primaryLanguage": null,
+                    "contribution": {
+                        "num_of_weeks": 1,
+                        "adds": 1,
+                        "total_commits": 1,
+                        "dels": 0
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 18
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://www.bytemine.net/en/bytemine-manager",
+                    "id": "MDEwOlJlcG9zaXRvcnkyODQ4OTk2",
+                    "updatedAt": "2017-01-28T08:11:42Z",
+                    "description": "platform-independent, multilingual Java desktop-application for intuitive and easy management of your OpenVPN servers",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 926
+                            },
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                },
+                                "size": 1346823
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "name": "Smarty",
+                                    "id": "MDg6TGFuZ3VhZ2U0MzE="
+                                },
+                                "size": 13550
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 9
+                    },
+                    "createdAt": "2011-11-25T10:30:04Z",
+                    "name": "bytemine-manager",
+                    "watchers": {
+                        "totalCount": 11
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk3MzY0NzM3OQ==",
+                    "updatedAt": "2016-11-14T06:29:49Z",
+                    "description": "Redmine plugin to set the assignee to oneself if not otherwise set",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 3804
+                            },
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 358
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2016-11-13T22:34:28Z",
+                    "name": "redmine_default_assignee_is_me",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "name": "HTML",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 108
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://rubygems.org/gems/keynote",
+                    "id": "MDEwOlJlcG9zaXRvcnk2MjIyMTg3",
+                    "updatedAt": "2017-01-31T01:31:23Z",
+                    "description": "Flexible presenters for Rails.",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 57694
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 9
+                    },
+                    "createdAt": "2012-10-15T05:38:52Z",
+                    "name": "keynote",
+                    "watchers": {
+                        "totalCount": 4
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 1,
+                        "adds": 15,
+                        "total_commits": 1,
+                        "dels": 0
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 804
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://juixe.com/svn/acts_as_commentable/",
+                    "id": "MDEwOlJlcG9zaXRvcnkzNjA1",
+                    "updatedAt": "2017-01-26T15:49:58Z",
+                    "description": "The ActiveRecord acts_as_commentable plugin",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 19467
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 101
+                    },
+                    "createdAt": "2008-03-12T07:11:22Z",
+                    "name": "acts_as_commentable",
+                    "watchers": {
+                        "totalCount": 13
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 1,
+                        "adds": 4,
+                        "total_commits": 1,
+                        "dels": 0
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk3NTE5MTIxOA==",
+                    "updatedAt": "2016-11-30T13:49:48Z",
+                    "description": null,
+                    "languages": {
+                        "edges": []
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2016-11-30T13:49:48Z",
+                    "name": "redmine-issue-test-idbad",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "primaryLanguage": null,
+                    "contribution": {
+                        "num_of_weeks": 1,
+                        "adds": 1,
+                        "total_commits": 1,
+                        "dels": 0
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk0MjE4NTIzMA==",
+                    "updatedAt": "2017-01-13T16:56:27Z",
+                    "description": "The OpenVPN4UCS Package",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 46290
+                            },
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                },
+                                "size": 1346
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 87444
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 26078
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 13460
+                            },
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                },
+                                "size": 60242
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2015-09-09T14:55:06Z",
+                    "name": "univention-openvpn",
+                    "watchers": {
+                        "totalCount": 9
+                    },
+                    "primaryLanguage": {
+                        "color": "#563d7c",
+                        "name": "CSS",
+                        "id": "MDg6TGFuZ3VhZ2UzMDg="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MTU3ODYzMA==",
+                    "updatedAt": "2016-11-17T16:32:23Z",
+                    "description": "idb adapter for Microsoft Active Directory",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": null,
+                                    "name": "PowerShell",
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ="
+                                },
+                                "size": 20572
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "createdAt": "2016-10-21T15:38:36Z",
+                    "name": "idbad",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "primaryLanguage": {
+                        "color": null,
+                        "name": "PowerShell",
+                        "id": "MDg6TGFuZ3VhZ2UyNjQ="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MTU3MjMwMg==",
+                    "updatedAt": "2016-11-18T12:31:39Z",
+                    "description": "idb adapter for bacula community edition",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                },
+                                "size": 703
+                            },
+                            {
+                                "node": {
+                                    "color": "#375eab",
+                                    "name": "Go",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTA="
+                                },
+                                "size": 10783
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2016-10-21T14:28:15Z",
+                    "name": "idbvamp",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "primaryLanguage": {
+                        "color": "#375eab",
+                        "name": "Go",
+                        "id": "MDg6TGFuZ3VhZ2UxOTA="
+                    },
+                    "contribution": -1
+                }
+            }
+        ]
+    },
+    "websiteURL": "www.bytemine.net",
+    "watching": {
+        "totalCount": 50
+    },
+    "name": "Daniel Rauer",
+    "gists": {
+        "totalCount": 0
+    },
+    "followers": {
+        "totalCount": 7
+    }
+}

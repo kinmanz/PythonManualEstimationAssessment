@@ -1,0 +1,492 @@
+{
+    "organizations": {
+        "totalCount": 1,
+        "nodes": [
+            {
+                "name": "OpenMensa",
+                "url": "https://github.com/openmensa",
+                "login": "openmensa",
+                "avatarURL": "https://avatars3.githubusercontent.com/u/1721604?v=3"
+            }
+        ]
+    },
+    "bio": "",
+    "company": "",
+    "login": "mswart",
+    "starredRepositories": {
+        "totalCount": 38
+    },
+    "pullRequests": {
+        "totalCount": 19
+    },
+    "following": {
+        "totalCount": 18
+    },
+    "id": "MDQ6VXNlcjU2NDg0NQ==",
+    "pinnedRepositories": {
+        "totalCount": 6,
+        "nodes": [
+            {
+                "name": "openvpn2dns"
+            },
+            {
+                "name": "openmensa"
+            },
+            {
+                "name": "openmensa-parsers"
+            },
+            {
+                "name": "chef-postfix-full"
+            },
+            {
+                "name": "acme-mgmtserver"
+            },
+            {
+                "name": "chef-nullmailer"
+            }
+        ]
+    },
+    "avatarURL": "https://avatars1.githubusercontent.com/u/564845?v=3",
+    "location": "Potsdam, Germany",
+    "email": "mswart@devtation.de",
+    "contributedRepositories": {
+        "totalCount": 8,
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "OA=="
+        },
+        "edges": [
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 11
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk1NDc5MDM2",
+                    "updatedAt": "2016-10-25T10:05:38Z",
+                    "description": "A collection of openmensa.org parsers with feed v2 generator",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                },
+                                "size": 80901
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 809
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 13
+                    },
+                    "createdAt": "2012-08-20T09:03:11Z",
+                    "name": "openmensa-parsers",
+                    "watchers": {
+                        "totalCount": 4
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 46,
+                        "adds": 3608,
+                        "total_commits": 195,
+                        "dels": 2173
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 10
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk0Nzk0NDY2NQ==",
+                    "updatedAt": "2017-02-05T04:20:09Z",
+                    "description": "ACME client as client/server model for easy certification handling above multiple hosts/containers",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                },
+                                "size": 99125
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 4097
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2015-12-14T01:15:31Z",
+                    "name": "acme-mgmtserver",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 4,
+                        "adds": 4856,
+                        "total_commits": 51,
+                        "dels": 547
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 4
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://pyom.devtation.de/",
+                    "id": "MDEwOlJlcG9zaXRvcnk2MTY1OTgy",
+                    "updatedAt": "2017-01-17T23:13:35Z",
+                    "description": "Python wrapper and helper for openmensa api and feed",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                },
+                                "size": 5590
+                            },
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                },
+                                "size": 53682
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "createdAt": "2012-10-10T23:22:07Z",
+                    "name": "pyopenmensa",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 22,
+                        "adds": 4088,
+                        "total_commits": 82,
+                        "dels": 1686
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnkxMjc4NjE5MQ==",
+                    "updatedAt": "2016-02-15T21:59:46Z",
+                    "description": "Packaging your (ruby) applications",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 87800
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "createdAt": "2013-09-12T14:44:54Z",
+                    "name": "cany",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 16,
+                        "adds": 4441,
+                        "total_commits": 121,
+                        "dels": 1131
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 11
+                    },
+                    "isFork": false,
+                    "homepageURL": "openmensa.org",
+                    "id": "MDEwOlJlcG9zaXRvcnkxODE3NDI0NA==",
+                    "updatedAt": "2017-01-17T22:56:42Z",
+                    "description": "Central hub for canteen information (meals, location ...)",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 334267
+                            },
+                            {
+                                "node": {
+                                    "color": "#244776",
+                                    "name": "CoffeeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU="
+                                },
+                                "size": 2837
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 33060
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 63735
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 4
+                    },
+                    "createdAt": "2014-03-27T11:53:40Z",
+                    "name": "openmensa",
+                    "watchers": {
+                        "totalCount": 7
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNDkzNTg1Ng==",
+                    "updatedAt": "2016-02-10T15:12:34Z",
+                    "description": "Gurke is an experimental, alternative cucumber runner.",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 59412
+                            },
+                            {
+                                "node": {
+                                    "color": "#5B2063",
+                                    "name": "Cucumber",
+                                    "id": "MDg6TGFuZ3VhZ2U0MzY="
+                                },
+                                "size": 16421
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "createdAt": "2013-12-04T21:06:03Z",
+                    "name": "gurke",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://doc.openmensa.org/",
+                    "id": "MDEwOlJlcG9zaXRvcnk1NDg0MzE5",
+                    "updatedAt": "2016-06-30T10:09:39Z",
+                    "description": "OpenMensa Docs",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                },
+                                "size": 9587
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 13084
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 2377
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "createdAt": "2012-08-20T17:22:50Z",
+                    "name": "doc.openmensa.org",
+                    "watchers": {
+                        "totalCount": 5
+                    },
+                    "primaryLanguage": {
+                        "color": "#563d7c",
+                        "name": "CSS",
+                        "id": "MDg6TGFuZ3VhZ2UzMDg="
+                    },
+                    "contribution": -1
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "homepageURL": null,
+                    "id": "MDEwOlJlcG9zaXRvcnk1Njk5NjAzMQ==",
+                    "updatedAt": "2016-12-28T22:48:08Z",
+                    "description": "Local Assigned Numbers Authority \u2013 Dashboard",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                },
+                                "size": 114843
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                },
+                                "size": 48689
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                },
+                                "size": 636
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                },
+                                "size": 3899
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "createdAt": "2016-04-24T21:49:32Z",
+                    "name": "lana-dashboard",
+                    "watchers": {
+                        "totalCount": 5
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "contribution": -1
+                }
+            }
+        ]
+    },
+    "websiteURL": "http://www.malteswart.de",
+    "watching": {
+        "totalCount": 87
+    },
+    "name": "Malte Swart",
+    "gists": {
+        "totalCount": 1
+    },
+    "followers": {
+        "totalCount": 20
+    }
+}

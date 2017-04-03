@@ -1,0 +1,750 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 6
+    },
+    "contributedRepositories": {
+        "totalCount": 10,
+        "pageInfo": {
+            "endCursor": "MTA=",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2016-07-01T17:36:49Z",
+                    "createdAt": "2015-01-13T20:13:41Z",
+                    "description": "A secured ssh based VPN in a Docker container. Works only as jump host for port forwarding and SOCKS proxy but provides no shell.",
+                    "primaryLanguage": {
+                        "color": "#89e051",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1829,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 7
+                    },
+                    "forks": {
+                        "totalCount": 6
+                    },
+                    "name": "docker-ssh-vpn-jump-host",
+                    "id": "MDEwOlJlcG9zaXRvcnkyOTIwODg1MQ==",
+                    "contribution": {
+                        "adds": 485,
+                        "total_commits": 18,
+                        "num_of_weeks": 7,
+                        "dels": 21
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 3
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T21:04:36Z",
+                    "createdAt": "2014-12-05T10:49:34Z",
+                    "description": "A type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations.",
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                        "name": "Scala"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 261271,
+                                "node": {
+                                    "color": "#c22d40",
+                                    "name": "Scala",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk="
+                                }
+                            },
+                            {
+                                "size": 578,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 316
+                    },
+                    "forks": {
+                        "totalCount": 36
+                    },
+                    "name": "enumeratum",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNzU4NzI3NA==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 16
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-05T00:22:08Z",
+                    "createdAt": "2014-07-08T08:13:52Z",
+                    "description": "A community driven list of useful Scala libraries, frameworks and software.",
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 6399,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 4529
+                    },
+                    "forks": {
+                        "totalCount": 662
+                    },
+                    "name": "awesome-scala",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMTYwNDUwNQ==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 562
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-31T08:59:00Z",
+                    "createdAt": "2016-03-09T22:36:09Z",
+                    "description": "Code and walkthrough labs to set up a serverless chat application for the Zombie Apocalypse Workshop",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3954109,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 6331,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 22043,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 298
+                    },
+                    "forks": {
+                        "totalCount": 157
+                    },
+                    "name": "aws-lambda-zombie-workshop",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MzUzNjkzOQ==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 32
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T23:54:22Z",
+                    "createdAt": "2009-02-20T22:51:53Z",
+                    "description": "Scala Language Integrated Connection Kit",
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                        "name": "Scala"
+                    },
+                    "homepageURL": "http://slick.lightbend.com",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1429169,
+                                "node": {
+                                    "color": "#c22d40",
+                                    "name": "Scala",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk="
+                                }
+                            },
+                            {
+                                "size": 15655,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 3306,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 4366,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1727
+                    },
+                    "forks": {
+                        "totalCount": 384
+                    },
+                    "name": "slick",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMzM2ODQ=",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 166
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T13:19:36Z",
+                    "createdAt": "2014-01-15T00:50:38Z",
+                    "description": "Mac Media Keys for the Masses",
+                    "primaryLanguage": {
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY=",
+                        "name": "Objective-C"
+                    },
+                    "homepageURL": "http://beardedspice.github.io",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 423262,
+                                "node": {
+                                    "color": "#438eff",
+                                    "name": "Objective-C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                }
+                            },
+                            {
+                                "size": 1457,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 433,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 108713,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1311
+                    },
+                    "forks": {
+                        "totalCount": 185
+                    },
+                    "name": "beardedspice",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTkyMDY3OA==",
+                    "contribution": {
+                        "adds": 348,
+                        "total_commits": 2,
+                        "num_of_weeks": 1,
+                        "dels": 38
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 37
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-20T13:55:16Z",
+                    "createdAt": "2015-01-17T13:00:53Z",
+                    "description": "A Calibre service running in a docker container. Useful to automatically fetch and distribute news sources to eBook devices.",
+                    "primaryLanguage": null,
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": []
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "docker-calibregui",
+                    "id": "MDEwOlJlcG9zaXRvcnkyOTM5MTI1Mg==",
+                    "contribution": {
+                        "adds": 117,
+                        "total_commits": 7,
+                        "num_of_weeks": 3,
+                        "dels": 18
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-11T23:41:25Z",
+                    "createdAt": "2015-01-17T12:18:30Z",
+                    "description": "Dockerfile for containerizing a graphical X11 applications and publish it via VNC (optional with SSH or HTML5 frontend)",
+                    "primaryLanguage": {
+                        "color": "#89e051",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1093,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "docker-x11-vnc",
+                    "id": "MDEwOlJlcG9zaXRvcnkyOTM5MDE2Mg==",
+                    "contribution": {
+                        "adds": 716,
+                        "total_commits": 5,
+                        "num_of_weeks": 3,
+                        "dels": 16
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-05T03:43:42Z",
+                    "createdAt": "2015-09-03T20:23:38Z",
+                    "description": "Visual Studio Code",
+                    "primaryLanguage": {
+                        "color": "#2b7489",
+                        "id": "MDg6TGFuZ3VhZ2UyODc=",
+                        "name": "TypeScript"
+                    },
+                    "homepageURL": "http://code.visualstudio.com",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3026231,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 11590631,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            },
+                            {
+                                "size": 4294,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            },
+                            {
+                                "size": 10264,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 487703,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 32855,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 599,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 1206,
+                                "node": {
+                                    "color": "#db5855",
+                                    "name": "Clojure",
+                                    "id": "MDg6TGFuZ3VhZ2UxODA="
+                                }
+                            },
+                            {
+                                "size": 590,
+                                "node": {
+                                    "color": "#244776",
+                                    "name": "CoffeeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU="
+                                }
+                            },
+                            {
+                                "size": 818,
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                }
+                            },
+                            {
+                                "size": 1000,
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                }
+                            },
+                            {
+                                "size": 634,
+                                "node": {
+                                    "color": "#b845fc",
+                                    "name": "F#",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzg="
+                                }
+                            },
+                            {
+                                "size": 613,
+                                "node": {
+                                    "color": "#375eab",
+                                    "name": "Go",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTA="
+                                }
+                            },
+                            {
+                                "size": 3928,
+                                "node": {
+                                    "color": "#e69f56",
+                                    "name": "Groovy",
+                                    "id": "MDg6TGFuZ3VhZ2UxNzU="
+                                }
+                            },
+                            {
+                                "size": 252,
+                                "node": {
+                                    "color": "#000080",
+                                    "name": "Lua",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjQ="
+                                }
+                            },
+                            {
+                                "size": 553,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 1387,
+                                "node": {
+                                    "color": "#438eff",
+                                    "name": "Objective-C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                }
+                            },
+                            {
+                                "size": 857,
+                                "node": {
+                                    "color": "#0298c3",
+                                    "name": "Perl",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDc="
+                                }
+                            },
+                            {
+                                "size": 802,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 1432,
+                                "node": {
+                                    "color": null,
+                                    "name": "PowerShell",
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ="
+                                }
+                            },
+                            {
+                                "size": 2119,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 362,
+                                "node": {
+                                    "color": "#198CE7",
+                                    "name": "R",
+                                    "id": "MDg6TGFuZ3VhZ2UxODU="
+                                }
+                            },
+                            {
+                                "size": 1703,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 532,
+                                "node": {
+                                    "color": "#dea584",
+                                    "name": "Rust",
+                                    "id": "MDg6TGFuZ3VhZ2UyNDk="
+                                }
+                            },
+                            {
+                                "size": 330,
+                                "node": {
+                                    "color": null,
+                                    "name": "GLSL",
+                                    "id": "MDg6TGFuZ3VhZ2U0NTI="
+                                }
+                            },
+                            {
+                                "size": 220,
+                                "node": {
+                                    "color": "#ffac45",
+                                    "name": "Swift",
+                                    "id": "MDg6TGFuZ3VhZ2UzNzE="
+                                }
+                            },
+                            {
+                                "size": 893,
+                                "node": {
+                                    "color": "#945db7",
+                                    "name": "Visual Basic",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjY="
+                                }
+                            },
+                            {
+                                "size": 1152,
+                                "node": {
+                                    "color": "#178600",
+                                    "name": "C#",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzI="
+                                }
+                            },
+                            {
+                                "size": 1065,
+                                "node": {
+                                    "color": "#0000fb",
+                                    "name": "Perl6",
+                                    "id": "MDg6TGFuZ3VhZ2UzMzc="
+                                }
+                            },
+                            {
+                                "size": 106295,
+                                "node": {
+                                    "color": null,
+                                    "name": "Inno Setup",
+                                    "id": "MDg6TGFuZ3VhZ2U0NDE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 22281
+                    },
+                    "forks": {
+                        "totalCount": 3078
+                    },
+                    "name": "vscode",
+                    "id": "MDEwOlJlcG9zaXRvcnk0MTg4MTkwMA==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1339
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T01:29:41Z",
+                    "createdAt": "2015-01-23T17:50:17Z",
+                    "description": "Open source Slick drivers for commercial databases. Includes MS SQLServer, Oracle 11g and DB2.",
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                        "name": "Scala"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 4001,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 84933,
+                                "node": {
+                                    "color": "#c22d40",
+                                    "name": "Scala",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 114
+                    },
+                    "forks": {
+                        "totalCount": 11
+                    },
+                    "name": "freeslick",
+                    "id": "MDEwOlJlcG9zaXRvcnkyOTc0NTAyMw==",
+                    "contribution": {
+                        "adds": 53,
+                        "total_commits": 4,
+                        "num_of_weeks": 2,
+                        "dels": 7
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 13
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Munich, Germany",
+    "following": {
+        "totalCount": 1
+    },
+    "avatarURL": "https://avatars1.githubusercontent.com/u/54929?v=3",
+    "company": null,
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Stefan Schwetschke",
+    "watching": {
+        "totalCount": 33
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 15
+    },
+    "starredRepositories": {
+        "totalCount": 137
+    },
+    "followers": {
+        "totalCount": 10
+    },
+    "login": "geggo98",
+    "websiteURL": null,
+    "id": "MDQ6VXNlcjU0OTI5",
+    "email": "stefan.schwetschke+github@googlemail.com"
+}

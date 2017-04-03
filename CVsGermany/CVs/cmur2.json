@@ -1,0 +1,551 @@
+{
+    "organizations": {
+        "totalCount": 2,
+        "nodes": [
+            {
+                "login": "openmensa",
+                "avatarURL": "https://avatars3.githubusercontent.com/u/1721604?v=3",
+                "url": "https://github.com/openmensa",
+                "name": "OpenMensa"
+            },
+            {
+                "login": "majordomo",
+                "avatarURL": "https://avatars2.githubusercontent.com/u/3480542?v=3",
+                "url": "https://github.com/majordomo",
+                "name": "Majordomo"
+            }
+        ]
+    },
+    "location": "Germany",
+    "email": "cn@mycrobase.de",
+    "pullRequests": {
+        "totalCount": 25
+    },
+    "company": null,
+    "pinnedRepositories": {
+        "totalCount": 6,
+        "nodes": [
+            {
+                "name": "joe-syntax"
+            },
+            {
+                "name": "dyndnsd"
+            },
+            {
+                "name": "chef-openvpn"
+            },
+            {
+                "name": "chef-graphite"
+            },
+            {
+                "name": "python-bme280"
+            },
+            {
+                "name": "wcc"
+            }
+        ]
+    },
+    "websiteURL": "http://mycrobase.de/",
+    "watching": {
+        "totalCount": 135
+    },
+    "avatarURL": "https://avatars1.githubusercontent.com/u/800933?v=3",
+    "starredRepositories": {
+        "totalCount": 240
+    },
+    "followers": {
+        "totalCount": 18
+    },
+    "login": "cmur2",
+    "following": {
+        "totalCount": 33
+    },
+    "contributedRepositories": {
+        "totalCount": 9,
+        "edges": [
+            {
+                "node": {
+                    "description": "A small, lightweight and extensible DynDNS server written with Ruby and Rack.",
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk5NzE0MTMy",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "name": "Ruby"
+                                },
+                                "size": 19049
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 1295
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "updatedAt": "2016-11-27T21:48:18Z",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "stargazers": {
+                        "totalCount": 12
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 1298,
+                        "total_commits": 51,
+                        "num_of_weeks": 7,
+                        "dels": 263
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2013-04-27T12:04:28Z",
+                    "name": "dyndnsd"
+                }
+            },
+            {
+                "node": {
+                    "description": "A Lua plugin for the Nginx web server that automatically collects and submits several important Nginx metrics to Graphite.",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3NDYwNDQ3Mw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#000080",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjQ=",
+                                    "name": "Lua"
+                                },
+                                "size": 6244
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#000080",
+                        "name": "Lua",
+                        "id": "MDg6TGFuZ3VhZ2UxNjQ="
+                    },
+                    "updatedAt": "2016-11-23T18:42:25Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 449,
+                        "total_commits": 4,
+                        "num_of_weeks": 2,
+                        "dels": 13
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-11-23T18:41:41Z",
+                    "name": "nginx-metrics-graphite"
+                }
+            },
+            {
+                "node": {
+                    "description": "JOE (Joe's Own Editor) syntax coloring and highlighting files - improved ones",
+                    "forks": {
+                        "totalCount": 11
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMTMyNTQ3",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 1369
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#89e051",
+                        "name": "Shell",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk="
+                    },
+                    "updatedAt": "2017-02-04T22:34:47Z",
+                    "watchers": {
+                        "totalCount": 9
+                    },
+                    "stargazers": {
+                        "totalCount": 27
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 7559,
+                        "total_commits": 176,
+                        "num_of_weeks": 45,
+                        "dels": 1035
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2011-07-31T14:21:34Z",
+                    "name": "joe-syntax"
+                }
+            },
+            {
+                "node": {
+                    "description": "A basic library for working with the AS3935 that's connected to the Raspberry Pi.",
+                    "forks": {
+                        "totalCount": 11
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk4OTgwNzQx",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 13018
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2017-01-08T19:30:26Z",
+                    "watchers": {
+                        "totalCount": 14
+                    },
+                    "stargazers": {
+                        "totalCount": 21
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": null,
+                    "createdAt": "2013-03-24T03:36:18Z",
+                    "name": "RaspberryPi-AS3935"
+                }
+            },
+            {
+                "node": {
+                    "description": " A python library for accessing the BME280 combined humidity and pressure sensor from Bosch",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2MDAzNDc4MA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 10202
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2017-02-05T11:03:52Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 326,
+                        "total_commits": 2,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-05-30T19:42:55Z",
+                    "name": "python-bme280"
+                }
+            },
+            {
+                "node": {
+                    "description": "A python library for accessing the VEML6070 digital UV light sensor from Vishay",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1OTk2MjcxMQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 4367
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2017-01-20T10:42:14Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 172,
+                        "total_commits": 2,
+                        "num_of_weeks": 1,
+                        "dels": 1
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-05-29T20:35:02Z",
+                    "name": "python-veml6070"
+                }
+            },
+            {
+                "node": {
+                    "description": "Installs Prosody via package and configures core settings, VirtualHosts and some modules.",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk4Njc4ODI4",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "name": "Ruby"
+                                },
+                                "size": 13161
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 112
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "updatedAt": "2016-05-24T12:55:29Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 914,
+                        "total_commits": 41,
+                        "num_of_weeks": 11,
+                        "dels": 221
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2013-03-10T01:13:38Z",
+                    "name": "chef-prosody"
+                }
+            },
+            {
+                "node": {
+                    "description": "The Z3 Theorem Prover",
+                    "forks": {
+                        "totalCount": 348
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzMjk0NDI5OA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                                    "name": "C++"
+                                },
+                                "size": 15908034
+                            },
+                            {
+                                "node": {
+                                    "color": "#555555",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk=",
+                                    "name": "C"
+                                },
+                                "size": 341267
+                            },
+                            {
+                                "node": {
+                                    "color": "#178600",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzI=",
+                                    "name": "C#"
+                                },
+                                "size": 527442
+                            },
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 365816
+                            },
+                            {
+                                "node": {
+                                    "color": "#3be133",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTk=",
+                                    "name": "OCaml"
+                                },
+                                "size": 218116
+                            },
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 671010
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 353
+                            },
+                            {
+                                "node": {
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY=",
+                                    "name": "Objective-C"
+                                },
+                                "size": 3615
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0Nzc=",
+                                    "name": "SMT"
+                                },
+                                "size": 30220
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0NDA=",
+                                    "name": "CMake"
+                                },
+                                "size": 105349
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#f34b7d",
+                        "name": "C++",
+                        "id": "MDg6TGFuZ3VhZ2UxNDI="
+                    },
+                    "updatedAt": "2017-02-06T18:03:40Z",
+                    "watchers": {
+                        "totalCount": 122
+                    },
+                    "stargazers": {
+                        "totalCount": 1954
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": null,
+                    "createdAt": "2015-03-26T18:16:07Z",
+                    "name": "z3"
+                }
+            },
+            {
+                "node": {
+                    "description": "Installs and configures carbon and/or graphite-webapp (including whisper)",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk5OTU1MTM3",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "name": "Ruby"
+                                },
+                                "size": 24996
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 15241
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "updatedAt": "2017-01-07T01:08:33Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 2137,
+                        "total_commits": 64,
+                        "num_of_weeks": 8,
+                        "dels": 398
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2013-05-09T08:14:57Z",
+                    "name": "chef-graphite"
+                }
+            }
+        ],
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "OQ=="
+        }
+    },
+    "bio": null,
+    "gists": {
+        "totalCount": 6
+    },
+    "name": "Christian Nicolai",
+    "id": "MDQ6VXNlcjgwMDkzMw=="
+}

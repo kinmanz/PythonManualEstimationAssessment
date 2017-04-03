@@ -1,0 +1,592 @@
+{
+    "location": null,
+    "websiteURL": "http://www.serpentine.com/blog/",
+    "gists": {
+        "totalCount": 14
+    },
+    "pullRequests": {
+        "totalCount": 73
+    },
+    "organizations": {
+        "nodes": [
+            {
+                "name": "MailRank",
+                "login": "mailrank",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/571974?v=3",
+                "url": "https://github.com/mailrank"
+            }
+        ],
+        "totalCount": 1
+    },
+    "pinnedRepositories": {
+        "nodes": [],
+        "totalCount": 0
+    },
+    "login": "bos",
+    "avatarURL": "https://avatars1.githubusercontent.com/u/23374?v=3",
+    "starredRepositories": {
+        "totalCount": 79
+    },
+    "followers": {
+        "totalCount": 1393
+    },
+    "id": "MDQ6VXNlcjIzMzc0",
+    "contributedRepositories": {
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "Nw=="
+        },
+        "totalCount": 7,
+        "edges": [
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 107
+                    },
+                    "primaryLanguage": {
+                        "name": "Haskell",
+                        "id": "MDg6TGFuZ3VhZ2UxNjc=",
+                        "color": "#29b544"
+                    },
+                    "forks": {
+                        "totalCount": 66
+                    },
+                    "homepageURL": "http://bitbucket.org/bos/text",
+                    "createdAt": "2010-10-20T03:35:23Z",
+                    "contribution": {
+                        "adds": 36287,
+                        "num_of_weeks": 112,
+                        "dels": 22740,
+                        "total_commits": 1164
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxMDA4MDE4",
+                    "watchers": {
+                        "totalCount": 10
+                    },
+                    "name": "text",
+                    "isFork": false,
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Haskell",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjc=",
+                                    "color": "#29b544"
+                                },
+                                "size": 560323
+                            },
+                            {
+                                "node": {
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk=",
+                                    "color": "#555555"
+                                },
+                                "size": 9493
+                            },
+                            {
+                                "node": {
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "color": "#3572A5"
+                                },
+                                "size": 2443
+                            },
+                            {
+                                "node": {
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "color": "#701516"
+                                },
+                                "size": 2191
+                            },
+                            {
+                                "node": {
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "color": "#427819"
+                                },
+                                "size": 938
+                            },
+                            {
+                                "node": {
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "color": "#89e051"
+                                },
+                                "size": 1886
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-19T08:46:04Z",
+                    "description": "An efficient packed, immutable Unicode text type for Haskell, with a powerful loop fusion optimization framework. "
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 586
+                    },
+                    "primaryLanguage": {
+                        "name": "Haskell",
+                        "id": "MDg6TGFuZ3VhZ2UxNjc=",
+                        "color": "#29b544"
+                    },
+                    "forks": {
+                        "totalCount": 153
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2011-01-21T21:24:26Z",
+                    "contribution": {
+                        "adds": 19156,
+                        "num_of_weeks": 78,
+                        "dels": 9388,
+                        "total_commits": 519
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxMjgwMDE0",
+                    "watchers": {
+                        "totalCount": 25
+                    },
+                    "name": "aeson",
+                    "isFork": false,
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Haskell",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjc=",
+                                    "color": "#29b544"
+                                },
+                                "size": 533646
+                            },
+                            {
+                                "node": {
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "color": "#427819"
+                                },
+                                "size": 315
+                            },
+                            {
+                                "node": {
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "color": "#3572A5"
+                                },
+                                "size": 2781
+                            },
+                            {
+                                "node": {
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk=",
+                                    "color": "#555555"
+                                },
+                                "size": 5124
+                            },
+                            {
+                                "node": {
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "color": "#89e051"
+                                },
+                                "size": 2453
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-25T17:19:35Z",
+                    "description": "A fast Haskell JSON library"
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 259
+                    },
+                    "primaryLanguage": {
+                        "name": "HTML",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                        "color": "#e44b23"
+                    },
+                    "forks": {
+                        "totalCount": 48
+                    },
+                    "homepageURL": "http://www.serpentine.com/criterion",
+                    "createdAt": "2010-10-10T18:22:22Z",
+                    "contribution": {
+                        "adds": 22316,
+                        "num_of_weeks": 62,
+                        "dels": 15034,
+                        "total_commits": 387
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk5NzY3ODU=",
+                    "watchers": {
+                        "totalCount": 12
+                    },
+                    "name": "criterion",
+                    "isFork": false,
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Haskell",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjc=",
+                                    "color": "#29b544"
+                                },
+                                "size": 93678
+                            },
+                            {
+                                "node": {
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk=",
+                                    "color": "#555555"
+                                },
+                                "size": 4023
+                            },
+                            {
+                                "node": {
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "color": "#e44b23"
+                                },
+                                "size": 614962
+                            },
+                            {
+                                "node": {
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "color": "#563d7c"
+                                },
+                                "size": 1287
+                            },
+                            {
+                                "node": {
+                                    "name": "Smarty",
+                                    "id": "MDg6TGFuZ3VhZ2U0MzE=",
+                                    "color": null
+                                },
+                                "size": 12245
+                            },
+                            {
+                                "node": {
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "color": "#f1e05a"
+                                },
+                                "size": 2527
+                            },
+                            {
+                                "node": {
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "color": "#427819"
+                                },
+                                "size": 601
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-23T12:01:48Z",
+                    "description": "A powerful but simple library for measuring the performance of Haskell code."
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 249
+                    },
+                    "primaryLanguage": {
+                        "name": "Haskell",
+                        "id": "MDg6TGFuZ3VhZ2UxNjc=",
+                        "color": "#29b544"
+                    },
+                    "forks": {
+                        "totalCount": 54
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2014-04-01T03:59:07Z",
+                    "contribution": {
+                        "adds": 8797,
+                        "num_of_weeks": 22,
+                        "dels": 4095,
+                        "total_commits": 285
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxODMxNzE4NA==",
+                    "watchers": {
+                        "totalCount": 15
+                    },
+                    "name": "wreq",
+                    "isFork": false,
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Haskell",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjc=",
+                                    "color": "#29b544"
+                                },
+                                "size": 147366
+                            },
+                            {
+                                "node": {
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "color": "#427819"
+                                },
+                                "size": 547
+                            },
+                            {
+                                "node": {
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "color": "#e44b23"
+                                },
+                                "size": 3644
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-19T19:41:09Z",
+                    "description": null
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 7
+                    },
+                    "primaryLanguage": {
+                        "name": "C++",
+                        "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                        "color": "#f34b7d"
+                    },
+                    "forks": {
+                        "totalCount": 8
+                    },
+                    "homepageURL": "http://hackage.haskell.org/package/double-conversion",
+                    "createdAt": "2011-11-17T21:23:37Z",
+                    "contribution": {
+                        "adds": 654677,
+                        "num_of_weeks": 12,
+                        "dels": 641169,
+                        "total_commits": 53
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNzk4NzI1",
+                    "watchers": {
+                        "totalCount": 4
+                    },
+                    "name": "double-conversion",
+                    "isFork": false,
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Haskell",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjc=",
+                                    "color": "#29b544"
+                                },
+                                "size": 12059
+                            },
+                            {
+                                "node": {
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk=",
+                                    "color": "#555555"
+                                },
+                                "size": 1268
+                            },
+                            {
+                                "node": {
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                                    "color": "#f34b7d"
+                                },
+                                "size": 19318256
+                            },
+                            {
+                                "node": {
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "color": "#427819"
+                                },
+                                "size": 165
+                            },
+                            {
+                                "node": {
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "color": "#3572A5"
+                                },
+                                "size": 2257
+                            },
+                            {
+                                "node": {
+                                    "name": "CMake",
+                                    "id": "MDg6TGFuZ3VhZ2U0NDA=",
+                                    "color": null
+                                },
+                                "size": 6575
+                            },
+                            {
+                                "node": {
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM=",
+                                    "color": "#C1F12E"
+                                },
+                                "size": 230
+                            }
+                        ]
+                    },
+                    "updatedAt": "2016-12-13T19:08:36Z",
+                    "description": "A fast Haskell library for converting between double precision floating point numbers and text strings. It is implemented as a binding to the V8-derived C++ double-conversion library."
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 99
+                    },
+                    "primaryLanguage": {
+                        "name": "Haskell",
+                        "id": "MDg6TGFuZ3VhZ2UxNjc=",
+                        "color": "#29b544"
+                    },
+                    "forks": {
+                        "totalCount": 9
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-09-07T16:18:15Z",
+                    "contribution": 0,
+                    "id": "MDEwOlJlcG9zaXRvcnk2NzYyMzgyMg==",
+                    "watchers": {
+                        "totalCount": 10
+                    },
+                    "name": "Haskell-Dhall-Library",
+                    "isFork": false,
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Haskell",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjc=",
+                                    "color": "#29b544"
+                                },
+                                "size": 279911
+                            },
+                            {
+                                "node": {
+                                    "name": "Nix",
+                                    "id": "MDg6TGFuZ3VhZ2UzNzk=",
+                                    "color": "#7e7eff"
+                                },
+                                "size": 1508
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-25T19:43:14Z",
+                    "description": "A configuration language guaranteed to terminate"
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 4599
+                    },
+                    "primaryLanguage": {
+                        "name": "C",
+                        "id": "MDg6TGFuZ3VhZ2UxNDk=",
+                        "color": "#555555"
+                    },
+                    "forks": {
+                        "totalCount": 387
+                    },
+                    "homepageURL": "http://www.zstd.net",
+                    "createdAt": "2015-01-24T00:22:38Z",
+                    "contribution": 0,
+                    "id": "MDEwOlJlcG9zaXRvcnkyOTc1OTcxNQ==",
+                    "watchers": {
+                        "totalCount": 247
+                    },
+                    "name": "zstd",
+                    "isFork": false,
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "color": "#427819"
+                                },
+                                "size": 41195
+                            },
+                            {
+                                "node": {
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk=",
+                                    "color": "#555555"
+                                },
+                                "size": 2320370
+                            },
+                            {
+                                "node": {
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "color": "#89e051"
+                                },
+                                "size": 15426
+                            },
+                            {
+                                "node": {
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                                    "color": "#f34b7d"
+                                },
+                                "size": 137720
+                            },
+                            {
+                                "node": {
+                                    "name": "CMake",
+                                    "id": "MDg6TGFuZ3VhZ2U0NDA=",
+                                    "color": null
+                                },
+                                "size": 30312
+                            },
+                            {
+                                "node": {
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM=",
+                                    "color": "#C1F12E"
+                                },
+                                "size": 3442
+                            },
+                            {
+                                "node": {
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "color": "#3572A5"
+                                },
+                                "size": 28374
+                            },
+                            {
+                                "node": {
+                                    "name": "Roff",
+                                    "id": "MDg6TGFuZ3VhZ2U1Njg=",
+                                    "color": "#ecdebe"
+                                },
+                                "size": 10969
+                            }
+                        ]
+                    },
+                    "updatedAt": "2017-01-26T15:43:12Z",
+                    "description": "Zstandard - Fast real-time compression algorithm"
+                }
+            }
+        ]
+    },
+    "bio": null,
+    "email": null,
+    "name": "Bryan O'Sullivan",
+    "company": null,
+    "following": {
+        "totalCount": 8
+    },
+    "watching": {
+        "totalCount": 80
+    }
+}

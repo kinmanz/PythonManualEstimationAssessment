@@ -1,0 +1,900 @@
+{
+    "bio": "",
+    "gists": {
+        "totalCount": 5
+    },
+    "contributedRepositories": {
+        "totalCount": 15,
+        "pageInfo": {
+            "endCursor": "MTU=",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2016-11-22T09:20:42Z",
+                    "createdAt": "2016-11-20T14:05:39Z",
+                    "description": "The core components of the compositional server library funkster.",
+                    "primaryLanguage": {
+                        "color": "#2b7489",
+                        "id": "MDg6TGFuZ3VhZ2UyODc=",
+                        "name": "TypeScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 2749,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            },
+                            {
+                                "size": 1788,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "funkster-core",
+                    "id": "MDEwOlJlcG9zaXRvcnk3NDI3ODI1MA==",
+                    "contribution": {
+                        "adds": 6451,
+                        "total_commits": 89,
+                        "num_of_weeks": 8,
+                        "dels": 1878
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-21T20:50:24Z",
+                    "createdAt": "2016-11-21T00:08:11Z",
+                    "description": "Combinators for funkster to control and manipulate the flow of http(s) requests.",
+                    "primaryLanguage": {
+                        "color": "#2b7489",
+                        "id": "MDg6TGFuZ3VhZ2UyODc=",
+                        "name": "TypeScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 13210,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            },
+                            {
+                                "size": 1754,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "funkster-http",
+                    "id": "MDEwOlJlcG9zaXRvcnk3NDMxMTA4OQ==",
+                    "contribution": {
+                        "adds": 6871,
+                        "total_commits": 63,
+                        "num_of_weeks": 7,
+                        "dels": 1773
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-28T00:14:49Z",
+                    "createdAt": "2016-11-28T00:14:43Z",
+                    "description": "Funkster is a compositional server library. This packge provides types and combinators to parse json bodies from requests and respond with json to the client.",
+                    "primaryLanguage": {
+                        "color": "#2b7489",
+                        "id": "MDg6TGFuZ3VhZ2UyODc=",
+                        "name": "TypeScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 5979,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            },
+                            {
+                                "size": 1789,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "funkster-http-json",
+                    "id": "MDEwOlJlcG9zaXRvcnk3NDkyMjU4Mg==",
+                    "contribution": {
+                        "adds": 5634,
+                        "total_commits": 42,
+                        "num_of_weeks": 7,
+                        "dels": 997
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-08T19:36:41Z",
+                    "createdAt": "2016-12-08T19:34:23Z",
+                    "description": "Adds combinators for parsing and setting the HTTP Content-* headers in Funkster.",
+                    "primaryLanguage": {
+                        "color": "#2b7489",
+                        "id": "MDg6TGFuZ3VhZ2UyODc=",
+                        "name": "TypeScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1752,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 12368,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "funkster-http-headers-content",
+                    "id": "MDEwOlJlcG9zaXRvcnk3NTk2ODk0NQ==",
+                    "contribution": {
+                        "adds": 5949,
+                        "total_commits": 40,
+                        "num_of_weeks": 6,
+                        "dels": 987
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-08T19:36:06Z",
+                    "createdAt": "2016-12-04T23:01:54Z",
+                    "description": "Adds combinators for parsing the HTTP Accept-* request headers in Funkster.",
+                    "primaryLanguage": {
+                        "color": "#2b7489",
+                        "id": "MDg6TGFuZ3VhZ2UyODc=",
+                        "name": "TypeScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1787,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 4544,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "funkster-http-headers-accept",
+                    "id": "MDEwOlJlcG9zaXRvcnk3NTU3MDMyNw==",
+                    "contribution": {
+                        "adds": 5143,
+                        "total_commits": 39,
+                        "num_of_weeks": 5,
+                        "dels": 469
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-05T09:34:23Z",
+                    "createdAt": "2013-07-06T20:04:15Z",
+                    "description": "A type for the classic try/catch statement, inspired by the Try type in Scala.",
+                    "primaryLanguage": {
+                        "color": "#178600",
+                        "id": "MDg6TGFuZ3VhZ2UyMzI=",
+                        "name": "C#"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 624,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 84130,
+                                "node": {
+                                    "color": "#178600",
+                                    "name": "C#",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzI="
+                                }
+                            },
+                            {
+                                "size": 47820,
+                                "node": {
+                                    "color": "#b845fc",
+                                    "name": "F#",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzg="
+                                }
+                            },
+                            {
+                                "size": 305,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 9
+                    },
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "NiceTry",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMTIyMzY3Nw==",
+                    "contribution": {
+                        "adds": 23123,
+                        "total_commits": 141,
+                        "num_of_weeks": 29,
+                        "dels": 20596
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 3
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-05T09:30:03Z",
+                    "createdAt": "2013-07-30T14:37:19Z",
+                    "description": "A Option type that prevents using null in your code.",
+                    "primaryLanguage": {
+                        "color": "#178600",
+                        "id": "MDg6TGFuZ3VhZ2UyMzI=",
+                        "name": "C#"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 352,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            },
+                            {
+                                "size": 6698,
+                                "node": {
+                                    "color": "#b845fc",
+                                    "name": "F#",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzg="
+                                }
+                            },
+                            {
+                                "size": 612,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 115337,
+                                "node": {
+                                    "color": "#178600",
+                                    "name": "C#",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzI="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 6
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "name": "NeverNull",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMTc2NzIwMw==",
+                    "contribution": {
+                        "adds": 4213,
+                        "total_commits": 13,
+                        "num_of_weeks": 2,
+                        "dels": 69
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-01T23:31:12Z",
+                    "createdAt": "2015-03-08T11:05:42Z",
+                    "description": "A type that allows only one value, also known as void.",
+                    "primaryLanguage": {
+                        "color": "#b845fc",
+                        "id": "MDg6TGFuZ3VhZ2UyMzg=",
+                        "name": "F#"
+                    },
+                    "homepageURL": "http://bomret.github.io/Unit/index.html",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 612,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 999,
+                                "node": {
+                                    "color": "#178600",
+                                    "name": "C#",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzI="
+                                }
+                            },
+                            {
+                                "size": 6888,
+                                "node": {
+                                    "color": "#b845fc",
+                                    "name": "F#",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzg="
+                                }
+                            },
+                            {
+                                "size": 259,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "Unit",
+                    "id": "MDEwOlJlcG9zaXRvcnkzMTg0Njg0Nw==",
+                    "contribution": {
+                        "adds": 2380,
+                        "total_commits": 19,
+                        "num_of_weeks": 3,
+                        "dels": 879
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T22:08:11Z",
+                    "createdAt": "2012-10-05T16:39:45Z",
+                    "description": "The repository for high quality TypeScript type definitions.",
+                    "primaryLanguage": {
+                        "color": "#2b7489",
+                        "id": "MDg6TGFuZ3VhZ2UyODc=",
+                        "name": "TypeScript"
+                    },
+                    "homepageURL": "http://definitelytyped.org/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 23668487,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            },
+                            {
+                                "size": 6462,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 9631
+                    },
+                    "forks": {
+                        "totalCount": 7725
+                    },
+                    "name": "DefinitelyTyped",
+                    "id": "MDEwOlJlcG9zaXRvcnk2MDkzMzE2",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 491
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-14T12:22:47Z",
+                    "createdAt": "2016-12-11T21:09:52Z",
+                    "description": "Examples of building HTTP server apis with funkster.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1225,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 1222,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "funkster-http-examples",
+                    "id": "MDEwOlJlcG9zaXRvcnk3NjIwMDE3OA==",
+                    "contribution": {
+                        "adds": 1818,
+                        "total_commits": 5,
+                        "num_of_weeks": 1,
+                        "dels": 40
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T15:56:07Z",
+                    "createdAt": "2013-07-25T22:19:18Z",
+                    "description": ":vertical_traffic_light: An extensible linter for the TypeScript language",
+                    "primaryLanguage": {
+                        "color": "#2b7489",
+                        "id": "MDg6TGFuZ3VhZ2UyODc=",
+                        "name": "TypeScript"
+                    },
+                    "homepageURL": "http://palantir.github.io/tslint/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3733,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 814368,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            },
+                            {
+                                "size": 437,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 168,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1452
+                    },
+                    "forks": {
+                        "totalCount": 335
+                    },
+                    "name": "tslint",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMTY3MjM0NQ==",
+                    "contribution": {
+                        "adds": 5,
+                        "total_commits": 3,
+                        "num_of_weeks": 1,
+                        "dels": 5
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 69
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-26T20:59:58Z",
+                    "createdAt": "2016-11-26T20:59:49Z",
+                    "description": "The repository for high quality TypeScript type definitions.",
+                    "primaryLanguage": {
+                        "color": "#2b7489",
+                        "id": "MDg6TGFuZ3VhZ2UyODc=",
+                        "name": "TypeScript"
+                    },
+                    "homepageURL": "http://definitelytyped.org/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 23348590,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            },
+                            {
+                                "size": 308,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 678,
+                                "node": {
+                                    "color": null,
+                                    "name": "Protocol Buffer",
+                                    "id": "MDg6TGFuZ3VhZ2U0MjQ="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "DefinitelyTyped",
+                    "id": "MDEwOlJlcG9zaXRvcnk3NDg1MDMwNw==",
+                    "contribution": 0,
+                    "isFork": true,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-07T10:42:30Z",
+                    "createdAt": "2016-02-06T23:41:24Z",
+                    "description": "A mailbox type for non-blocking, asynchronous message passing.",
+                    "primaryLanguage": {
+                        "color": "#b845fc",
+                        "id": "MDg6TGFuZ3VhZ2UyMzg=",
+                        "name": "F#"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 305,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            },
+                            {
+                                "size": 13626,
+                                "node": {
+                                    "color": "#b845fc",
+                                    "name": "F#",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzg="
+                                }
+                            },
+                            {
+                                "size": 1850,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 7094,
+                                "node": {
+                                    "color": "#178600",
+                                    "name": "C#",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzI="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "Mailbox",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MTIyNzU3OA==",
+                    "contribution": {
+                        "adds": 1801,
+                        "total_commits": 2,
+                        "num_of_weeks": 1,
+                        "dels": 211
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-18T02:33:47Z",
+                    "createdAt": "2016-12-18T02:32:27Z",
+                    "description": "Download (free only) egghead.io videos.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 2705,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "egghead-video-download",
+                    "id": "MDEwOlJlcG9zaXRvcnk3Njc1ODcwMg==",
+                    "contribution": {
+                        "adds": 1648,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T16:05:11Z",
+                    "createdAt": "2012-12-08T15:51:42Z",
+                    "description": "F# Data: Library for Data Access",
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                        "name": "HTML"
+                    },
+                    "homepageURL": "http://fsharp.github.io/FSharp.Data",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 635,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 854498,
+                                "node": {
+                                    "color": "#b845fc",
+                                    "name": "F#",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzg="
+                                }
+                            },
+                            {
+                                "size": 43442,
+                                "node": {
+                                    "color": "#178600",
+                                    "name": "C#",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzI="
+                                }
+                            },
+                            {
+                                "size": 6008941,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 641,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 364
+                    },
+                    "forks": {
+                        "totalCount": 183
+                    },
+                    "name": "FSharp.Data",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MDY5MDc2",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 43
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Berlin, Germany",
+    "following": {
+        "totalCount": 4
+    },
+    "avatarURL": "https://avatars3.githubusercontent.com/u/246014?v=3",
+    "company": "",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Stefan Reichel",
+    "watching": {
+        "totalCount": 44
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 60
+    },
+    "starredRepositories": {
+        "totalCount": 121
+    },
+    "followers": {
+        "totalCount": 9
+    },
+    "login": "Bomret",
+    "websiteURL": "http://bomret.com/",
+    "id": "MDQ6VXNlcjI0NjAxNA==",
+    "email": "dev@bomret.com"
+}

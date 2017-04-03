@@ -1,0 +1,312 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 0
+    },
+    "contributedRepositories": {
+        "totalCount": 6,
+        "pageInfo": {
+            "endCursor": "Ng==",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2016-10-07T09:17:29Z",
+                    "createdAt": "2013-07-19T10:53:21Z",
+                    "description": "Deliveryset is only valid if all Articles can be shipped with it",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 11535,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "name": "oxid_restrictdelivery",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMTUyNTkxMA==",
+                    "contribution": {
+                        "adds": 701,
+                        "total_commits": 3,
+                        "num_of_weeks": 2,
+                        "dels": 152
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-17T17:22:41Z",
+                    "createdAt": "2016-02-17T17:22:31Z",
+                    "description": "OXID eShop: Shows correct baseprice of variant in case a \"from\"-price is displayed",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 2471,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "oxid_baseprice_fix",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MTk0MDg1Ng==",
+                    "contribution": {
+                        "adds": 165,
+                        "total_commits": 3,
+                        "num_of_weeks": 1,
+                        "dels": 1
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-12T12:47:30Z",
+                    "createdAt": "2016-02-12T12:47:19Z",
+                    "description": "OXID eShop: Allows own variant scale prices even if inheritance is activated",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1309,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "oxid_inherit_scaleprices",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MTU4NzA2NQ==",
+                    "contribution": {
+                        "adds": 128,
+                        "total_commits": 2,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-26T15:09:11Z",
+                    "createdAt": "2013-07-17T16:11:51Z",
+                    "description": "Disables recalculation of orders when saved (e.g. if payment date is set), if invoice has been generated.",
+                    "primaryLanguage": {
+                        "color": null,
+                        "id": "MDg6TGFuZ3VhZ2U0MzE=",
+                        "name": "Smarty"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 8584,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 63466,
+                                "node": {
+                                    "color": null,
+                                    "name": "Smarty",
+                                    "id": "MDg6TGFuZ3VhZ2U0MzE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 4
+                    },
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "No_Recalc",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMTQ4MDg0Ng==",
+                    "contribution": {
+                        "adds": 2570,
+                        "total_commits": 8,
+                        "num_of_weeks": 5,
+                        "dels": 753
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-30T10:02:43Z",
+                    "createdAt": "2013-09-18T10:34:37Z",
+                    "description": "Restrict Available Payments by Category or Theme",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 5708,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "oxid_payment_restrictions",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMjkyMDMyNA==",
+                    "contribution": {
+                        "adds": 476,
+                        "total_commits": 6,
+                        "num_of_weeks": 4,
+                        "dels": 15
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 3
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-09T14:54:14Z",
+                    "createdAt": "2012-09-25T12:55:46Z",
+                    "description": "Oxid eShop Module: checks deliveryset settings in OXID eShop",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 19484,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 4
+                    },
+                    "forks": {
+                        "totalCount": 6
+                    },
+                    "name": "deliverysetcheck",
+                    "id": "MDEwOlJlcG9zaXRvcnk1OTQ5OTQ0",
+                    "contribution": {
+                        "adds": 1202,
+                        "total_commits": 6,
+                        "num_of_weeks": 6,
+                        "dels": 410
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 4
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Germany",
+    "following": {
+        "totalCount": 0
+    },
+    "avatarURL": "https://avatars0.githubusercontent.com/u/2419609?v=3",
+    "company": "Zunderweb",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Frank Zunderer",
+    "watching": {
+        "totalCount": 22
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 7
+    },
+    "starredRepositories": {
+        "totalCount": 0
+    },
+    "followers": {
+        "totalCount": 10
+    },
+    "login": "leofonic",
+    "websiteURL": "http://www.zunderweb.de",
+    "id": "MDQ6VXNlcjI0MTk2MDk=",
+    "email": "info@zunderweb.de"
+}

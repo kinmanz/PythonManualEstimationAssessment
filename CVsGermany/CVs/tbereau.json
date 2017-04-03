@@ -1,0 +1,365 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 3
+    },
+    "contributedRepositories": {
+        "totalCount": 5,
+        "pageInfo": {
+            "endCursor": "NQ==",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2017-01-25T07:29:56Z",
+                    "createdAt": "2011-05-23T21:48:40Z",
+                    "description": "Coarse-grained protein package",
+                    "primaryLanguage": {
+                        "color": "#555555",
+                        "id": "MDg6TGFuZ3VhZ2UxNDk=",
+                        "name": "C"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 231304,
+                                "node": {
+                                    "color": "#e4cc98",
+                                    "name": "Tcl",
+                                    "id": "MDg6TGFuZ3VhZ2UxODQ="
+                                }
+                            },
+                            {
+                                "size": 266367,
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                }
+                            },
+                            {
+                                "size": 2765,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 925,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "name": "peptideB",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzkwMzU5",
+                    "contribution": {
+                        "adds": 1310,
+                        "total_commits": 11,
+                        "num_of_weeks": 7,
+                        "dels": 1276
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T14:08:05Z",
+                    "createdAt": "2011-03-25T07:43:15Z",
+                    "description": "The ESPResSo package",
+                    "primaryLanguage": {
+                        "color": "#f34b7d",
+                        "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                        "name": "C++"
+                    },
+                    "homepageURL": "http://espressomd.org",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 87655,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 3587618,
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                }
+                            },
+                            {
+                                "size": 3776,
+                                "node": {
+                                    "color": "#e4cc98",
+                                    "name": "Tcl",
+                                    "id": "MDg6TGFuZ3VhZ2UxODQ="
+                                }
+                            },
+                            {
+                                "size": 711094,
+                                "node": {
+                                    "color": "#3A4E3A",
+                                    "name": "Cuda",
+                                    "id": "MDg6TGFuZ3VhZ2UzNjg="
+                                }
+                            },
+                            {
+                                "size": 616241,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 57478,
+                                "node": {
+                                    "color": null,
+                                    "name": "CMake",
+                                    "id": "MDg6TGFuZ3VhZ2U0NDA="
+                                }
+                            },
+                            {
+                                "size": 10683,
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 54
+                    },
+                    "forks": {
+                        "totalCount": 84
+                    },
+                    "name": "espresso",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTI0NjQ0",
+                    "contribution": {
+                        "adds": 3098,
+                        "total_commits": 28,
+                        "num_of_weeks": 17,
+                        "dels": 864
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 24
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-22T12:28:20Z",
+                    "createdAt": "2014-07-30T13:42:31Z",
+                    "description": "Automatic MARTINI parametrization of small organic molecules",
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 256661,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 8309,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 11
+                    },
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "auto_martini",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMjQyOTA3OQ==",
+                    "contribution": {
+                        "adds": 11389,
+                        "total_commits": 47,
+                        "num_of_weeks": 20,
+                        "dels": 1422
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 6
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-01-13T11:18:56Z",
+                    "createdAt": "2015-03-14T18:13:00Z",
+                    "description": "Automatically exported from code.google.com/p/plumo",
+                    "primaryLanguage": {
+                        "color": "#e4cc98",
+                        "id": "MDg6TGFuZ3VhZ2UxODQ=",
+                        "name": "Tcl"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 472894,
+                                "node": {
+                                    "color": "#e4cc98",
+                                    "name": "Tcl",
+                                    "id": "MDg6TGFuZ3VhZ2UxODQ="
+                                }
+                            },
+                            {
+                                "size": 367,
+                                "node": {
+                                    "color": null,
+                                    "name": "Awk",
+                                    "id": "MDg6TGFuZ3VhZ2UyODQ="
+                                }
+                            },
+                            {
+                                "size": 24335,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "plumo",
+                    "id": "MDEwOlJlcG9zaXRvcnkzMjIyNTQxNg==",
+                    "contribution": {
+                        "adds": 44638,
+                        "total_commits": 85,
+                        "num_of_weeks": 31,
+                        "dels": 14887
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 0
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2015-04-19T16:08:39Z",
+                    "createdAt": "2011-05-23T22:31:45Z",
+                    "description": "WHAM free energy calculation package",
+                    "primaryLanguage": {
+                        "color": "#555555",
+                        "id": "MDg6TGFuZ3VhZ2UxNDk=",
+                        "name": "C"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 80114,
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                }
+                            },
+                            {
+                                "size": 619,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "opt-mhm",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzkwNTQx",
+                    "contribution": {
+                        "adds": 1026,
+                        "total_commits": 4,
+                        "num_of_weeks": 3,
+                        "dels": 1023
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Mainz, Germany",
+    "following": {
+        "totalCount": 0
+    },
+    "avatarURL": "https://avatars3.githubusercontent.com/u/806194?v=3",
+    "company": "Max Planck Institute for Polymer Research",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Tristan Bereau",
+    "watching": {
+        "totalCount": 20
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 6
+    },
+    "starredRepositories": {
+        "totalCount": 3
+    },
+    "followers": {
+        "totalCount": 9
+    },
+    "login": "tbereau",
+    "websiteURL": "http://www2.mpip-mainz.mpg.de/~bereau/",
+    "id": "MDQ6VXNlcjgwNjE5NA==",
+    "email": ""
+}

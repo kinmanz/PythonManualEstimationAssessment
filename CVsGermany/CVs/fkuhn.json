@@ -1,0 +1,698 @@
+{
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "location": "Mannheim, Germany",
+    "email": "zeichenkette@gmail.com",
+    "pullRequests": {
+        "totalCount": 9
+    },
+    "company": "",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "websiteURL": "https://nlpgl.wordpress.com/",
+    "watching": {
+        "totalCount": 17
+    },
+    "avatarURL": "https://avatars1.githubusercontent.com/u/2892252?v=3",
+    "starredRepositories": {
+        "totalCount": 830
+    },
+    "followers": {
+        "totalCount": 12
+    },
+    "login": "fkuhn",
+    "following": {
+        "totalCount": 33
+    },
+    "contributedRepositories": {
+        "totalCount": 13,
+        "edges": [
+            {
+                "node": {
+                    "description": "dgd metadata and resource conversion to clarin cmdi:",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzMDQ2MzA5NQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 63662
+                            },
+                            {
+                                "node": {
+                                    "color": "#EB8CEB",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDI=",
+                                    "name": "XSLT"
+                                },
+                                "size": 55246
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2016-11-28T15:45:30Z",
+                    "watchers": {
+                        "totalCount": 0
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 104921,
+                        "total_commits": 280,
+                        "num_of_weeks": 32,
+                        "dels": 86715
+                    },
+                    "homepageURL": "http://fkuhn.github.io/dgd2cmdi/",
+                    "createdAt": "2015-02-07T17:15:21Z",
+                    "name": "dgd2cmdi"
+                }
+            },
+            {
+                "node": {
+                    "description": "tagging and metadata alignment for multilit",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzODczODE2NQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 93466
+                            },
+                            {
+                                "node": {
+                                    "color": "#DA5B0B",
+                                    "id": "MDg6TGFuZ3VhZ2U0ODk=",
+                                    "name": "Jupyter Notebook"
+                                },
+                                "size": 7037
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 2036
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2016-03-14T20:44:50Z",
+                    "watchers": {
+                        "totalCount": 0
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 4427,
+                        "total_commits": 54,
+                        "num_of_weeks": 10,
+                        "dels": 819
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2015-07-08T07:12:44Z",
+                    "name": "multiprs"
+                }
+            },
+            {
+                "node": {
+                    "description": "run the webanno linguistic annotation tool in a Docker container",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0NTQwMjY0Mg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 370
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#89e051",
+                        "name": "Shell",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk="
+                    },
+                    "updatedAt": "2016-06-02T10:50:13Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 351,
+                        "total_commits": 73,
+                        "num_of_weeks": 4,
+                        "dels": 174
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2015-11-02T15:20:53Z",
+                    "name": "webanno-docker"
+                }
+            },
+            {
+                "node": {
+                    "description": "Dockerize the Clarin-Curation Module",
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1ODA0MjQxNg==",
+                    "languages": {
+                        "edges": []
+                    },
+                    "primaryLanguage": null,
+                    "updatedAt": "2016-05-04T11:22:29Z",
+                    "watchers": {
+                        "totalCount": 0
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 126,
+                        "total_commits": 39,
+                        "num_of_weeks": 3,
+                        "dels": 37
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-05-04T10:07:32Z",
+                    "name": "clarincuration-docker"
+                }
+            },
+            {
+                "node": {
+                    "description": "sentence tokenizing for german legal decisions",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNTA0MDQzOA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 26215
+                            },
+                            {
+                                "node": {
+                                    "color": "#DA5B0B",
+                                    "id": "MDg6TGFuZ3VhZ2U0ODk=",
+                                    "name": "Jupyter Notebook"
+                                },
+                                "size": 14895
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 63492
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "name": "HTML",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc="
+                    },
+                    "updatedAt": "2016-12-08T11:12:46Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 51675,
+                        "total_commits": 56,
+                        "num_of_weeks": 16,
+                        "dels": 2694
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2015-05-04T14:46:53Z",
+                    "name": "jursegtok"
+                }
+            },
+            {
+                "node": {
+                    "description": "docker setup for lis clarin project",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NjY3NzcxOA==",
+                    "languages": {
+                        "edges": []
+                    },
+                    "primaryLanguage": null,
+                    "updatedAt": "2016-09-19T06:59:43Z",
+                    "watchers": {
+                        "totalCount": 0
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 157,
+                        "total_commits": 22,
+                        "num_of_weeks": 1,
+                        "dels": 28
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-04-20T10:25:37Z",
+                    "name": "lis-docker"
+                }
+            },
+            {
+                "node": {
+                    "description": "This package provides access to the Fedora Commons Repository.",
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk5NTEzMTc=",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 42753
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2016-06-15T08:58:17Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 6
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "http://pypi.python.org/pypi/fcrepo",
+                    "createdAt": "2010-09-30T13:51:05Z",
+                    "name": "fcrepo"
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNzQwOTU0MA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "name": "Ruby"
+                                },
+                                "size": 3213
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "updatedAt": "2016-04-20T13:13:51Z",
+                    "watchers": {
+                        "totalCount": 0
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": true,
+                    "contribution": 0,
+                    "homepageURL": null,
+                    "createdAt": "2015-06-14T11:16:51Z",
+                    "name": "engineering-blogs"
+                }
+            },
+            {
+                "node": {
+                    "description": "webscraper for legal abbrevation resources",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNDU2ODgxOA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 4102
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2017-01-29T20:56:46Z",
+                    "watchers": {
+                        "totalCount": 0
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 303,
+                        "total_commits": 6,
+                        "num_of_weeks": 4,
+                        "dels": 98
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2015-04-25T13:07:43Z",
+                    "name": "jurabbrv"
+                }
+            },
+            {
+                "node": {
+                    "description": "run the webanno linguistic annotation tool in a Docker container",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NjU5NzgwMg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 1501
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#89e051",
+                        "name": "Shell",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk="
+                    },
+                    "updatedAt": "2016-06-05T14:17:25Z",
+                    "watchers": {
+                        "totalCount": 0
+                    },
+                    "stargazers": {
+                        "totalCount": 4
+                    },
+                    "isFork": true,
+                    "contribution": {
+                        "adds": 351,
+                        "total_commits": 73,
+                        "num_of_weeks": 4,
+                        "dels": 174
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2016-04-19T13:11:40Z",
+                    "name": "webanno3-docker"
+                }
+            },
+            {
+                "node": {
+                    "description": "java library for CLARIN's CMDI curation",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0ODQ4OTA5Mw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 330336
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 317672
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 3890
+                            },
+                            {
+                                "node": {
+                                    "color": "#EB8CEB",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDI=",
+                                    "name": "XSLT"
+                                },
+                                "size": 22655
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2017-01-24T10:47:45Z",
+                    "watchers": {
+                        "totalCount": 7
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2015-12-23T12:21:28Z",
+                    "name": "clarin-curation-module"
+                }
+            },
+            {
+                "node": {
+                    "description": "Part-of-Speech (POS) Tagger for Turkish",
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3OTU3Nzcx",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 5911
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2017-01-14T14:12:11Z",
+                    "watchers": {
+                        "totalCount": 4
+                    },
+                    "stargazers": {
+                        "totalCount": 12
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "",
+                    "createdAt": "2013-02-01T12:22:57Z",
+                    "name": "turkish-pos-tagger"
+                }
+            },
+            {
+                "node": {
+                    "description": "\ud83d\udcab Industrial-strength Natural Language Processing (NLP) with Python and Cython",
+                    "forks": {
+                        "totalCount": 491
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyMTQ2NzExMA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 96278
+                            },
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 743055
+                            },
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile"
+                                },
+                                "size": 143233
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 224411
+                            },
+                            {
+                                "node": {
+                                    "color": "#555555",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk=",
+                                    "name": "C"
+                                },
+                                "size": 462587
+                            },
+                            {
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                                    "name": "C++"
+                                },
+                                "size": 117174
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0OTY=",
+                                    "name": "M4"
+                                },
+                                "size": 11398
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 25793
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 852
+                            },
+                            {
+                                "node": {
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY=",
+                                    "name": "Objective-C"
+                                },
+                                "size": 567
+                            },
+                            {
+                                "node": {
+                                    "color": "#ecdebe",
+                                    "id": "MDg6TGFuZ3VhZ2U1Njg=",
+                                    "name": "Roff"
+                                },
+                                "size": 30884
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2017-02-06T17:39:23Z",
+                    "watchers": {
+                        "totalCount": 228
+                    },
+                    "stargazers": {
+                        "totalCount": 3576
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "https://spacy.io",
+                    "createdAt": "2014-07-03T15:15:40Z",
+                    "name": "spaCy"
+                }
+            }
+        ],
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "MTM="
+        }
+    },
+    "bio": "I am a software-engineer and computational linguist based in Mannheim, Germany. ",
+    "gists": {
+        "totalCount": 3
+    },
+    "name": "Florian Kuhn",
+    "id": "MDQ6VXNlcjI4OTIyNTI="
+}

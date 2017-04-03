@@ -1,0 +1,382 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 2
+    },
+    "contributedRepositories": {
+        "totalCount": 7,
+        "pageInfo": {
+            "endCursor": "Nw==",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2016-08-29T03:46:13Z",
+                    "createdAt": "2015-02-10T11:10:22Z",
+                    "description": "Database-Supported Haskell",
+                    "primaryLanguage": {
+                        "color": "#29b544",
+                        "id": "MDg6TGFuZ3VhZ2UxNjc=",
+                        "name": "Haskell"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1090138,
+                                "node": {
+                                    "color": "#29b544",
+                                    "name": "Haskell",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjc="
+                                }
+                            },
+                            {
+                                "size": 475,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 10
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "dsh",
+                    "id": "MDEwOlJlcG9zaXRvcnkzMDU4ODQ2Mw==",
+                    "contribution": {
+                        "adds": 150597,
+                        "total_commits": 1883,
+                        "num_of_weeks": 177,
+                        "dels": 138633
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 6
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-01-13T15:00:19Z",
+                    "createdAt": "2015-02-10T13:31:02Z",
+                    "description": "SQL backend for Database-Supported Haskell (DSH)",
+                    "primaryLanguage": {
+                        "color": "#29b544",
+                        "id": "MDg6TGFuZ3VhZ2UxNjc=",
+                        "name": "Haskell"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 291073,
+                                "node": {
+                                    "color": "#29b544",
+                                    "name": "Haskell",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "dsh-sql",
+                    "id": "MDEwOlJlcG9zaXRvcnkzMDU5MzMyNA==",
+                    "contribution": {
+                        "adds": 129033,
+                        "total_commits": 1736,
+                        "num_of_weeks": 166,
+                        "dels": 139309
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-24T01:30:23Z",
+                    "createdAt": "2015-01-15T15:56:06Z",
+                    "description": "Relational algebra and SQL code generation",
+                    "primaryLanguage": {
+                        "color": "#29b544",
+                        "id": "MDg6TGFuZ3VhZ2UxNjc=",
+                        "name": "Haskell"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 192644,
+                                "node": {
+                                    "color": "#29b544",
+                                    "name": "Haskell",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "algebra-sql",
+                    "id": "MDEwOlJlcG9zaXRvcnkyOTMwNDg5OA==",
+                    "contribution": {
+                        "adds": 18779,
+                        "total_commits": 403,
+                        "num_of_weeks": 107,
+                        "dels": 38482
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-17T16:04:26Z",
+                    "createdAt": "2015-06-29T13:31:28Z",
+                    "description": "A collection of database query examples using Database-Supported Haskell (DSH)",
+                    "primaryLanguage": {
+                        "color": "#29b544",
+                        "id": "MDg6TGFuZ3VhZ2UxNjc=",
+                        "name": "Haskell"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 139070,
+                                "node": {
+                                    "color": "#29b544",
+                                    "name": "Haskell",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjc="
+                                }
+                            },
+                            {
+                                "size": 3013,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "dsh-example-queries",
+                    "id": "MDEwOlJlcG9zaXRvcnkzODI0OTI1OA==",
+                    "contribution": {
+                        "adds": 51933,
+                        "total_commits": 234,
+                        "num_of_weeks": 74,
+                        "dels": 46906
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-15T01:40:00Z",
+                    "createdAt": "2015-01-15T15:53:30Z",
+                    "description": "Haskell infrastructure for constructing and rewriting plans of algebraic operators.",
+                    "primaryLanguage": {
+                        "color": "#29b544",
+                        "id": "MDg6TGFuZ3VhZ2UxNjc=",
+                        "name": "Haskell"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 55231,
+                                "node": {
+                                    "color": "#29b544",
+                                    "name": "Haskell",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "algebra-dag",
+                    "id": "MDEwOlJlcG9zaXRvcnkyOTMwNDc4NA==",
+                    "contribution": {
+                        "adds": 17035,
+                        "total_commits": 364,
+                        "num_of_weeks": 95,
+                        "dels": 40270
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-16T14:34:33Z",
+                    "createdAt": "2014-08-07T09:43:15Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#c065db",
+                        "id": "MDg6TGFuZ3VhZ2UxNTI=",
+                        "name": "Emacs Lisp"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 16661,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 24892,
+                                "node": {
+                                    "color": "#c065db",
+                                    "name": "Emacs Lisp",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTI="
+                                }
+                            },
+                            {
+                                "size": 22013,
+                                "node": {
+                                    "color": "#199f4b",
+                                    "name": "VimL",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTU="
+                                }
+                            },
+                            {
+                                "size": 1277,
+                                "node": {
+                                    "color": "#29b544",
+                                    "name": "Haskell",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "dotfiles-public",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMjcxNjE0NA==",
+                    "contribution": {
+                        "adds": 3574,
+                        "total_commits": 67,
+                        "num_of_weeks": 15,
+                        "dels": 1691
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-19T14:53:27Z",
+                    "createdAt": "2016-04-03T01:23:54Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                        "name": "HTML"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 24130,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 20
+                    },
+                    "forks": {
+                        "totalCount": 225
+                    },
+                    "name": "statement-on-lambdaconf.github.io",
+                    "id": "MDEwOlJlcG9zaXRvcnk1NTMyNDA0OQ==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            }
+        ]
+    },
+    "location": "T\u00fcbingen, Germany",
+    "following": {
+        "totalCount": 14
+    },
+    "avatarURL": "https://avatars1.githubusercontent.com/u/115853?v=3",
+    "company": "",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Alexander Ulrich",
+    "watching": {
+        "totalCount": 20
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 2
+    },
+    "starredRepositories": {
+        "totalCount": 21
+    },
+    "followers": {
+        "totalCount": 10
+    },
+    "login": "ulricha",
+    "websiteURL": "",
+    "id": "MDQ6VXNlcjExNTg1Mw==",
+    "email": "alex@etc-network.de"
+}

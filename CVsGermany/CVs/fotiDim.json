@@ -1,0 +1,779 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 8
+    },
+    "contributedRepositories": {
+        "totalCount": 12,
+        "pageInfo": {
+            "endCursor": "MTI=",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2017-02-01T01:39:11Z",
+                    "createdAt": "2014-09-11T17:03:51Z",
+                    "description": "A simple yet powerful App Review Manager for iOS and OSX in Swift",
+                    "primaryLanguage": {
+                        "color": "#ffac45",
+                        "id": "MDg6TGFuZ3VhZ2UzNzE=",
+                        "name": "Swift"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 90097,
+                                "node": {
+                                    "color": "#ffac45",
+                                    "name": "Swift",
+                                    "id": "MDg6TGFuZ3VhZ2UzNzE="
+                                }
+                            },
+                            {
+                                "size": 1554,
+                                "node": {
+                                    "color": "#438eff",
+                                    "name": "Objective-C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                }
+                            },
+                            {
+                                "size": 1678,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 769
+                    },
+                    "forks": {
+                        "totalCount": 66
+                    },
+                    "name": "Armchair",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMzkyNzUxNA==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 29
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T18:15:38Z",
+                    "createdAt": "2015-04-05T21:37:27Z",
+                    "description": "Intelligent iOS permissions UI and unified API",
+                    "primaryLanguage": {
+                        "color": "#ffac45",
+                        "id": "MDg6TGFuZ3VhZ2UzNzE=",
+                        "name": "Swift"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 57572,
+                                "node": {
+                                    "color": "#ffac45",
+                                    "name": "Swift",
+                                    "id": "MDg6TGFuZ3VhZ2UzNzE="
+                                }
+                            },
+                            {
+                                "size": 546,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 5631,
+                                "node": {
+                                    "color": "#438eff",
+                                    "name": "Objective-C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 3649
+                    },
+                    "forks": {
+                        "totalCount": 304
+                    },
+                    "name": "PermissionScope",
+                    "id": "MDEwOlJlcG9zaXRvcnkzMzQ1NjEyMw==",
+                    "contribution": {
+                        "adds": 124,
+                        "total_commits": 8,
+                        "num_of_weeks": 3,
+                        "dels": 49
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 82
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-03-30T19:52:42Z",
+                    "createdAt": "2015-07-24T13:49:16Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY=",
+                        "name": "Objective-C"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 9293,
+                                "node": {
+                                    "color": "#438eff",
+                                    "name": "Objective-C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "TDRoundedNavigationBarObjC",
+                    "id": "MDEwOlJlcG9zaXRvcnkzOTYzNjQyMQ==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-05T00:26:20Z",
+                    "createdAt": "2014-12-02T17:00:38Z",
+                    "description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps",
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                        "name": "Ruby"
+                    },
+                    "homepageURL": "https://fastlane.tools",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3042487,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 41118,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 115,
+                                "node": {
+                                    "color": "#bb92ac",
+                                    "name": "Matlab",
+                                    "id": "MDg6TGFuZ3VhZ2UyNDc="
+                                }
+                            },
+                            {
+                                "size": 69198,
+                                "node": {
+                                    "color": "#438eff",
+                                    "name": "Objective-C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                }
+                            },
+                            {
+                                "size": 44178,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 30333,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 11128,
+                                "node": {
+                                    "color": "#ffac45",
+                                    "name": "Swift",
+                                    "id": "MDg6TGFuZ3VhZ2UzNzE="
+                                }
+                            },
+                            {
+                                "size": 39,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 13803
+                    },
+                    "forks": {
+                        "totalCount": 2064
+                    },
+                    "name": "fastlane",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNzQ0Mjk2Nw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 471
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T06:29:50Z",
+                    "createdAt": "2014-03-04T09:29:31Z",
+                    "description": "Spotify iOS SDK",
+                    "primaryLanguage": {
+                        "color": "#438eff",
+                        "id": "MDg6TGFuZ3VhZ2UxNTY=",
+                        "name": "Objective-C"
+                    },
+                    "homepageURL": "https://developer.spotify.com/technologies/spotify-ios-sdk/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 221836,
+                                "node": {
+                                    "color": "#438eff",
+                                    "name": "Objective-C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                }
+                            },
+                            {
+                                "size": 3762,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 683
+                    },
+                    "forks": {
+                        "totalCount": 130
+                    },
+                    "name": "ios-sdk",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzM5Njc3Mw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 98
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T20:55:52Z",
+                    "createdAt": "2017-02-02T15:50:36Z",
+                    "description": "Render After Effects animations natively on Android and iOS for Xamarin",
+                    "primaryLanguage": {
+                        "color": "#178600",
+                        "id": "MDg6TGFuZ3VhZ2UyMzI=",
+                        "name": "C#"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 18190,
+                                "node": {
+                                    "color": "#178600",
+                                    "name": "C#",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzI="
+                                }
+                            },
+                            {
+                                "size": 151,
+                                "node": {
+                                    "color": "#596706",
+                                    "name": "Smalltalk",
+                                    "id": "MDg6TGFuZ3VhZ2UxNzM="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 53
+                    },
+                    "forks": {
+                        "totalCount": 10
+                    },
+                    "name": "LottieXamarin",
+                    "id": "MDEwOlJlcG9zaXRvcnk4MDc0MDU0Mg==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 8
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-12T19:51:38Z",
+                    "createdAt": "2016-03-05T16:35:53Z",
+                    "description": "Build spotify playlists from saved music based on their genre.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "https://tkel.ly/genify/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 31407,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 559,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 147,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "genify",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MzIxMTI2NA==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T08:08:13Z",
+                    "createdAt": "2016-02-13T01:28:41Z",
+                    "description": "GameStream client for Chrome",
+                    "primaryLanguage": {
+                        "color": "#555555",
+                        "id": "MDg6TGFuZ3VhZ2UxNDk=",
+                        "name": "C"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 8876,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 1961362,
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                }
+                            },
+                            {
+                                "size": 167,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            },
+                            {
+                                "size": 281252,
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                }
+                            },
+                            {
+                                "size": 7354,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 84750,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 4238,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 188
+                    },
+                    "forks": {
+                        "totalCount": 22
+                    },
+                    "name": "moonlight-chrome",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MTYyNjk1Ng==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 30
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-01T05:02:12Z",
+                    "createdAt": "2016-08-11T07:26:11Z",
+                    "description": "An SDK for tracking iOS apps with Webtrekk",
+                    "primaryLanguage": {
+                        "color": "#ffac45",
+                        "id": "MDg6TGFuZ3VhZ2UzNzE=",
+                        "name": "Swift"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 498412,
+                                "node": {
+                                    "color": "#ffac45",
+                                    "name": "Swift",
+                                    "id": "MDg6TGFuZ3VhZ2UzNzE="
+                                }
+                            },
+                            {
+                                "size": 2792,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 137,
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                }
+                            },
+                            {
+                                "size": 8614,
+                                "node": {
+                                    "color": "#438eff",
+                                    "name": "Objective-C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "name": "webtrekk-ios-sdk",
+                    "id": "MDEwOlJlcG9zaXRvcnk2NTQ0ODE0Mg==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 10
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-15T16:34:30Z",
+                    "createdAt": "2015-06-26T21:15:36Z",
+                    "description": "Avatar Kit - https://drupal.org/project/avatars",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 110613,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 544,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 477,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "name": "avatars",
+                    "id": "MDEwOlJlcG9zaXRvcnkzODEzNDE5OA==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-21T06:15:51Z",
+                    "createdAt": "2014-10-31T18:55:32Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 5283371,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 429158,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 314916,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 21236,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 6243,
+                                "node": {
+                                    "color": null,
+                                    "name": "ApacheConf",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTg="
+                                }
+                            },
+                            {
+                                "size": 51693,
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                }
+                            },
+                            {
+                                "size": 8228,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 4
+                    },
+                    "forks": {
+                        "totalCount": 5
+                    },
+                    "name": "scholarly-lite",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNjAyOTA5OA==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 6
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-26T00:18:47Z",
+                    "createdAt": "2015-09-21T21:41:25Z",
+                    "description": "Parse SDK for .NET, Xamarin, Unity.",
+                    "primaryLanguage": {
+                        "color": "#178600",
+                        "id": "MDg6TGFuZ3VhZ2UyMzI=",
+                        "name": "C#"
+                    },
+                    "homepageURL": "https://parse.com/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1004052,
+                                "node": {
+                                    "color": "#178600",
+                                    "name": "C#",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzI="
+                                }
+                            },
+                            {
+                                "size": 36080,
+                                "node": {
+                                    "color": "#945db7",
+                                    "name": "Visual Basic",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjY="
+                                }
+                            },
+                            {
+                                "size": 26623,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 148
+                    },
+                    "forks": {
+                        "totalCount": 175
+                    },
+                    "name": "Parse-SDK-dotNET",
+                    "id": "MDEwOlJlcG9zaXRvcnk0Mjg5NTE5OA==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 48
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Berlin, Germany",
+    "following": {
+        "totalCount": 28
+    },
+    "avatarURL": "https://avatars1.githubusercontent.com/u/2326415?v=3",
+    "company": "Zalando Lounge",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Foti Dim",
+    "watching": {
+        "totalCount": 142
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 16
+    },
+    "starredRepositories": {
+        "totalCount": 361
+    },
+    "followers": {
+        "totalCount": 8
+    },
+    "login": "fotiDim",
+    "websiteURL": "http://twitter.com/fotidim",
+    "id": "MDQ6VXNlcjIzMjY0MTU=",
+    "email": ""
+}

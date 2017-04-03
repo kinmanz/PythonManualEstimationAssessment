@@ -1,0 +1,894 @@
+{
+    "bio": "",
+    "gists": {
+        "totalCount": 0
+    },
+    "contributedRepositories": {
+        "totalCount": 18,
+        "pageInfo": {
+            "endCursor": "MTg=",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T15:50:26Z",
+                    "createdAt": "2011-01-19T19:52:29Z",
+                    "description": "A damn simple library for building production-ready RESTful web services.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "http://www.dropwizard.io",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 2003403,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 6849,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 680,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 1070,
+                                "node": {
+                                    "color": "#0050b2",
+                                    "name": "FreeMarker",
+                                    "id": "MDg6TGFuZ3VhZ2U0ODY="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 5384
+                    },
+                    "forks": {
+                        "totalCount": 2297
+                    },
+                    "name": "dropwizard",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMjcyMTI5",
+                    "contribution": {
+                        "adds": 11460,
+                        "total_commits": 215,
+                        "num_of_weeks": 59,
+                        "dels": 4775
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 457
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T13:58:02Z",
+                    "createdAt": "2009-06-17T16:36:36Z",
+                    "description": "jDBI is designed to provide convenient tabular data access in Java(tm). It uses the Java collections framework for query results, provides a convenient means of externalizing sql statements, and provides named parameter support for any database being used.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "http://jdbi.org/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 44692,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 3792,
+                                "node": {
+                                    "color": null,
+                                    "name": "GAP",
+                                    "id": "MDg6TGFuZ3VhZ2UzNDc="
+                                }
+                            },
+                            {
+                                "size": 1321465,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 759
+                    },
+                    "forks": {
+                        "totalCount": 177
+                    },
+                    "name": "jdbi",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMjk3Mzg=",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 63
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-10-26T07:25:26Z",
+                    "createdAt": "2015-01-22T17:53:55Z",
+                    "description": "JDBI Dropwizard Integration Testing",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 68507,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 15
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "name": "jdit",
+                    "id": "MDEwOlJlcG9zaXRvcnkyOTY5MTgzMA==",
+                    "contribution": {
+                        "adds": 6634,
+                        "total_commits": 199,
+                        "num_of_weeks": 31,
+                        "dels": 3730
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 3
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T15:50:40Z",
+                    "createdAt": "2010-02-26T19:44:42Z",
+                    "description": ":chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "http://metrics.dropwizard.io",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 839851,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 4600
+                    },
+                    "forks": {
+                        "totalCount": 1205
+                    },
+                    "name": "metrics",
+                    "id": "MDEwOlJlcG9zaXRvcnk1Mzc4MDA=",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 371
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-27T16:22:01Z",
+                    "createdAt": "2016-10-14T17:28:49Z",
+                    "description": "A Dropwizard module for instrumenting JDBI3",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 18950,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "metrics-jdbi3",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MDkzMjI4MA==",
+                    "contribution": {
+                        "adds": 2213,
+                        "total_commits": 31,
+                        "num_of_weeks": 6,
+                        "dels": 1357
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-23T07:10:47Z",
+                    "createdAt": "2015-11-25T15:49:25Z",
+                    "description": "Dropwizard Integration with Jetty HTTP/1.1 and HTTP/2 client ",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 33056,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "dropwizard-http2-client",
+                    "id": "MDEwOlJlcG9zaXRvcnk0Njg3MTE5MA==",
+                    "contribution": {
+                        "adds": 3439,
+                        "total_commits": 62,
+                        "num_of_weeks": 8,
+                        "dels": 1577
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 3
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-16T12:12:43Z",
+                    "createdAt": "2016-06-06T06:53:45Z",
+                    "description": "A light and minimalistic HTTP server for Java with zero dependencies and quick startup time",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 24317,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "embedded-http-server",
+                    "id": "MDEwOlJlcG9zaXRvcnk2MDUwNTM1MA==",
+                    "contribution": {
+                        "adds": 1887,
+                        "total_commits": 24,
+                        "num_of_weeks": 4,
+                        "dels": 1081
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-27T16:21:40Z",
+                    "createdAt": "2016-10-14T17:34:39Z",
+                    "description": "Dropwizard integration with JDBI3",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 8926,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "dropwizard-jdbi3",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MDkzMjcxNA==",
+                    "contribution": {
+                        "adds": 614,
+                        "total_commits": 17,
+                        "num_of_weeks": 7,
+                        "dels": 169
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T06:54:55Z",
+                    "createdAt": "2012-10-23T05:56:42Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 131906,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 3826,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 401
+                    },
+                    "forks": {
+                        "totalCount": 208
+                    },
+                    "name": "netty-in-action",
+                    "id": "MDEwOlJlcG9zaXRvcnk2MzQ3NTQy",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 74
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-17T12:06:30Z",
+                    "createdAt": "2014-07-27T18:44:39Z",
+                    "description": "Simple JSON-RPC for Java",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 208704,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "simple-json-rpc",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMjMxODc2Nw==",
+                    "contribution": {
+                        "adds": 22206,
+                        "total_commits": 178,
+                        "num_of_weeks": 25,
+                        "dels": 13841
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-23T12:07:12Z",
+                    "createdAt": "2014-10-05T19:07:51Z",
+                    "description": "Dropwizard modules directory",
+                    "primaryLanguage": {
+                        "color": "#563d7c",
+                        "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                        "name": "CSS"
+                    },
+                    "homepageURL": "http://modules.dropwizard.io",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 2827,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 6849,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 11115,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 8
+                    },
+                    "forks": {
+                        "totalCount": 34
+                    },
+                    "name": "modules.dropwizard.io",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNDgyMzY0Nw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 14
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-25T13:56:42Z",
+                    "createdAt": "2014-10-19T09:48:00Z",
+                    "description": "An attempt to answer to the questions on the famous blogpost",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "http://web.archive.org/web/20140806220941/http://habrahabr.ru/post/231633",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 21228,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 31
+                    },
+                    "forks": {
+                        "totalCount": 12
+                    },
+                    "name": "100-Java-Concurrency-questions",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNTQyMzEyMA==",
+                    "contribution": {
+                        "adds": 3588,
+                        "total_commits": 87,
+                        "num_of_weeks": 15,
+                        "dels": 1467
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 5
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-27T18:43:42Z",
+                    "createdAt": "2016-02-27T18:43:16Z",
+                    "description": "LUA scripts for perfomance testing with the wrk tool",
+                    "primaryLanguage": {
+                        "color": "#000080",
+                        "id": "MDg6TGFuZ3VhZ2UxNjQ=",
+                        "name": "Lua"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1339,
+                                "node": {
+                                    "color": "#000080",
+                                    "name": "Lua",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjQ="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "wrk-lua-scriprs",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MjY4MjcxNA==",
+                    "contribution": {
+                        "adds": 79,
+                        "total_commits": 4,
+                        "num_of_weeks": 1,
+                        "dels": 5
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-02T17:15:41Z",
+                    "createdAt": "2014-09-05T20:53:30Z",
+                    "description": "Java embedded PostgreSQL component for testing",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1712,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 50947,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 68
+                    },
+                    "forks": {
+                        "totalCount": 20
+                    },
+                    "name": "otj-pg-embedded",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMzcxODAxMQ==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 27
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-01T09:10:47Z",
+                    "createdAt": "2015-12-23T02:04:52Z",
+                    "description": "LeechBlock is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. All you need to do is specify which sites to block and when to block them.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "http://www.proginosko.com/leechblock/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 97461,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 9917,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 930,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 29
+                    },
+                    "forks": {
+                        "totalCount": 7
+                    },
+                    "name": "LeechBlock",
+                    "id": "MDEwOlJlcG9zaXRvcnk0ODQ2MzU5NA==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 3
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-13T18:57:39Z",
+                    "createdAt": "2011-02-13T03:51:06Z",
+                    "description": "Java Native Runtime Enhanced X-platform I/O",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 50983,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 18
+                    },
+                    "forks": {
+                        "totalCount": 15
+                    },
+                    "name": "jnr-enxio",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMzYwODAx",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 10
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-01-24T18:31:12Z",
+                    "createdAt": "2015-02-15T19:58:17Z",
+                    "description": "Examples of using JDIT",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 35800,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "jdit-examples",
+                    "id": "MDEwOlJlcG9zaXRvcnkzMDgzOTkwMw==",
+                    "contribution": {
+                        "adds": 3961,
+                        "total_commits": 64,
+                        "num_of_weeks": 14,
+                        "dels": 2175
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T08:57:05Z",
+                    "createdAt": "2013-07-07T13:48:23Z",
+                    "description": "Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects. JSON, Jackson, Gson, JAX-RS integrations included",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "http://immutables.org",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1645556,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1359
+                    },
+                    "forks": {
+                        "totalCount": 88
+                    },
+                    "name": "immutables",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMTIzMzk5Ng==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 71
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Berlin, Germany",
+    "following": {
+        "totalCount": 0
+    },
+    "avatarURL": "https://avatars3.githubusercontent.com/u/1717632?v=3",
+    "company": "",
+    "pinnedRepositories": {
+        "totalCount": 6,
+        "nodes": [
+            {
+                "name": "dropwizard"
+            },
+            {
+                "name": "jdbi"
+            },
+            {
+                "name": "jdit"
+            },
+            {
+                "name": "dropwizard-http2-client"
+            },
+            {
+                "name": "simple-json-rpc"
+            },
+            {
+                "name": "embedded-http-server"
+            }
+        ]
+    },
+    "name": "Artem Prigoda",
+    "watching": {
+        "totalCount": 66
+    },
+    "organizations": {
+        "totalCount": 1,
+        "nodes": [
+            {
+                "url": "https://github.com/dropwizard",
+                "name": "Dropwizard",
+                "login": "dropwizard",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/5478557?v=3"
+            }
+        ]
+    },
+    "pullRequests": {
+        "totalCount": 209
+    },
+    "starredRepositories": {
+        "totalCount": 38
+    },
+    "followers": {
+        "totalCount": 23
+    },
+    "login": "arteam",
+    "websiteURL": "",
+    "id": "MDQ6VXNlcjE3MTc2MzI=",
+    "email": ""
+}

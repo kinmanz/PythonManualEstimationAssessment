@@ -1,0 +1,620 @@
+{
+    "organizations": {
+        "totalCount": 1,
+        "nodes": [
+            {
+                "login": "jenkinsci",
+                "avatarURL": "https://avatars3.githubusercontent.com/u/107424?v=3",
+                "url": "https://github.com/jenkinsci",
+                "name": "Jenkins"
+            }
+        ]
+    },
+    "location": "Hamburg, Germany",
+    "email": "",
+    "pullRequests": {
+        "totalCount": 367
+    },
+    "company": "HS - Hamburger Software GmbH & Co. KG",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "websiteURL": "",
+    "watching": {
+        "totalCount": 6
+    },
+    "avatarURL": "https://avatars0.githubusercontent.com/u/2901725?v=3",
+    "starredRepositories": {
+        "totalCount": 21
+    },
+    "followers": {
+        "totalCount": 20
+    },
+    "login": "albers",
+    "following": {
+        "totalCount": 2
+    },
+    "contributedRepositories": {
+        "totalCount": 8,
+        "edges": [
+            {
+                "node": {
+                    "description": "Docker - the open-source application container engine",
+                    "forks": {
+                        "totalCount": 11411
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3NjkxNjMx",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#375eab",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTA=",
+                                    "name": "Go"
+                                },
+                                "size": 6882708
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 483659
+                            },
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile"
+                                },
+                                "size": 10930
+                            },
+                            {
+                                "node": {
+                                    "color": "#555555",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk=",
+                                    "name": "C"
+                                },
+                                "size": 5025
+                            },
+                            {
+                                "node": {
+                                    "color": "#6E4C13",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzY=",
+                                    "name": "Assembly"
+                                },
+                                "size": 81
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ=",
+                                    "name": "PowerShell"
+                                },
+                                "size": 23215
+                            },
+                            {
+                                "node": {
+                                    "color": "#199f4b",
+                                    "id": "MDg6TGFuZ3VhZ2U1Njk=",
+                                    "name": "Vim script"
+                                },
+                                "size": 1350
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#375eab",
+                        "name": "Go",
+                        "id": "MDg6TGFuZ3VhZ2UxOTA="
+                    },
+                    "updatedAt": "2017-02-05T21:45:43Z",
+                    "watchers": {
+                        "totalCount": 3129
+                    },
+                    "stargazers": {
+                        "totalCount": 39390
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 5809,
+                        "total_commits": 298,
+                        "num_of_weeks": 77,
+                        "dels": 2840
+                    },
+                    "homepageURL": "http://www.docker.com",
+                    "createdAt": "2013-01-18T18:10:57Z",
+                    "name": "docker"
+                }
+            },
+            {
+                "node": {
+                    "description": "Define and run multi-container applications with Docker",
+                    "forks": {
+                        "totalCount": 1370
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTA0NTc1MQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 698285
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 25909
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ=",
+                                    "name": "PowerShell"
+                                },
+                                "size": 2600
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "name": "Python",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU="
+                    },
+                    "updatedAt": "2017-02-05T20:57:41Z",
+                    "watchers": {
+                        "totalCount": 490
+                    },
+                    "stargazers": {
+                        "totalCount": 8926
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 767,
+                        "total_commits": 21,
+                        "num_of_weeks": 15,
+                        "dels": 362
+                    },
+                    "homepageURL": "https://docs.docker.com/compose/",
+                    "createdAt": "2013-12-09T11:40:58Z",
+                    "name": "compose"
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "forks": {
+                        "totalCount": 440
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MzUyNDM1OA==",
+                    "languages": {
+                        "edges": []
+                    },
+                    "primaryLanguage": null,
+                    "updatedAt": "2017-02-01T10:16:29Z",
+                    "watchers": {
+                        "totalCount": 49
+                    },
+                    "stargazers": {
+                        "totalCount": 516
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": null,
+                    "createdAt": "2016-03-09T19:10:32Z",
+                    "name": "docker-birthday-3"
+                }
+            },
+            {
+                "node": {
+                    "description": "demo for no-configuration deployment of a JPA webapp on Wildfly",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0MzU2NTc1MA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 5178
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 1227
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-04-05T08:29:16Z",
+                    "watchers": {
+                        "totalCount": 0
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 833,
+                        "total_commits": 7,
+                        "num_of_weeks": 4,
+                        "dels": 379
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2015-10-02T17:10:53Z",
+                    "name": "hibernate-integrator-spike"
+                }
+            },
+            {
+                "node": {
+                    "description": "This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.",
+                    "forks": {
+                        "totalCount": 393
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NjcyODQzNw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 3735
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ=",
+                                    "name": "PowerShell"
+                                },
+                                "size": 7830
+                            },
+                            {
+                                "node": {
+                                    "color": "#178600",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzI=",
+                                    "name": "C#"
+                                },
+                                "size": 121574
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 1886240
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 27312
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 2489751
+                            },
+                            {
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM=",
+                                    "name": "Batchfile"
+                                },
+                                "size": 10
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 11512
+                            },
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 23426
+                            },
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                                    "name": "PHP"
+                                },
+                                "size": 9970072
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0MTg=",
+                                    "name": "ApacheConf"
+                                },
+                                "size": 616
+                            },
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "name": "Ruby"
+                                },
+                                "size": 1512
+                            },
+                            {
+                                "node": {
+                                    "color": "#5B2063",
+                                    "id": "MDg6TGFuZ3VhZ2U2MzU=",
+                                    "name": "Gherkin"
+                                },
+                                "size": 9438
+                            },
+                            {
+                                "node": {
+                                    "color": "#6a40fd",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTM=",
+                                    "name": "ASP"
+                                },
+                                "size": 15717
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "name": "PHP",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "updatedAt": "2017-02-05T18:24:26Z",
+                    "watchers": {
+                        "totalCount": 156
+                    },
+                    "stargazers": {
+                        "totalCount": 1789
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "",
+                    "createdAt": "2016-04-20T23:52:34Z",
+                    "name": "labs"
+                }
+            },
+            {
+                "node": {
+                    "description": "Async Scala-Akka-Netty based Load Test Tool",
+                    "forks": {
+                        "totalCount": 571
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxODI2MTI4",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 6408
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 3690
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 10422
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 170104
+                            },
+                            {
+                                "node": {
+                                    "color": "#c22d40",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjk=",
+                                    "name": "Scala"
+                                },
+                                "size": 1905554
+                            },
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 7472
+                            },
+                            {
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM=",
+                                    "name": "Batchfile"
+                                },
+                                "size": 5367
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#c22d40",
+                        "name": "Scala",
+                        "id": "MDg6TGFuZ3VhZ2UxNjk="
+                    },
+                    "updatedAt": "2017-02-04T11:37:29Z",
+                    "watchers": {
+                        "totalCount": 180
+                    },
+                    "stargazers": {
+                        "totalCount": 2783
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "http://gatling.io",
+                    "createdAt": "2011-05-31T12:40:25Z",
+                    "name": "gatling"
+                }
+            },
+            {
+                "node": {
+                    "description": "A simple Derby plugin to use during tests",
+                    "forks": {
+                        "totalCount": 7
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNzM1Mjkz",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 26123
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-09-02T12:16:40Z",
+                    "watchers": {
+                        "totalCount": 5
+                    },
+                    "stargazers": {
+                        "totalCount": 13
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 102,
+                        "total_commits": 13,
+                        "num_of_weeks": 3,
+                        "dels": 90
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2012-03-16T02:47:38Z",
+                    "name": "derby-maven-plugin"
+                }
+            },
+            {
+                "node": {
+                    "description": "The Docker Toolbox",
+                    "forks": {
+                        "totalCount": 363
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzODI3NDkyMg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile"
+                                },
+                                "size": 298
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 8355
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 1624
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0NDE=",
+                                    "name": "Inno Setup"
+                                },
+                                "size": 22136
+                            },
+                            {
+                                "node": {
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY=",
+                                    "name": "Objective-C"
+                                },
+                                "size": 8938
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": null,
+                        "name": "Inno Setup",
+                        "id": "MDg6TGFuZ3VhZ2U0NDE="
+                    },
+                    "updatedAt": "2017-02-05T16:04:15Z",
+                    "watchers": {
+                        "totalCount": 154
+                    },
+                    "stargazers": {
+                        "totalCount": 1289
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "https://docker.com/toolbox",
+                    "createdAt": "2015-06-29T22:39:27Z",
+                    "name": "toolbox"
+                }
+            }
+        ],
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "OA=="
+        }
+    },
+    "bio": "",
+    "gists": {
+        "totalCount": 0
+    },
+    "name": "Harald Albers",
+    "id": "MDQ6VXNlcjI5MDE3MjU="
+}

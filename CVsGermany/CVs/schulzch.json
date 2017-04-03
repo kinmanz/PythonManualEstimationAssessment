@@ -1,0 +1,486 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 0
+    },
+    "contributedRepositories": {
+        "totalCount": 6,
+        "pageInfo": {
+            "endCursor": "Ng==",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2016-11-23T16:36:29Z",
+                    "createdAt": "2016-11-21T14:56:46Z",
+                    "description": "JavaScript library to compute the edit distance for strings and trees",
+                    "primaryLanguage": {
+                        "color": "#244776",
+                        "id": "MDg6TGFuZ3VhZ2UxOTU=",
+                        "name": "CoffeeScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 13998,
+                                "node": {
+                                    "color": "#244776",
+                                    "name": "CoffeeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTU="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "edit-distance-js",
+                    "id": "MDEwOlJlcG9zaXRvcnk3NDM3NDQ1Nw==",
+                    "contribution": {
+                        "adds": 1423,
+                        "total_commits": 34,
+                        "num_of_weeks": 4,
+                        "dels": 596
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-05T03:51:53Z",
+                    "createdAt": "2010-06-16T20:39:03Z",
+                    "description": "A safe, concurrent, practical language.",
+                    "primaryLanguage": {
+                        "color": "#dea584",
+                        "id": "MDg6TGFuZ3VhZ2UyNDk=",
+                        "name": "Rust"
+                    },
+                    "homepageURL": "https://www.rust-lang.org",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 343202,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 25223464,
+                                "node": {
+                                    "color": "#dea584",
+                                    "name": "Rust",
+                                    "id": "MDg6TGFuZ3VhZ2UyNDk="
+                                }
+                            },
+                            {
+                                "size": 28928,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 179593,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 312742,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 396385,
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                }
+                            },
+                            {
+                                "size": 81054,
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                }
+                            },
+                            {
+                                "size": 271,
+                                "node": {
+                                    "color": null,
+                                    "name": "Awk",
+                                    "id": "MDg6TGFuZ3VhZ2UyODQ="
+                                }
+                            },
+                            {
+                                "size": 44801,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 1620,
+                                "node": {
+                                    "color": "#302B6D",
+                                    "name": "Puppet",
+                                    "id": "MDg6TGFuZ3VhZ2UyNTk="
+                                }
+                            },
+                            {
+                                "size": 27014,
+                                "node": {
+                                    "color": "#9DC3FF",
+                                    "name": "ANTLR",
+                                    "id": "MDg6TGFuZ3VhZ2UzMjE="
+                                }
+                            },
+                            {
+                                "size": 15943,
+                                "node": {
+                                    "color": "#E3F171",
+                                    "name": "Pascal",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDk="
+                                }
+                            },
+                            {
+                                "size": 9270,
+                                "node": {
+                                    "color": "#DBCA00",
+                                    "name": "Lex",
+                                    "id": "MDg6TGFuZ3VhZ2U0NzQ="
+                                }
+                            },
+                            {
+                                "size": 81068,
+                                "node": {
+                                    "color": "#4B6C4B",
+                                    "name": "Yacc",
+                                    "id": "MDg6TGFuZ3VhZ2U0NzM="
+                                }
+                            },
+                            {
+                                "size": 434,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 265,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 12744,
+                                "node": {
+                                    "color": null,
+                                    "name": "M4",
+                                    "id": "MDg6TGFuZ3VhZ2U0OTY="
+                                }
+                            },
+                            {
+                                "size": 1095,
+                                "node": {
+                                    "color": null,
+                                    "name": "RenderScript",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjE="
+                                }
+                            },
+                            {
+                                "size": 10959,
+                                "node": {
+                                    "color": null,
+                                    "name": "Inno Setup",
+                                    "id": "MDg6TGFuZ3VhZ2U0NDE="
+                                }
+                            },
+                            {
+                                "size": 2439,
+                                "node": {
+                                    "color": "#EB8CEB",
+                                    "name": "XSLT",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDI="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 20238
+                    },
+                    "forks": {
+                        "totalCount": 3803
+                    },
+                    "name": "rust",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MjQ3MTI=",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1101
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-31T16:55:25Z",
+                    "createdAt": "2013-07-12T00:53:30Z",
+                    "description": "Update a nameserver entry at inwx with the current WAN IP (DynDNS)",
+                    "primaryLanguage": {
+                        "color": "#89e051",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 5136,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 74
+                    },
+                    "forks": {
+                        "totalCount": 17
+                    },
+                    "name": "nsupdate",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMTM1Njk3Mw==",
+                    "contribution": {
+                        "adds": 21,
+                        "total_commits": 2,
+                        "num_of_weeks": 1,
+                        "dels": 19
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 16
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-04T12:44:48Z",
+                    "createdAt": "2016-02-23T10:16:11Z",
+                    "description": "A data cleansing tool for low-level time-varying data.",
+                    "primaryLanguage": {
+                        "color": "#f34b7d",
+                        "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                        "name": "C++"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 2183,
+                                "node": {
+                                    "color": null,
+                                    "name": "CMake",
+                                    "id": "MDg6TGFuZ3VhZ2U0NDA="
+                                }
+                            },
+                            {
+                                "size": 137045,
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                }
+                            },
+                            {
+                                "size": 6681,
+                                "node": {
+                                    "color": null,
+                                    "name": "GLSL",
+                                    "id": "MDg6TGFuZ3VhZ2U0NTI="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "BinocularVis",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MjM1MDE2MQ==",
+                    "contribution": {
+                        "adds": 6356,
+                        "total_commits": 3,
+                        "num_of_weeks": 3,
+                        "dels": 33
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-31T08:28:43Z",
+                    "createdAt": "2016-06-12T10:39:47Z",
+                    "description": "JSON implementation in Rust",
+                    "primaryLanguage": {
+                        "color": "#dea584",
+                        "id": "MDg6TGFuZ3VhZ2UyNDk=",
+                        "name": "Rust"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 159288,
+                                "node": {
+                                    "color": "#dea584",
+                                    "name": "Rust",
+                                    "id": "MDg6TGFuZ3VhZ2UyNDk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 163
+                    },
+                    "forks": {
+                        "totalCount": 10
+                    },
+                    "name": "json-rust",
+                    "id": "MDEwOlJlcG9zaXRvcnk2MDk2MTc4Mw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 10
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-31T15:54:06Z",
+                    "createdAt": "2013-04-11T20:39:04Z",
+                    "description": "OGDF is a self-contained C++ class library for the automatic layout of diagrams.",
+                    "primaryLanguage": {
+                        "color": "#f34b7d",
+                        "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                        "name": "C++"
+                    },
+                    "homepageURL": "http://www.ogdf.net/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 73737,
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                }
+                            },
+                            {
+                                "size": 319,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 18267975,
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                }
+                            },
+                            {
+                                "size": 13833,
+                                "node": {
+                                    "color": null,
+                                    "name": "CMake",
+                                    "id": "MDg6TGFuZ3VhZ2U0NDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 77
+                    },
+                    "forks": {
+                        "totalCount": 37
+                    },
+                    "name": "ogdf",
+                    "id": "MDEwOlJlcG9zaXRvcnk5Mzc5ODU2",
+                    "contribution": {
+                        "adds": 870246,
+                        "total_commits": 15,
+                        "num_of_weeks": 6,
+                        "dels": 238657
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 18
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Germany",
+    "following": {
+        "totalCount": 1
+    },
+    "avatarURL": "https://avatars0.githubusercontent.com/u/2237173?v=3",
+    "company": "",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Christoph Schulz",
+    "watching": {
+        "totalCount": 20
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 10
+    },
+    "starredRepositories": {
+        "totalCount": 90
+    },
+    "followers": {
+        "totalCount": 8
+    },
+    "login": "schulzch",
+    "websiteURL": "",
+    "id": "MDQ6VXNlcjIyMzcxNzM=",
+    "email": ""
+}

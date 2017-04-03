@@ -1,0 +1,542 @@
+{
+    "bio": "I'm an FPGA-Engineer doing design and verification using VHDL, SystemVerilog and PSL for high security hardware.",
+    "gists": {
+        "totalCount": 18
+    },
+    "contributedRepositories": {
+        "totalCount": 7,
+        "pageInfo": {
+            "endCursor": "Nw==",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2016-09-25T00:41:08Z",
+                    "createdAt": "2016-03-20T16:42:26Z",
+                    "description": "Examples and design pattern for VHDL verification",
+                    "primaryLanguage": {
+                        "color": "#adb2cb",
+                        "id": "MDg6TGFuZ3VhZ2UxODc=",
+                        "name": "VHDL"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 5671,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 784,
+                                "node": {
+                                    "color": "#e4cc98",
+                                    "name": "Tcl",
+                                    "id": "MDg6TGFuZ3VhZ2UxODQ="
+                                }
+                            },
+                            {
+                                "size": 9261,
+                                "node": {
+                                    "color": "#adb2cb",
+                                    "name": "VHDL",
+                                    "id": "MDg6TGFuZ3VhZ2UxODc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "vhdl_verification",
+                    "id": "MDEwOlJlcG9zaXRvcnk1NDMyODY3Nw==",
+                    "contribution": {
+                        "adds": 786,
+                        "total_commits": 12,
+                        "num_of_weeks": 3,
+                        "dels": 23
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-09-25T00:24:07Z",
+                    "createdAt": "2014-11-13T20:07:57Z",
+                    "description": "Library of reusable VHDL components",
+                    "primaryLanguage": {
+                        "color": "#adb2cb",
+                        "id": "MDg6TGFuZ3VhZ2UxODc=",
+                        "name": "VHDL"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 358291,
+                                "node": {
+                                    "color": "#adb2cb",
+                                    "name": "VHDL",
+                                    "id": "MDg6TGFuZ3VhZ2UxODc="
+                                }
+                            },
+                            {
+                                "size": 417,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 2657,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "libvhdl",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNjYwNTY2MQ==",
+                    "contribution": {
+                        "adds": 14245,
+                        "total_commits": 99,
+                        "num_of_weeks": 12,
+                        "dels": 3720
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 4
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-16T17:47:45Z",
+                    "createdAt": "2015-12-07T12:26:44Z",
+                    "description": "Open Source VHDL Verification Methodology (OSVVM) Repository",
+                    "primaryLanguage": {
+                        "color": "#adb2cb",
+                        "id": "MDg6TGFuZ3VhZ2UxODc=",
+                        "name": "VHDL"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 647458,
+                                "node": {
+                                    "color": "#adb2cb",
+                                    "name": "VHDL",
+                                    "id": "MDg6TGFuZ3VhZ2UxODc="
+                                }
+                            },
+                            {
+                                "size": 3030,
+                                "node": {
+                                    "color": null,
+                                    "name": "Stata",
+                                    "id": "MDg6TGFuZ3VhZ2UzNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 25
+                    },
+                    "forks": {
+                        "totalCount": 12
+                    },
+                    "name": "OSVVM",
+                    "id": "MDEwOlJlcG9zaXRvcnk0NzU1MDcyNw==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 14
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-04-02T06:59:11Z",
+                    "createdAt": "2011-09-13T20:49:25Z",
+                    "description": "cryptography ip-cores in vhdl / verilog",
+                    "primaryLanguage": {
+                        "color": "#adb2cb",
+                        "id": "MDg6TGFuZ3VhZ2UxODc=",
+                        "name": "VHDL"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 135383,
+                                "node": {
+                                    "color": "#b2b7f8",
+                                    "name": "Verilog",
+                                    "id": "MDg6TGFuZ3VhZ2UxODg="
+                                }
+                            },
+                            {
+                                "size": 227843,
+                                "node": {
+                                    "color": "#adb2cb",
+                                    "name": "VHDL",
+                                    "id": "MDg6TGFuZ3VhZ2UxODc="
+                                }
+                            },
+                            {
+                                "size": 16605,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 4623,
+                                "node": {
+                                    "color": "#e4cc98",
+                                    "name": "Tcl",
+                                    "id": "MDg6TGFuZ3VhZ2UxODQ="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "cryptocores",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMzgxMjky",
+                    "contribution": {
+                        "adds": 13952,
+                        "total_commits": 87,
+                        "num_of_weeks": 12,
+                        "dels": 6382
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 3
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T09:49:53Z",
+                    "createdAt": "2015-11-18T18:39:53Z",
+                    "description": "VHDL 2008/93/87 simulator",
+                    "primaryLanguage": {
+                        "color": "#adb2cb",
+                        "id": "MDg6TGFuZ3VhZ2UxODc=",
+                        "name": "VHDL"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 61532,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 601433,
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                }
+                            },
+                            {
+                                "size": 839,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            },
+                            {
+                                "size": 9000179,
+                                "node": {
+                                    "color": "#02f88c",
+                                    "name": "Ada",
+                                    "id": "MDg6TGFuZ3VhZ2UyNDA="
+                                }
+                            },
+                            {
+                                "size": 18408486,
+                                "node": {
+                                    "color": "#adb2cb",
+                                    "name": "VHDL",
+                                    "id": "MDg6TGFuZ3VhZ2UxODc="
+                                }
+                            },
+                            {
+                                "size": 71108,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 1610,
+                                "node": {
+                                    "color": "#6E4C13",
+                                    "name": "Assembly",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzY="
+                                }
+                            },
+                            {
+                                "size": 11499,
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                }
+                            },
+                            {
+                                "size": 59308,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 1920,
+                                "node": {
+                                    "color": null,
+                                    "name": "Stata",
+                                    "id": "MDg6TGFuZ3VhZ2UzNTE="
+                                }
+                            },
+                            {
+                                "size": 910,
+                                "node": {
+                                    "color": null,
+                                    "name": "GDB",
+                                    "id": "MDg6TGFuZ3VhZ2U1MDY="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 202
+                    },
+                    "forks": {
+                        "totalCount": 42
+                    },
+                    "name": "ghdl",
+                    "id": "MDEwOlJlcG9zaXRvcnk0NjQzOTQ0Ng==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 37
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T09:50:07Z",
+                    "createdAt": "2013-06-12T20:07:15Z",
+                    "description": "Coroutine Co-simulation Test Bench ",
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 84805,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 57998,
+                                "node": {
+                                    "color": "#b2b7f8",
+                                    "name": "Verilog",
+                                    "id": "MDg6TGFuZ3VhZ2UxODg="
+                                }
+                            },
+                            {
+                                "size": 183305,
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                }
+                            },
+                            {
+                                "size": 244802,
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                }
+                            },
+                            {
+                                "size": 145060,
+                                "node": {
+                                    "color": "#adb2cb",
+                                    "name": "VHDL",
+                                    "id": "MDg6TGFuZ3VhZ2UxODc="
+                                }
+                            },
+                            {
+                                "size": 372190,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 247,
+                                "node": {
+                                    "color": "#DAE1C2",
+                                    "name": "SystemVerilog",
+                                    "id": "MDg6TGFuZ3VhZ2UzNTA="
+                                }
+                            },
+                            {
+                                "size": 6231,
+                                "node": {
+                                    "color": null,
+                                    "name": "Coq",
+                                    "id": "MDg6TGFuZ3VhZ2UyNjc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 164
+                    },
+                    "forks": {
+                        "totalCount": 61
+                    },
+                    "name": "cocotb",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMDY1MTAwNQ==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 68
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-14T01:52:51Z",
+                    "createdAt": "2015-07-14T09:34:11Z",
+                    "description": "TPU, The Test Processing Unit. Or Terrible Processing Unit. A simple 16-bit CPU in VHDL for education as to the dataflow within a CPU. Designed to run on miniSpartan6+.",
+                    "primaryLanguage": {
+                        "color": "#adb2cb",
+                        "id": "MDg6TGFuZ3VhZ2UxODc=",
+                        "name": "VHDL"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 161510,
+                                "node": {
+                                    "color": "#adb2cb",
+                                    "name": "VHDL",
+                                    "id": "MDg6TGFuZ3VhZ2UxODc="
+                                }
+                            },
+                            {
+                                "size": 49728,
+                                "node": {
+                                    "color": "#178600",
+                                    "name": "C#",
+                                    "id": "MDg6TGFuZ3VhZ2UyMzI="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 41
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "TPU",
+                    "id": "MDEwOlJlcG9zaXRvcnkzOTA2NjMyNg==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 12
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Dresden, Germany",
+    "following": {
+        "totalCount": 11
+    },
+    "avatarURL": "https://avatars3.githubusercontent.com/u/1034175?v=3",
+    "company": "",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "T. Meissner",
+    "watching": {
+        "totalCount": 25
+    },
+    "organizations": {
+        "totalCount": 1,
+        "nodes": [
+            {
+                "url": "https://github.com/VHDL",
+                "name": "Open Source VHDL Group",
+                "login": "VHDL",
+                "avatarURL": "https://avatars3.githubusercontent.com/u/21169439?v=3"
+            }
+        ]
+    },
+    "pullRequests": {
+        "totalCount": 1
+    },
+    "starredRepositories": {
+        "totalCount": 103
+    },
+    "followers": {
+        "totalCount": 12
+    },
+    "login": "tmeissner",
+    "websiteURL": "http://blog.goodcleanfun.de",
+    "id": "MDQ6VXNlcjEwMzQxNzU=",
+    "email": ""
+}

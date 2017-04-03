@@ -1,0 +1,549 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 0
+    },
+    "contributedRepositories": {
+        "totalCount": 10,
+        "pageInfo": {
+            "endCursor": "MTA=",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2016-02-17T08:15:17Z",
+                    "createdAt": "2016-02-17T08:09:08Z",
+                    "description": "Useful custom data structures for Clojure",
+                    "primaryLanguage": {
+                        "color": "#db5855",
+                        "id": "MDg6TGFuZ3VhZ2UxODA=",
+                        "name": "Clojure"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 24468,
+                                "node": {
+                                    "color": "#db5855",
+                                    "name": "Clojure",
+                                    "id": "MDg6TGFuZ3VhZ2UxODA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "clj-karabiner",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MTkwNTgzMA==",
+                    "contribution": {
+                        "adds": 1493,
+                        "total_commits": 28,
+                        "num_of_weeks": 2,
+                        "dels": 344
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-04T10:19:45Z",
+                    "createdAt": "2016-11-04T10:16:03Z",
+                    "description": "Decouple your Clojure application's modules",
+                    "primaryLanguage": {
+                        "color": "#db5855",
+                        "id": "MDg6TGFuZ3VhZ2UxODA=",
+                        "name": "Clojure"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 8717,
+                                "node": {
+                                    "color": "#db5855",
+                                    "name": "Clojure",
+                                    "id": "MDg6TGFuZ3VhZ2UxODA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "clj-starbuck",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MjgzNjgxNQ==",
+                    "contribution": {
+                        "adds": 665,
+                        "total_commits": 15,
+                        "num_of_weeks": 4,
+                        "dels": 59
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-05-29T13:08:28Z",
+                    "createdAt": "2016-05-29T13:06:12Z",
+                    "description": "A Clojure library offering Ring-compatible handlers for OpenID Connect",
+                    "primaryLanguage": {
+                        "color": "#db5855",
+                        "id": "MDg6TGFuZ3VhZ2UxODA=",
+                        "name": "Clojure"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 11766,
+                                "node": {
+                                    "color": "#db5855",
+                                    "name": "Clojure",
+                                    "id": "MDg6TGFuZ3VhZ2UxODA="
+                                }
+                            },
+                            {
+                                "size": 618,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "clj-cerberus",
+                    "id": "MDEwOlJlcG9zaXRvcnk1OTk0MzQ4MQ==",
+                    "contribution": {
+                        "adds": 875,
+                        "total_commits": 15,
+                        "num_of_weeks": 2,
+                        "dels": 533
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-10T20:30:18Z",
+                    "createdAt": "2017-01-10T16:29:53Z",
+                    "description": "Eventsourcing for various Databases (initially Postgresql)",
+                    "primaryLanguage": {
+                        "color": "#db5855",
+                        "id": "MDg6TGFuZ3VhZ2UxODA=",
+                        "name": "Clojure"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3102,
+                                "node": {
+                                    "color": null,
+                                    "name": "PLpgSQL",
+                                    "id": "MDg6TGFuZ3VhZ2U0NTA="
+                                }
+                            },
+                            {
+                                "size": 218,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 9174,
+                                "node": {
+                                    "color": "#db5855",
+                                    "name": "Clojure",
+                                    "id": "MDg6TGFuZ3VhZ2UxODA="
+                                }
+                            },
+                            {
+                                "size": 37,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 339,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "eventsourcing",
+                    "id": "MDEwOlJlcG9zaXRvcnk3ODU1MjAzMg==",
+                    "contribution": {
+                        "adds": 797,
+                        "total_commits": 7,
+                        "num_of_weeks": 1,
+                        "dels": 125
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-05-13T13:32:44Z",
+                    "createdAt": "2016-05-13T13:32:07Z",
+                    "description": "Playing around with Clojure and its traits. Trying to accumulate useful stuff around Clojure.",
+                    "primaryLanguage": {
+                        "color": "#db5855",
+                        "id": "MDg6TGFuZ3VhZ2UxODA=",
+                        "name": "Clojure"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 6142,
+                                "node": {
+                                    "color": "#db5855",
+                                    "name": "Clojure",
+                                    "id": "MDg6TGFuZ3VhZ2UxODA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "clojure-experiments",
+                    "id": "MDEwOlJlcG9zaXRvcnk1ODc0MzEzNQ==",
+                    "contribution": {
+                        "adds": 581,
+                        "total_commits": 4,
+                        "num_of_weeks": 1,
+                        "dels": 80
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-06-03T11:34:55Z",
+                    "createdAt": "2016-06-03T11:34:31Z",
+                    "description": "Integration of com.stuartsierra.component with core.async",
+                    "primaryLanguage": {
+                        "color": "#db5855",
+                        "id": "MDg6TGFuZ3VhZ2UxODA=",
+                        "name": "Clojure"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1639,
+                                "node": {
+                                    "color": "#db5855",
+                                    "name": "Clojure",
+                                    "id": "MDg6TGFuZ3VhZ2UxODA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "clj-orator",
+                    "id": "MDEwOlJlcG9zaXRvcnk2MDM0MzE3NA==",
+                    "contribution": {
+                        "adds": 329,
+                        "total_commits": 2,
+                        "num_of_weeks": 1,
+                        "dels": 10
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-08-05T12:06:27Z",
+                    "createdAt": "2016-08-05T12:05:43Z",
+                    "description": "How does Enlive evalute its rules / transformations?",
+                    "primaryLanguage": {
+                        "color": "#db5855",
+                        "id": "MDg6TGFuZ3VhZ2UxODA=",
+                        "name": "Clojure"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 759,
+                                "node": {
+                                    "color": "#db5855",
+                                    "name": "Clojure",
+                                    "id": "MDg6TGFuZ3VhZ2UxODA="
+                                }
+                            },
+                            {
+                                "size": 54,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "enlive-evaluation-behaviour",
+                    "id": "MDEwOlJlcG9zaXRvcnk2NTAxNTU2Mw==",
+                    "contribution": {
+                        "adds": 296,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T07:32:19Z",
+                    "createdAt": "2014-08-31T03:47:00Z",
+                    "description": "Fast, Scientific and Numerical Computing for the JVM (NDArrays)",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "http://nd4j.org",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 6400332,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 10773,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 881
+                    },
+                    "forks": {
+                        "totalCount": 318
+                    },
+                    "name": "nd4j",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMzUwNTg3OQ==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 119
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-02T15:11:29Z",
+                    "createdAt": "2014-01-07T10:00:52Z",
+                    "description": "Sweet web apis with Compojure & Swagger",
+                    "primaryLanguage": {
+                        "color": "#db5855",
+                        "id": "MDg6TGFuZ3VhZ2UxODA=",
+                        "name": "Clojure"
+                    },
+                    "homepageURL": "http://metosin.github.io/compojure-api/doc/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 191961,
+                                "node": {
+                                    "color": "#db5855",
+                                    "name": "Clojure",
+                                    "id": "MDg6TGFuZ3VhZ2UxODA="
+                                }
+                            },
+                            {
+                                "size": 650,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 620
+                    },
+                    "forks": {
+                        "totalCount": 81
+                    },
+                    "name": "compojure-api",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTcwMDk2Ng==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 29
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-02T12:23:55Z",
+                    "createdAt": "2013-07-27T01:17:19Z",
+                    "description": "Forward-chaining rules in Clojure",
+                    "primaryLanguage": {
+                        "color": "#db5855",
+                        "id": "MDg6TGFuZ3VhZ2UxODA=",
+                        "name": "Clojure"
+                    },
+                    "homepageURL": "http://www.clara-rules.org",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 656433,
+                                "node": {
+                                    "color": "#db5855",
+                                    "name": "Clojure",
+                                    "id": "MDg6TGFuZ3VhZ2UxODA="
+                                }
+                            },
+                            {
+                                "size": 4381,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 650,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 570,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 544
+                    },
+                    "forks": {
+                        "totalCount": 54
+                    },
+                    "name": "clara-rules",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMTY5Nzk2Mw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 42
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Duesseldorf, Germany",
+    "following": {
+        "totalCount": 6
+    },
+    "avatarURL": "https://avatars1.githubusercontent.com/u/986278?v=3",
+    "company": "",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "OliWer",
+    "watching": {
+        "totalCount": 48
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 4
+    },
+    "starredRepositories": {
+        "totalCount": 33
+    },
+    "followers": {
+        "totalCount": 17
+    },
+    "login": "olivermg",
+    "websiteURL": "http://lambda-startup.com",
+    "id": "MDQ6VXNlcjk4NjI3OA==",
+    "email": ""
+}

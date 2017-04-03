@@ -1,0 +1,723 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 8
+    },
+    "contributedRepositories": {
+        "totalCount": 12,
+        "pageInfo": {
+            "endCursor": "MTI=",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2017-01-19T16:21:50Z",
+                    "createdAt": "2014-03-14T12:47:44Z",
+                    "description": "My main side project - travel planning web application (Rails, Angularjs, Docker)",
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                        "name": "Ruby"
+                    },
+                    "homepageURL": "http://hamster.travel",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 343672,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 64382,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 54805,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 162381,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 784,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 27,
+                                "node": {
+                                    "color": "#9469E9",
+                                    "name": "Nginx",
+                                    "id": "MDg6TGFuZ3VhZ2U0MjE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "name": "hamster-travel",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzc0NTkzMg==",
+                    "contribution": {
+                        "adds": 107919,
+                        "total_commits": 873,
+                        "num_of_weeks": 104,
+                        "dels": 54975
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 3
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-17T10:37:51Z",
+                    "createdAt": "2016-10-14T08:41:36Z",
+                    "description": "Learning Elixir and Phoenix",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 80847,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 58630,
+                                "node": {
+                                    "color": "#6e4a7e",
+                                    "name": "Elixir",
+                                    "id": "MDg6TGFuZ3VhZ2UyNjM="
+                                }
+                            },
+                            {
+                                "size": 1828,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 591,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "luggage",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MDg5MTE2Nw==",
+                    "contribution": {
+                        "adds": 25930,
+                        "total_commits": 95,
+                        "num_of_weeks": 15,
+                        "dels": 13478
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-19T16:22:36Z",
+                    "createdAt": "2016-02-05T14:01:04Z",
+                    "description": "Small web application to simplify my travel packing - todo list from template (Meteor, React, Docker)",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "http://hamsters-backpack.com/en",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 54071,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 284,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 67081,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 269,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "twoflower",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MTE0OTc1Nw==",
+                    "contribution": {
+                        "adds": 12640,
+                        "total_commits": 126,
+                        "num_of_weeks": 24,
+                        "dels": 5102
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-03-17T14:44:56Z",
+                    "createdAt": "2016-03-14T17:14:17Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                        "name": "HTML"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 10604,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 8631,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 59,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "altmer.github.io",
+                    "id": "MDEwOlJlcG9zaXRvcnk1Mzg3NTkyMg==",
+                    "contribution": {
+                        "adds": 11602,
+                        "total_commits": 33,
+                        "num_of_weeks": 7,
+                        "dels": 2144
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-19T16:22:53Z",
+                    "createdAt": "2017-01-14T19:26:46Z",
+                    "description": "Simple web client for OpenWeatherMap API (Elixir/Phoenix, React, Docker)",
+                    "primaryLanguage": {
+                        "color": "#6e4a7e",
+                        "id": "MDg6TGFuZ3VhZ2UyNjM=",
+                        "name": "Elixir"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 35694,
+                                "node": {
+                                    "color": "#6e4a7e",
+                                    "name": "Elixir",
+                                    "id": "MDg6TGFuZ3VhZ2UyNjM="
+                                }
+                            },
+                            {
+                                "size": 9160,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 854,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 616,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 29,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "jupiter",
+                    "id": "MDEwOlJlcG9zaXRvcnk3ODk2MTcwMg==",
+                    "contribution": {
+                        "adds": 8150,
+                        "total_commits": 17,
+                        "num_of_weeks": 2,
+                        "dels": 571
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-05T17:24:29Z",
+                    "createdAt": "2015-10-04T11:36:50Z",
+                    "description": "Vagrant file for Hamsters Inc.",
+                    "primaryLanguage": null,
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": []
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "hamster-vagrant",
+                    "id": "MDEwOlJlcG9zaXRvcnk0MzYzNDM5NA==",
+                    "contribution": {
+                        "adds": 882944,
+                        "total_commits": 33,
+                        "num_of_weeks": 14,
+                        "dels": 881362
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-10-14T08:41:10Z",
+                    "createdAt": "2016-10-14T08:39:56Z",
+                    "description": "Solutions for exercism problems",
+                    "primaryLanguage": {
+                        "color": "#6e4a7e",
+                        "id": "MDg6TGFuZ3VhZ2UyNjM=",
+                        "name": "Elixir"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 20856,
+                                "node": {
+                                    "color": "#6e4a7e",
+                                    "name": "Elixir",
+                                    "id": "MDg6TGFuZ3VhZ2UyNjM="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "exercism",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MDg5MTAyOQ==",
+                    "contribution": {
+                        "adds": 1472,
+                        "total_commits": 4,
+                        "num_of_weeks": 3,
+                        "dels": 0
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-04-11T15:41:55Z",
+                    "createdAt": "2015-06-29T14:22:01Z",
+                    "description": "Website for my beloved hamster",
+                    "primaryLanguage": {
+                        "color": "#563d7c",
+                        "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                        "name": "CSS"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 135559,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 39568,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 122313,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "awesomehamsters.github.io",
+                    "id": "MDEwOlJlcG9zaXRvcnkzODI1MTY5Mg==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-02-08T13:59:29Z",
+                    "createdAt": "2016-02-03T15:07:36Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                        "name": "Ruby"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 4205,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "simple-geocoder",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MTAwNzUxMw==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 6
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-05-25T08:43:55Z",
+                    "createdAt": "2014-07-17T10:11:35Z",
+                    "description": "Template language for generating docx as rails views",
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                        "name": "HTML"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 5995,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 59365,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "docx-rails",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMTkzNzQ5OA==",
+                    "contribution": {
+                        "adds": 939,
+                        "total_commits": 13,
+                        "num_of_weeks": 6,
+                        "dels": 245
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T16:19:34Z",
+                    "createdAt": "2012-12-14T03:18:17Z",
+                    "description": "Ruby logger that writes logstash events",
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                        "name": "Ruby"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 80061,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 298
+                    },
+                    "forks": {
+                        "totalCount": 77
+                    },
+                    "name": "logstash-logger",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MTU5MzY4",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 11
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-03T15:33:07Z",
+                    "createdAt": "2010-03-21T20:03:30Z",
+                    "description": "Easiest way to add multi-environment yaml settings to Rails, Sinatra, Pandrino and other Ruby projects.",
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                        "name": "Ruby"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 113916,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 3658,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 3197,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 21482,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1181
+                    },
+                    "forks": {
+                        "totalCount": 114
+                    },
+                    "name": "config",
+                    "id": "MDEwOlJlcG9zaXRvcnk1NzI5OTM=",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 29
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Berlin, Germany",
+    "following": {
+        "totalCount": 2
+    },
+    "avatarURL": "https://avatars0.githubusercontent.com/u/426400?v=3",
+    "company": "Hamster Travel",
+    "pinnedRepositories": {
+        "totalCount": 3,
+        "nodes": [
+            {
+                "name": "hamster-travel"
+            },
+            {
+                "name": "twoflower"
+            },
+            {
+                "name": "jupiter"
+            }
+        ]
+    },
+    "name": "Andrey Marchenko",
+    "watching": {
+        "totalCount": 16
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 6
+    },
+    "starredRepositories": {
+        "totalCount": 583
+    },
+    "followers": {
+        "totalCount": 8
+    },
+    "login": "altmer",
+    "websiteURL": "http://amarchenko.de/",
+    "id": "MDQ6VXNlcjQyNjQwMA==",
+    "email": "an.v.marchenko@gmail.com"
+}

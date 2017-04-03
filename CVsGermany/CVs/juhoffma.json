@@ -1,0 +1,439 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 7
+    },
+    "contributedRepositories": {
+        "totalCount": 8,
+        "pageInfo": {
+            "endCursor": "OA==",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2016-03-05T21:44:36Z",
+                    "createdAt": "2016-02-14T11:45:55Z",
+                    "description": "This is a complete mailserver stack installed using ansible",
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 19,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 3236,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 7149,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "personal-mailserver",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MTY5MjQ2Ng==",
+                    "contribution": {
+                        "adds": 9135,
+                        "total_commits": 22,
+                        "num_of_weeks": 3,
+                        "dels": 30
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-15T15:11:09Z",
+                    "createdAt": "2016-11-15T15:10:46Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 91,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 5669,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 3673,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "hackathon-example",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MzgyNTQzNg==",
+                    "contribution": {
+                        "adds": 1346,
+                        "total_commits": 7,
+                        "num_of_weeks": 1,
+                        "dels": 298
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-25T10:29:26Z",
+                    "createdAt": "2015-07-24T20:06:09Z",
+                    "description": "Ansible role for wildfly",
+                    "primaryLanguage": {
+                        "color": "#89e051",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 4346,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 4
+                    },
+                    "forks": {
+                        "totalCount": 7
+                    },
+                    "name": "wildfly",
+                    "id": "MDEwOlJlcG9zaXRvcnkzOTY1NDYyMw==",
+                    "contribution": {
+                        "adds": 46,
+                        "total_commits": 6,
+                        "num_of_weeks": 1,
+                        "dels": 32
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-12T21:20:54Z",
+                    "createdAt": "2016-09-26T08:49:36Z",
+                    "description": "OpenShift workshop builder",
+                    "primaryLanguage": {
+                        "color": "#563d7c",
+                        "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                        "name": "CSS"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 5384,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 2514,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 221830,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 7
+                    },
+                    "forks": {
+                        "totalCount": 13
+                    },
+                    "name": "openshift-workshops",
+                    "id": "MDEwOlJlcG9zaXRvcnk2OTIzMTA4Mw==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 7
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-10-28T19:44:53Z",
+                    "createdAt": "2016-10-18T15:27:20Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#89e051",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 5767,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 73,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "name": "ansible_aws_deployer",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MTI2MjY1Mw==",
+                    "contribution": {
+                        "adds": 2245,
+                        "total_commits": 13,
+                        "num_of_weeks": 2,
+                        "dels": 346
+                    },
+                    "isFork": true,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-09-07T06:08:51Z",
+                    "createdAt": "2015-07-16T19:57:19Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 66209,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 30494,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 20
+                    },
+                    "forks": {
+                        "totalCount": 24
+                    },
+                    "name": "demo-ansible",
+                    "id": "MDEwOlJlcG9zaXRvcnkzOTIxNzQzMA==",
+                    "contribution": {
+                        "adds": 3,
+                        "total_commits": 3,
+                        "num_of_weeks": 1,
+                        "dels": 3
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 7
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-02T09:04:20Z",
+                    "createdAt": "2014-02-20T18:04:18Z",
+                    "description": "A module to manage various properties of XML documents",
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python"
+                    },
+                    "homepageURL": "https://galaxy.ansible.com/cmprescott/xml/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 18590,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 96
+                    },
+                    "forks": {
+                        "totalCount": 49
+                    },
+                    "name": "ansible-xml",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzAzMDA3OQ==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 16
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-02T15:59:25Z",
+                    "createdAt": "2014-03-01T03:31:50Z",
+                    "description": "Ansible Role - MySQL",
+                    "primaryLanguage": {
+                        "color": "#89e051",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                        "name": "Shell"
+                    },
+                    "homepageURL": "https://galaxy.ansible.com/geerlingguy/mysql/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 425,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 281
+                    },
+                    "forks": {
+                        "totalCount": 232
+                    },
+                    "name": "ansible-role-mysql",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzMwNjg5NA==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 40
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Germany",
+    "following": {
+        "totalCount": 33
+    },
+    "avatarURL": "https://avatars0.githubusercontent.com/u/998315?v=3",
+    "company": null,
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Juergen Hoffmann",
+    "watching": {
+        "totalCount": 73
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 20
+    },
+    "starredRepositories": {
+        "totalCount": 14
+    },
+    "followers": {
+        "totalCount": 22
+    },
+    "login": "juhoffma",
+    "websiteURL": null,
+    "id": "MDQ6VXNlcjk5ODMxNQ==",
+    "email": "hoffmann@apache.org"
+}

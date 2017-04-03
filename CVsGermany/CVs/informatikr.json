@@ -1,0 +1,282 @@
+{
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "bio": null,
+    "company": null,
+    "login": "informatikr",
+    "starredRepositories": {
+        "totalCount": 16
+    },
+    "pullRequests": {
+        "totalCount": 9
+    },
+    "following": {
+        "totalCount": 1
+    },
+    "id": "MDQ6VXNlcjQxNTk1",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "avatarURL": "https://avatars0.githubusercontent.com/u/41595?v=3",
+    "location": "Hamburg, Germany",
+    "email": null,
+    "contributedRepositories": {
+        "totalCount": 4,
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "NA=="
+        },
+        "edges": [
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 28
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://hackage.haskell.org/package/aeson-pretty",
+                    "id": "MDEwOlJlcG9zaXRvcnkxODgxNzgy",
+                    "updatedAt": "2016-11-21T01:02:27Z",
+                    "description": "JSON pretty-printing library and command-line tool.",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#29b544",
+                                    "name": "Haskell",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjc="
+                                },
+                                "size": 9258
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 12
+                    },
+                    "createdAt": "2011-06-11T17:04:26Z",
+                    "name": "aeson-pretty",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "primaryLanguage": {
+                        "color": "#29b544",
+                        "name": "Haskell",
+                        "id": "MDg6TGFuZ3VhZ2UxNjc="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 17,
+                        "adds": 713,
+                        "total_commits": 58,
+                        "dels": 347
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 140
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://freeopcua.github.io/",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMTA4NjE0NQ==",
+                    "updatedAt": "2017-02-01T12:00:21Z",
+                    "description": "Open Source C++ OPC-UA Server and Client Library",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": null,
+                                    "name": "CMake",
+                                    "id": "MDg6TGFuZ3VhZ2U0NDA="
+                                },
+                                "size": 64232
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 200373
+                            },
+                            {
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                },
+                                "size": 13428949
+                            },
+                            {
+                                "node": {
+                                    "color": "#438eff",
+                                    "name": "Objective-C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY="
+                                },
+                                "size": 1181
+                            },
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                },
+                                "size": 597046
+                            },
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                },
+                                "size": 222986
+                            },
+                            {
+                                "node": {
+                                    "color": "#555555",
+                                    "name": "C",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk="
+                                },
+                                "size": 5412
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "name": "M4",
+                                    "id": "MDg6TGFuZ3VhZ2U0OTY="
+                                },
+                                "size": 48139
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 78
+                    },
+                    "createdAt": "2014-06-22T05:09:52Z",
+                    "name": "freeopcua",
+                    "watchers": {
+                        "totalCount": 37
+                    },
+                    "primaryLanguage": {
+                        "color": "#f34b7d",
+                        "name": "C++",
+                        "id": "MDg6TGFuZ3VhZ2UxNDI="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 2,
+                        "adds": 850,
+                        "total_commits": 2,
+                        "dels": 5
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 180
+                    },
+                    "isFork": false,
+                    "homepageURL": "http://hackage.haskell.org/package/hedis",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNDAzODQ3",
+                    "updatedAt": "2017-02-03T14:45:05Z",
+                    "description": "A Redis client library for Haskell.",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#29b544",
+                                    "name": "Haskell",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjc="
+                                },
+                                "size": 178075
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                },
+                                "size": 462
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 40
+                    },
+                    "createdAt": "2011-02-23T20:31:41Z",
+                    "name": "hedis",
+                    "watchers": {
+                        "totalCount": 10
+                    },
+                    "primaryLanguage": {
+                        "color": "#29b544",
+                        "name": "Haskell",
+                        "id": "MDg6TGFuZ3VhZ2UxNjc="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 42,
+                        "adds": 18179,
+                        "total_commits": 291,
+                        "dels": 10212
+                    }
+                }
+            },
+            {
+                "node": {
+                    "stargazers": {
+                        "totalCount": 37
+                    },
+                    "isFork": false,
+                    "homepageURL": "",
+                    "id": "MDEwOlJlcG9zaXRvcnk1NTI2NzMwOQ==",
+                    "updatedAt": "2016-08-17T01:59:06Z",
+                    "description": "Fast non-backtracking incremental combinator parsing for bytestrings",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#29b544",
+                                    "name": "Haskell",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjc="
+                                },
+                                "size": 18808
+                            }
+                        ]
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "createdAt": "2016-04-01T23:03:00Z",
+                    "name": "scanner",
+                    "watchers": {
+                        "totalCount": 5
+                    },
+                    "primaryLanguage": {
+                        "color": "#29b544",
+                        "name": "Haskell",
+                        "id": "MDg6TGFuZ3VhZ2UxNjc="
+                    },
+                    "contribution": {
+                        "num_of_weeks": 1,
+                        "adds": 1,
+                        "total_commits": 1,
+                        "dels": 1
+                    }
+                }
+            }
+        ]
+    },
+    "websiteURL": "informatikr.com",
+    "watching": {
+        "totalCount": 16
+    },
+    "name": "Falko Peters",
+    "gists": {
+        "totalCount": 0
+    },
+    "followers": {
+        "totalCount": 15
+    }
+}

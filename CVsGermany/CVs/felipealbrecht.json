@@ -1,0 +1,544 @@
+{
+    "bio": "",
+    "gists": {
+        "totalCount": 39
+    },
+    "contributedRepositories": {
+        "totalCount": 8,
+        "pageInfo": {
+            "endCursor": "OA==",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2016-12-03T04:42:19Z",
+                    "createdAt": "2014-06-10T08:17:25Z",
+                    "description": "DeepBlue Epigenomic Data Server",
+                    "primaryLanguage": {
+                        "color": "#f34b7d",
+                        "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                        "name": "C++"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1128036,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 10061,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 12290,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 1503243,
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "name": "C++",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "DeepBlue",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMDY3NzY1Ng==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-03T04:42:25Z",
+                    "createdAt": "2014-07-04T09:54:33Z",
+                    "description": "DeepBlue Epigenomic Data Server - Web Interface",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": "http://deepblue.mpi-inf.mpg.de",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 860646,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 176883,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 105800,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 491715,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "DeepBlue-Web",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMTQ5MjkyOA==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-10-25T10:05:45Z",
+                    "createdAt": "2015-03-06T13:57:54Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 37364,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "DeepBlue-Middleware",
+                    "id": "MDEwOlJlcG9zaXRvcnkzMTc3MTU4NA==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-03T16:24:48Z",
+                    "createdAt": "2013-10-29T14:11:47Z",
+                    "description": "Genoogle is a software for fast similar DNA sequence searching. It is a full functional similar genetics searching tool, having a text mode interface with simple scripting language, web interface, and web service interface. Genoogle is fast, easy and completely free. More info at https://www.evernote.com/pub/felipealbrecht/genoogle and http://arxiv.org/abs/1507.02987",
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                        "name": "Java"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 8239,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 615464,
+                                "node": {
+                                    "color": "#b07219",
+                                    "name": "Java",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg="
+                                }
+                            },
+                            {
+                                "size": 4214,
+                                "node": {
+                                    "color": "#EB8CEB",
+                                    "name": "XSLT",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDI="
+                                }
+                            },
+                            {
+                                "size": 1883,
+                                "node": {
+                                    "color": null,
+                                    "name": "Protocol Buffer",
+                                    "id": "MDg6TGFuZ3VhZ2U0MjQ="
+                                }
+                            },
+                            {
+                                "size": 2260,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 9
+                    },
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "name": "Genoogle",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMzk1NzY2Ng==",
+                    "contribution": {
+                        "adds": 2772,
+                        "total_commits": 18,
+                        "num_of_weeks": 3,
+                        "dels": 1495
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 7
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-12-30T07:18:26Z",
+                    "createdAt": "2014-10-03T11:22:39Z",
+                    "description": null,
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                        "name": "HTML"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 439,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 9453,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "felipealbrecht.github.io",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNDc1NTgzNw==",
+                    "contribution": {
+                        "adds": 24559,
+                        "total_commits": 25,
+                        "num_of_weeks": 11,
+                        "dels": 103
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-04T14:45:06Z",
+                    "createdAt": "2014-05-21T14:54:22Z",
+                    "description": "DeepBlue Epigenomic Data Serve - Manual",
+                    "primaryLanguage": null,
+                    "homepageURL": "http://deepblue.mpi-inf.mpg.de",
+                    "languages": {
+                        "edges": []
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "DeepBlue-Manual",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMDAyNTE4Mw==",
+                    "contribution": {
+                        "adds": 2933,
+                        "total_commits": 59,
+                        "num_of_weeks": 11,
+                        "dels": 1859
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 5
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T21:57:35Z",
+                    "createdAt": "2016-05-31T19:25:47Z",
+                    "description": "\u2728  A feature-rich yet lightweight data-table crafted for Angular2 and beyond!",
+                    "primaryLanguage": {
+                        "color": "#2b7489",
+                        "id": "MDg6TGFuZ3VhZ2UyODc=",
+                        "name": "TypeScript"
+                    },
+                    "homepageURL": "http://swimlane.github.io/ngx-datatable/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 11123,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 15170,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 201005,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            },
+                            {
+                                "size": 16766,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 567
+                    },
+                    "forks": {
+                        "totalCount": 163
+                    },
+                    "name": "ngx-datatable",
+                    "id": "MDEwOlJlcG9zaXRvcnk2MDExNzI1OQ==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 42
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-02T01:51:47Z",
+                    "createdAt": "2015-02-23T14:18:06Z",
+                    "description": "Data intensive science for everyone.",
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python"
+                    },
+                    "homepageURL": "https://galaxyproject.org/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 84909,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 5243731,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 11891596,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 1416340,
+                                "node": {
+                                    "color": null,
+                                    "name": "Mako",
+                                    "id": "MDg6TGFuZ3VhZ2U0Mzk="
+                                }
+                            },
+                            {
+                                "size": 374439,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 5328,
+                                "node": {
+                                    "color": "#0298c3",
+                                    "name": "Perl",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDc="
+                                }
+                            },
+                            {
+                                "size": 168512,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 9779,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 1864,
+                                "node": {
+                                    "color": "#000080",
+                                    "name": "Lua",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjQ="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 220
+                    },
+                    "forks": {
+                        "totalCount": 249
+                    },
+                    "name": "galaxy",
+                    "id": "MDEwOlJlcG9zaXRvcnkzMTIxMTA2MQ==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 50
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Saarbr\u00fccken, Germany",
+    "following": {
+        "totalCount": 14
+    },
+    "avatarURL": "https://avatars0.githubusercontent.com/u/1009259?v=3",
+    "company": "Max Planck Institute for Computer Science",
+    "pinnedRepositories": {
+        "totalCount": 5,
+        "nodes": [
+            {
+                "name": "Genoogle"
+            },
+            {
+                "name": "DeepBlue-Web"
+            },
+            {
+                "name": "DeepBlue"
+            },
+            {
+                "name": "DeepBlue-Manual"
+            },
+            {
+                "name": "DeepBlue-Middleware"
+            }
+        ]
+    },
+    "name": "Felipe Albrecht",
+    "watching": {
+        "totalCount": 32
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 20
+    },
+    "starredRepositories": {
+        "totalCount": 152
+    },
+    "followers": {
+        "totalCount": 14
+    },
+    "login": "felipealbrecht",
+    "websiteURL": "http://felipealbrecht.github.io",
+    "id": "MDQ6VXNlcjEwMDkyNTk=",
+    "email": "felipe.albrecht@gmail.com"
+}

@@ -1,0 +1,691 @@
+{
+    "bio": null,
+    "gists": {
+        "totalCount": 1
+    },
+    "contributedRepositories": {
+        "totalCount": 9,
+        "pageInfo": {
+            "endCursor": "OQ==",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T02:19:18Z",
+                    "createdAt": "2012-09-05T05:32:50Z",
+                    "description": "Shopware Repository",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": "http://www.shopware.com",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 5509,
+                                "node": {
+                                    "color": null,
+                                    "name": "ApacheConf",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTg="
+                                }
+                            },
+                            {
+                                "size": 23693870,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 11982126,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 10396,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 1681332,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 3242,
+                                "node": {
+                                    "color": "#da291c",
+                                    "name": "PostScript",
+                                    "id": "MDg6TGFuZ3VhZ2U0MjM="
+                                }
+                            },
+                            {
+                                "size": 911489,
+                                "node": {
+                                    "color": null,
+                                    "name": "Smarty",
+                                    "id": "MDg6TGFuZ3VhZ2U0MzE="
+                                }
+                            },
+                            {
+                                "size": 237244,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 3647,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 53872,
+                                "node": {
+                                    "color": null,
+                                    "name": "PLpgSQL",
+                                    "id": "MDg6TGFuZ3VhZ2U0NTA="
+                                }
+                            },
+                            {
+                                "size": 144743,
+                                "node": {
+                                    "color": "#5B2063",
+                                    "name": "Gherkin",
+                                    "id": "MDg6TGFuZ3VhZ2U2MzU="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 587
+                    },
+                    "forks": {
+                        "totalCount": 396
+                    },
+                    "name": "shopware",
+                    "id": "MDEwOlJlcG9zaXRvcnk1NjgyOTcw",
+                    "contribution": {
+                        "adds": 22,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 15
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 132
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-01T13:19:04Z",
+                    "createdAt": "2011-05-17T23:17:52Z",
+                    "description": "Bundle for connecting TinyMCE (WYSIWYG editor) to your Symfony2 project",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 14043,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 8331,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 1032,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 210
+                    },
+                    "forks": {
+                        "totalCount": 120
+                    },
+                    "name": "TinymceBundle",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzYzNDc3",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 15
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T23:03:26Z",
+                    "createdAt": "2014-01-27T14:39:55Z",
+                    "description": "map nested JSON structures onto PHP classes",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 74326,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 506
+                    },
+                    "forks": {
+                        "totalCount": 65
+                    },
+                    "name": "jsonmapper",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNjI4MTY1MA==",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 41
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-24T22:09:59Z",
+                    "createdAt": "2014-02-23T01:46:36Z",
+                    "description": "Enhances Composer Satis with webhook integrations to GitHub and GitLab",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": "http://docs.terramarlabs.com/packages/3.1",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 94,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 160773,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 607,
+                                "node": {
+                                    "color": null,
+                                    "name": "ApacheConf",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTg="
+                                }
+                            },
+                            {
+                                "size": 74059,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 32660,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 54
+                    },
+                    "forks": {
+                        "totalCount": 15
+                    },
+                    "name": "packages",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzA5OTMzMA==",
+                    "contribution": {
+                        "adds": 13,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 1
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 8
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T08:59:34Z",
+                    "createdAt": "2013-01-24T13:57:57Z",
+                    "description": "A database of PHP security advisories",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": "security.sensiolabs.org",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 11118,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 652
+                    },
+                    "forks": {
+                        "totalCount": 89
+                    },
+                    "name": "security-advisories",
+                    "id": "MDEwOlJlcG9zaXRvcnk3Nzk4OTQ4",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 90
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-09-29T21:23:42Z",
+                    "createdAt": "2014-08-23T17:30:32Z",
+                    "description": "limit the number of async tasks to a set limit",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 6358,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "thread-runner",
+                    "id": "MDEwOlJlcG9zaXRvcnkyMzI2MTkyOA==",
+                    "contribution": {
+                        "adds": 630,
+                        "total_commits": 12,
+                        "num_of_weeks": 4,
+                        "dels": 230
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T15:11:51Z",
+                    "createdAt": "2011-09-27T14:54:51Z",
+                    "description": "Brew & manage PHP versions in pure PHP at HOME",
+                    "primaryLanguage": {
+                        "color": "#427819",
+                        "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                        "name": "Makefile"
+                    },
+                    "homepageURL": "http://phpbrew.github.io/phpbrew",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 445492,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 262873,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 371,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 621911,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 250,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2754
+                    },
+                    "forks": {
+                        "totalCount": 224
+                    },
+                    "name": "phpbrew",
+                    "id": "MDEwOlJlcG9zaXRvcnkyNDY4Mjkw",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 126
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-05T01:32:45Z",
+                    "createdAt": "2012-03-06T14:58:02Z",
+                    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications\u2014 automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.",
+                    "primaryLanguage": {
+                        "color": "#3572A5",
+                        "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                        "name": "Python"
+                    },
+                    "homepageURL": "http://ansible.com/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 15044391,
+                                "node": {
+                                    "color": "#3572A5",
+                                    "name": "Python",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU="
+                                }
+                            },
+                            {
+                                "size": 25003,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 316,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 54,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 320771,
+                                "node": {
+                                    "color": null,
+                                    "name": "PowerShell",
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ="
+                                }
+                            },
+                            {
+                                "size": 49617,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 2466,
+                                "node": {
+                                    "color": "#e4cc98",
+                                    "name": "Tcl",
+                                    "id": "MDg6TGFuZ3VhZ2UxODQ="
+                                }
+                            },
+                            {
+                                "size": 109,
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "name": "Batchfile",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM="
+                                }
+                            },
+                            {
+                                "size": 2010,
+                                "node": {
+                                    "color": "#375eab",
+                                    "name": "Go",
+                                    "id": "MDg6TGFuZ3VhZ2UxOTA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 21204
+                    },
+                    "forks": {
+                        "totalCount": 6607
+                    },
+                    "name": "ansible",
+                    "id": "MDEwOlJlcG9zaXRvcnkzNjM4OTY0",
+                    "contribution": 0,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1576
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T19:11:12Z",
+                    "createdAt": "2010-01-21T08:34:27Z",
+                    "description": "Vagrant is a tool for building and distributing development environments.",
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                        "name": "Ruby"
+                    },
+                    "homepageURL": "https://www.vagrantup.com",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 2465161,
+                                "node": {
+                                    "color": "#701516",
+                                    "name": "Ruby",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE="
+                                }
+                            },
+                            {
+                                "size": 11677,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 420,
+                                "node": {
+                                    "color": "#c065db",
+                                    "name": "Emacs Lisp",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTI="
+                                }
+                            },
+                            {
+                                "size": 9727,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 75993,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 37362,
+                                "node": {
+                                    "color": null,
+                                    "name": "PowerShell",
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ="
+                                }
+                            },
+                            {
+                                "size": 46593,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 275,
+                                "node": {
+                                    "color": "#427819",
+                                    "name": "Makefile",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM="
+                                }
+                            },
+                            {
+                                "size": 309,
+                                "node": {
+                                    "color": "#199f4b",
+                                    "name": "Vim script",
+                                    "id": "MDg6TGFuZ3VhZ2U1Njk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 13977
+                    },
+                    "forks": {
+                        "totalCount": 2913
+                    },
+                    "name": "vagrant",
+                    "id": "MDEwOlJlcG9zaXRvcnk0ODE4NzI=",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 754
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Germany",
+    "following": {
+        "totalCount": 4
+    },
+    "avatarURL": "https://avatars3.githubusercontent.com/u/321631?v=3",
+    "company": "",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Simon @redshark1802",
+    "watching": {
+        "totalCount": 22
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 20
+    },
+    "starredRepositories": {
+        "totalCount": 16
+    },
+    "followers": {
+        "totalCount": 11
+    },
+    "login": "redshark1802",
+    "websiteURL": "https://de.linkedin.com/pub/simon-br\u00e4uer/a3/b5/478",
+    "id": "MDQ6VXNlcjMyMTYzMQ==",
+    "email": ""
+}

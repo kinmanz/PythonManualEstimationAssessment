@@ -1,0 +1,869 @@
+{
+    "organizations": {
+        "totalCount": 3,
+        "nodes": [
+            {
+                "login": "thoughtram",
+                "avatarURL": "https://avatars3.githubusercontent.com/u/6850901?v=3",
+                "url": "https://github.com/thoughtram",
+                "name": "thoughtram"
+            },
+            {
+                "login": "IETS3",
+                "avatarURL": "https://avatars2.githubusercontent.com/u/16221925?v=3",
+                "url": "https://github.com/IETS3",
+                "name": "IETS3 Research Project"
+            },
+            {
+                "login": "DECLARE-Project",
+                "avatarURL": "https://avatars0.githubusercontent.com/u/17295161?v=3",
+                "url": "https://github.com/DECLARE-Project",
+                "name": "DECLARE-Project"
+            }
+        ]
+    },
+    "location": "Germany",
+    "email": "",
+    "pullRequests": {
+        "totalCount": 30
+    },
+    "company": "@mimacom",
+    "pinnedRepositories": {
+        "totalCount": 5,
+        "nodes": [
+            {
+                "name": "archinspec"
+            },
+            {
+                "name": "fastpan"
+            },
+            {
+                "name": "palladio-headless"
+            },
+            {
+                "name": "stardust"
+            },
+            {
+                "name": "gCodeViewer"
+            }
+        ]
+    },
+    "websiteURL": "http://www.fabian-keller.de",
+    "watching": {
+        "totalCount": 16
+    },
+    "avatarURL": "https://avatars3.githubusercontent.com/u/1327610?v=3",
+    "starredRepositories": {
+        "totalCount": 120
+    },
+    "followers": {
+        "totalCount": 13
+    },
+    "login": "FaKeller",
+    "following": {
+        "totalCount": 14
+    },
+    "contributedRepositories": {
+        "totalCount": 15,
+        "edges": [
+            {
+                "node": {
+                    "description": "Run Palladio performance analyses headless and access the results through a nice API.",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1OTU0ODkyOA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 183749
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-11-29T12:24:23Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "",
+                    "createdAt": "2016-05-24T07:07:44Z",
+                    "name": "palladio-headless"
+                }
+            },
+            {
+                "node": {
+                    "description": "A framework for model-agnostic software performance analysis.",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3MDU3MTAzMg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 90575
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-10-27T16:36:58Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 10977,
+                        "total_commits": 102,
+                        "num_of_weeks": 5,
+                        "dels": 7720
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-10-11T08:10:44Z",
+                    "name": "fastpan"
+                }
+            },
+            {
+                "node": {
+                    "description": "Provides variability-aware performance analyzers leveraging machine learning techniques.",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3MDcwNjE2NQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 15537
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2016-11-23T02:43:57Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 1
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2016-10-12T14:08:46Z",
+                    "name": "fastpan-variability-analyzer"
+                }
+            },
+            {
+                "node": {
+                    "description": "Static analysis tool for PHP architectures. Define how your architecture should look like and let archinspec validate it.",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNjY2NzEzMQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                                    "name": "PHP"
+                                },
+                                "size": 73134
+                            },
+                            {
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM=",
+                                    "name": "Batchfile"
+                                },
+                                "size": 221
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "name": "PHP",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "updatedAt": "2016-05-10T15:00:41Z",
+                    "watchers": {
+                        "totalCount": 2
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 5975,
+                        "total_commits": 55,
+                        "num_of_weeks": 5,
+                        "dels": 1440
+                    },
+                    "homepageURL": "",
+                    "createdAt": "2015-06-01T14:45:30Z",
+                    "name": "archinspec"
+                }
+            },
+            {
+                "node": {
+                    "description": "Provides all Palladio dependencies repackaged as maven repository.",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2ODAzODAxMQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 412
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#89e051",
+                        "name": "Shell",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk="
+                    },
+                    "updatedAt": "2016-10-12T14:09:42Z",
+                    "watchers": {
+                        "totalCount": 4
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2016-09-12T18:53:52Z",
+                    "name": "palladio-headless-bridge-mvn"
+                }
+            },
+            {
+                "node": {
+                    "description": "Integrate kss-node into your brunch builds.",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NTgxMjM4Mw==",
+                    "languages": {
+                        "edges": []
+                    },
+                    "primaryLanguage": null,
+                    "updatedAt": "2016-08-22T14:58:59Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 28,
+                        "total_commits": 2,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-08-16T10:48:11Z",
+                    "name": "kss-brunch"
+                }
+            },
+            {
+                "node": {
+                    "description": "Open Source Parts of IETS3",
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2ODc5NDY1OQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e69f56",
+                                    "id": "MDg6TGFuZ3VhZ2UxNzU=",
+                                    "name": "Groovy"
+                                },
+                                "size": 1687
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 49
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#e69f56",
+                        "name": "Groovy",
+                        "id": "MDg6TGFuZ3VhZ2UxNzU="
+                    },
+                    "updatedAt": "2016-11-10T15:28:02Z",
+                    "watchers": {
+                        "totalCount": 26
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2016-09-21T08:07:33Z",
+                    "name": "iets3.opensource"
+                }
+            },
+            {
+                "node": {
+                    "description": "Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything \ud83c\udf89",
+                    "forks": {
+                        "totalCount": 6625
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxMjI1NjM3Ng==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 103500
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 447313
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 490691
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 4282
+                            },
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                                    "name": "PHP"
+                                },
+                                "size": 5956
+                            },
+                            {
+                                "node": {
+                                    "color": "#2b7489",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc=",
+                                    "name": "TypeScript"
+                                },
+                                "size": 1914230
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#2b7489",
+                        "name": "TypeScript",
+                        "id": "MDg6TGFuZ3VhZ2UyODc="
+                    },
+                    "updatedAt": "2017-02-07T09:47:34Z",
+                    "watchers": {
+                        "totalCount": 1696
+                    },
+                    "stargazers": {
+                        "totalCount": 27902
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "http://ionicframework.com/",
+                    "createdAt": "2013-08-20T23:06:02Z",
+                    "name": "ionic"
+                }
+            },
+            {
+                "node": {
+                    "description": "Discrete event simulation engine - backend for SIMBENCH system modeling tool",
+                    "forks": {
+                        "totalCount": 1
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NDU5NTE5",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                                    "name": "C++"
+                                },
+                                "size": 99071
+                            },
+                            {
+                                "node": {
+                                    "color": "#0298c3",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDc=",
+                                    "name": "Perl"
+                                },
+                                "size": 252
+                            },
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile"
+                                },
+                                "size": 13242
+                            },
+                            {
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM=",
+                                    "name": "Batchfile"
+                                },
+                                "size": 185
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 532
+                            },
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 21350
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#f34b7d",
+                        "name": "C++",
+                        "id": "MDg6TGFuZ3VhZ2UxNDI="
+                    },
+                    "updatedAt": "2016-01-19T22:00:59Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": null,
+                    "createdAt": "2012-10-30T15:26:29Z",
+                    "name": "warp"
+                }
+            },
+            {
+                "node": {
+                    "description": "Models, Services & Mails for VersionEye",
+                    "forks": {
+                        "totalCount": 12
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNjQzNTQ4Mg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "name": "Ruby"
+                                },
+                                "size": 1544122
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 45373
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 2067
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#701516",
+                        "name": "Ruby",
+                        "id": "MDg6TGFuZ3VhZ2UxNDE="
+                    },
+                    "updatedAt": "2016-12-08T07:36:44Z",
+                    "watchers": {
+                        "totalCount": 11
+                    },
+                    "stargazers": {
+                        "totalCount": 52
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "",
+                    "createdAt": "2014-02-01T14:37:29Z",
+                    "name": "versioneye-core"
+                }
+            },
+            {
+                "node": {
+                    "description": "Kirby's core system folder",
+                    "forks": {
+                        "totalCount": 65
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkxNzg2MTA4MQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                                    "name": "PHP"
+                                },
+                                "size": 274275
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 15
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 2785
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "name": "PHP",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "updatedAt": "2017-01-30T07:54:27Z",
+                    "watchers": {
+                        "totalCount": 58
+                    },
+                    "stargazers": {
+                        "totalCount": 341
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "http://getkirby.com",
+                    "createdAt": "2014-03-18T09:57:09Z",
+                    "name": "kirby"
+                }
+            },
+            {
+                "node": {
+                    "description": "CLI tool for Angular",
+                    "forks": {
+                        "totalCount": 1322
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNjg5MTg2Nw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 230013
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 1153
+                            },
+                            {
+                                "node": {
+                                    "color": "#2b7489",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc=",
+                                    "name": "TypeScript"
+                                },
+                                "size": 486562
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 72
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#2b7489",
+                        "name": "TypeScript",
+                        "id": "MDg6TGFuZ3VhZ2UyODc="
+                    },
+                    "updatedAt": "2017-02-07T09:22:15Z",
+                    "watchers": {
+                        "totalCount": 659
+                    },
+                    "stargazers": {
+                        "totalCount": 7097
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "",
+                    "createdAt": "2015-06-04T19:49:37Z",
+                    "name": "angular-cli"
+                }
+            },
+            {
+                "node": {
+                    "description": "Cloud Foundry Release",
+                    "forks": {
+                        "totalCount": 515
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzOTg5Mzg4",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "name": "Ruby"
+                                },
+                                "size": 7214
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 25352
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 8395
+                            },
+                            {
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM=",
+                                    "name": "Batchfile"
+                                },
+                                "size": 957
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2UyNjQ=",
+                                    "name": "PowerShell"
+                                },
+                                "size": 6
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#89e051",
+                        "name": "Shell",
+                        "id": "MDg6TGFuZ3VhZ2UxMzk="
+                    },
+                    "updatedAt": "2017-02-05T14:25:02Z",
+                    "watchers": {
+                        "totalCount": 330
+                    },
+                    "stargazers": {
+                        "totalCount": 537
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "http://www.cloudfoundry.org",
+                    "createdAt": "2012-04-11T02:31:56Z",
+                    "name": "cf-release"
+                }
+            },
+            {
+                "node": {
+                    "description": "Java Client Library for Cloud Foundry",
+                    "forks": {
+                        "totalCount": 190
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNDMzNjIz",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 7698
+                            },
+                            {
+                                "node": {
+                                    "color": "#b07219",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                                    "name": "Java"
+                                },
+                                "size": 4753482
+                            },
+                            {
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM=",
+                                    "name": "Batchfile"
+                                },
+                                "size": 5043
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#b07219",
+                        "name": "Java",
+                        "id": "MDg6TGFuZ3VhZ2UxNTg="
+                    },
+                    "updatedAt": "2017-02-06T15:23:10Z",
+                    "watchers": {
+                        "totalCount": 86
+                    },
+                    "stargazers": {
+                        "totalCount": 187
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "",
+                    "createdAt": "2011-09-21T23:22:33Z",
+                    "name": "cf-java-client"
+                }
+            },
+            {
+                "node": {
+                    "description": ":mag: Static code analysis to provide and verify a dependency graph against a defined architecture",
+                    "forks": {
+                        "totalCount": 14
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkyNDUzMzc5NA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                                    "name": "PHP"
+                                },
+                                "size": 497412
+                            },
+                            {
+                                "node": {
+                                    "color": "#C1F12E",
+                                    "id": "MDg6TGFuZ3VhZ2U0NjM=",
+                                    "name": "Batchfile"
+                                },
+                                "size": 221
+                            },
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile"
+                                },
+                                "size": 827
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "name": "PHP",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE="
+                    },
+                    "updatedAt": "2017-01-27T10:28:35Z",
+                    "watchers": {
+                        "totalCount": 18
+                    },
+                    "stargazers": {
+                        "totalCount": 230
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "",
+                    "createdAt": "2014-09-27T14:29:36Z",
+                    "name": "PhpDependencyAnalysis"
+                }
+            }
+        ],
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "MTU="
+        }
+    },
+    "bio": "",
+    "gists": {
+        "totalCount": 2
+    },
+    "name": "Fabian Keller",
+    "id": "MDQ6VXNlcjEzMjc2MTA="
+}

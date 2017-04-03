@@ -1,0 +1,686 @@
+{
+    "bio": "",
+    "gists": {
+        "totalCount": 0
+    },
+    "contributedRepositories": {
+        "totalCount": 11,
+        "pageInfo": {
+            "endCursor": "MTE=",
+            "hasNextPage": false
+        },
+        "edges": [
+            {
+                "node": {
+                    "updatedAt": "2016-11-30T06:06:54Z",
+                    "createdAt": "2016-10-15T15:05:27Z",
+                    "description": "Opinionated project template with a full-featured build pipeline for Vue, Cordova and Electron.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1128636,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 133099,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 11823,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 3
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "vue-project-template",
+                    "id": "MDEwOlJlcG9zaXRvcnk3MDk5NDgwMw==",
+                    "contribution": {
+                        "adds": 134887,
+                        "total_commits": 53,
+                        "num_of_weeks": 7,
+                        "dels": 50721
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-09-03T13:22:01Z",
+                    "createdAt": "2016-09-03T13:19:22Z",
+                    "description": "Project pipeline for building an app for the browser and wrap it into natice apps with Cordova and Electron.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 63209,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 3301,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "das-build",
+                    "id": "MDEwOlJlcG9zaXRvcnk2NzI5MTEwNw==",
+                    "contribution": {
+                        "adds": 58432,
+                        "total_commits": 20,
+                        "num_of_weeks": 2,
+                        "dels": 55470
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-09-06T09:08:06Z",
+                    "createdAt": "2016-09-06T09:05:33Z",
+                    "description": "Base structure to kickstart a new Das Build project.",
+                    "primaryLanguage": {
+                        "color": "#563d7c",
+                        "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                        "name": "CSS"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 73336,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 102777,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 2874,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "das-build-sample",
+                    "id": "MDEwOlJlcG9zaXRvcnk2NzQ5MjAyNQ==",
+                    "contribution": {
+                        "adds": 55223,
+                        "total_commits": 4,
+                        "num_of_weeks": 1,
+                        "dels": 2
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-31T13:15:01Z",
+                    "createdAt": "2017-01-31T13:14:26Z",
+                    "description": "Native wrapper for Dropbox Paper based on Electron.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1994,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 868,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "dropbox-paper-native",
+                    "id": "MDEwOlJlcG9zaXRvcnk4MDUyMTcxNw==",
+                    "contribution": {
+                        "adds": 179,
+                        "total_commits": 2,
+                        "num_of_weeks": 1,
+                        "dels": 1
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-01-18T23:09:34Z",
+                    "createdAt": "2016-02-09T18:03:35Z",
+                    "description": "dragon.js is a bookmarklet that lets you drag any element on a website using a mouse or touchscreen. The goal is to speed up in-browser design critiques and brainstorming new layout ideas.",
+                    "primaryLanguage": {
+                        "color": "#563d7c",
+                        "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                        "name": "CSS"
+                    },
+                    "homepageURL": "http://tomhodgins.github.io/dragon/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 7538,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 29583,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 3410,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 79
+                    },
+                    "forks": {
+                        "totalCount": 10
+                    },
+                    "name": "dragon",
+                    "id": "MDEwOlJlcG9zaXRvcnk1MTM4NjkzOA==",
+                    "contribution": {
+                        "adds": 798,
+                        "total_commits": 24,
+                        "num_of_weeks": 1,
+                        "dels": 527
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 4
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-23T13:33:59Z",
+                    "createdAt": "2015-05-30T11:41:57Z",
+                    "description": "Small JS plugin to keep parent elements still when scrolling an element past their boundaries",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": "http://eiskis.net/scroll-scope",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 6425,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 73,
+                                "node": {
+                                    "color": null,
+                                    "name": "ApacheConf",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTg="
+                                }
+                            },
+                            {
+                                "size": 52085,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 12542,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 105
+                    },
+                    "forks": {
+                        "totalCount": 5
+                    },
+                    "name": "scroll-scope",
+                    "id": "MDEwOlJlcG9zaXRvcnkzNjU1NTc4MA==",
+                    "contribution": {
+                        "adds": 5063,
+                        "total_commits": 98,
+                        "num_of_weeks": 4,
+                        "dels": 2031
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 7
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-05-16T18:59:16Z",
+                    "createdAt": "2015-02-09T09:26:15Z",
+                    "description": "A set of generic everyday functions missing from core PHP.",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": null,
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1162755,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 4399,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 506923,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 2
+                    },
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "name": "baseline-php",
+                    "id": "MDEwOlJlcG9zaXRvcnkzMDUyODExNA==",
+                    "contribution": {
+                        "adds": 201323,
+                        "total_commits": 90,
+                        "num_of_weeks": 23,
+                        "dels": 101579
+                    },
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 1
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-04T18:29:18Z",
+                    "createdAt": "2012-06-14T16:07:54Z",
+                    "description": "Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL.",
+                    "primaryLanguage": {
+                        "color": "#4F5D95",
+                        "id": "MDg6TGFuZ3VhZ2UxNTE=",
+                        "name": "PHP"
+                    },
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 3175,
+                                "node": {
+                                    "color": null,
+                                    "name": "ApacheConf",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTg="
+                                }
+                            },
+                            {
+                                "size": 438459,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 2643383,
+                                "node": {
+                                    "color": "#4F5D95",
+                                    "name": "PHP",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTE="
+                                }
+                            },
+                            {
+                                "size": 491308,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 265049,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 4354,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 2075,
+                                "node": {
+                                    "color": "#9469E9",
+                                    "name": "Nginx",
+                                    "id": "MDg6TGFuZ3VhZ2U0MjE="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 3123
+                    },
+                    "forks": {
+                        "totalCount": 699
+                    },
+                    "name": "bolt",
+                    "id": "MDEwOlJlcG9zaXRvcnk0NjY1NDE2",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 180
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-05T03:05:24Z",
+                    "createdAt": "2013-07-29T03:24:51Z",
+                    "description": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "http://vuejs.org",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 1448711,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 16202,
+                                "node": {
+                                    "color": "#e44b23",
+                                    "name": "HTML",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc="
+                                }
+                            },
+                            {
+                                "size": 2146,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 9530,
+                                "node": {
+                                    "color": "#563d7c",
+                                    "name": "CSS",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg="
+                                }
+                            },
+                            {
+                                "size": 7437,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 41695
+                    },
+                    "forks": {
+                        "totalCount": 5134
+                    },
+                    "name": "vue",
+                    "id": "MDEwOlJlcG9zaXRvcnkxMTczMDM0Mg==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 2427
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2016-11-29T21:13:47Z",
+                    "createdAt": "2012-08-13T15:22:31Z",
+                    "description": "Documentation for Bolt. ",
+                    "primaryLanguage": null,
+                    "homepageURL": "",
+                    "languages": {
+                        "edges": []
+                    },
+                    "stargazers": {
+                        "totalCount": 18
+                    },
+                    "forks": {
+                        "totalCount": 84
+                    },
+                    "name": "docs",
+                    "id": "MDEwOlJlcG9zaXRvcnk1NDAwNjc1",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 19
+                    }
+                }
+            },
+            {
+                "node": {
+                    "updatedAt": "2017-02-05T01:15:01Z",
+                    "createdAt": "2013-12-11T19:37:46Z",
+                    "description": "The official router for Vue.js.",
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                        "name": "JavaScript"
+                    },
+                    "homepageURL": "http://router.vuejs.org/",
+                    "languages": {
+                        "edges": [
+                            {
+                                "size": 108686,
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "name": "JavaScript",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA="
+                                }
+                            },
+                            {
+                                "size": 689,
+                                "node": {
+                                    "color": "#89e051",
+                                    "name": "Shell",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk="
+                                }
+                            },
+                            {
+                                "size": 3649,
+                                "node": {
+                                    "color": "#2b7489",
+                                    "name": "TypeScript",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc="
+                                }
+                            }
+                        ]
+                    },
+                    "stargazers": {
+                        "totalCount": 4023
+                    },
+                    "forks": {
+                        "totalCount": 998
+                    },
+                    "name": "vue-router",
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTExNjk0Ng==",
+                    "contribution": -1,
+                    "isFork": false,
+                    "watchers": {
+                        "totalCount": 209
+                    }
+                }
+            }
+        ]
+    },
+    "location": "Berlin, Germany",
+    "following": {
+        "totalCount": 2
+    },
+    "avatarURL": "https://avatars0.githubusercontent.com/u/1101002?v=3",
+    "company": "GoEuro",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "name": "Jerry J\u00e4ppinen",
+    "watching": {
+        "totalCount": 17
+    },
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "pullRequests": {
+        "totalCount": 2
+    },
+    "starredRepositories": {
+        "totalCount": 2
+    },
+    "followers": {
+        "totalCount": 17
+    },
+    "login": "Eiskis",
+    "websiteURL": "http://jerryjappinen.com/",
+    "id": "MDQ6VXNlcjExMDEwMDI=",
+    "email": ""
+}

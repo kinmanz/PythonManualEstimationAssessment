@@ -1,0 +1,790 @@
+{
+    "organizations": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "location": "Germany",
+    "email": "",
+    "pullRequests": {
+        "totalCount": 127
+    },
+    "company": "Student at the Technical University of Munich",
+    "pinnedRepositories": {
+        "totalCount": 0,
+        "nodes": []
+    },
+    "websiteURL": "",
+    "watching": {
+        "totalCount": 63
+    },
+    "avatarURL": "https://avatars1.githubusercontent.com/u/340142?v=3",
+    "starredRepositories": {
+        "totalCount": 14
+    },
+    "followers": {
+        "totalCount": 41
+    },
+    "login": "MajorBreakfast",
+    "following": {
+        "totalCount": 0
+    },
+    "contributedRepositories": {
+        "totalCount": 13,
+        "edges": [
+            {
+                "node": {
+                    "description": "Now that we have tons of data about Pokemon (what they are, where they are, what\u2019s their relationship, what they can transform into, which attacks they can perform, aso) we want to integrate it all into a comprehensive website. This website should contain sections about each Pokemon and its details. Additionally, the website should register the user\u2019s location and tell the user how close is that the predicted pokemon to him/her. Additionally you will be incorporating the apps that were created by project B,C and D into the website. Your group will need to create automated builds and testing for this apps and use continuous integration to pull in new changes in the code repositories. Apps from projects B-D should be packaged and made available on NPM. Ideally when you completed these tasks the webapp component would integrate the apps by \u201crequiring\u2019 them. Here is a possible user story: when a user opens the website or the app the current location of the user will be shown. Additionally, the website/app will show automatically where the pokemons that are currently active are and where the pokemons that we predict to active in the nearest future (i.e. within half a day) will be located (all of this will be available from the app developed in project D). Hopefully, the website will be somewhat crowded by that data. Then, there needs to be a menu bar or something available (e.g. above the map or on the right side to it) that will list currently active or predicted pokemons. Clicking on one of them will make other pokemons on the map disappear, except of this clicked one. Separate web pages would allow the search and presentation of individual Pokemons and the information we gathered about them, including third party data (project A) and twitter analysis (project C)",
+                    "forks": {
+                        "totalCount": 6
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NTUyNzU0Mg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 20490
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 12078
+                            },
+                            {
+                                "node": {
+                                    "color": "#2b7489",
+                                    "id": "MDg6TGFuZ3VhZ2UyODc=",
+                                    "name": "TypeScript"
+                                },
+                                "size": 56889
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 21486
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#2b7489",
+                        "name": "TypeScript",
+                        "id": "MDg6TGFuZ3VhZ2UyODc="
+                    },
+                    "updatedAt": "2016-11-12T00:22:26Z",
+                    "watchers": {
+                        "totalCount": 10
+                    },
+                    "stargazers": {
+                        "totalCount": 8
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 26,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 2
+                    },
+                    "homepageURL": null,
+                    "createdAt": "2016-08-12T06:02:38Z",
+                    "name": "Catch-em-all"
+                }
+            },
+            {
+                "node": {
+                    "description": null,
+                    "forks": {
+                        "totalCount": 0
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NzU0NTEyMQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 97694
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 498
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 261195
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 196117
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "name": "JavaScript",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA="
+                    },
+                    "updatedAt": "2016-10-14T19:05:46Z",
+                    "watchers": {
+                        "totalCount": 3
+                    },
+                    "stargazers": {
+                        "totalCount": 0
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "https://alexanderlill.github.io/node.js-presentation",
+                    "createdAt": "2016-09-06T20:41:33Z",
+                    "name": "node.js-presentation"
+                }
+            },
+            {
+                "node": {
+                    "description": "Documentation for Polymer",
+                    "forks": {
+                        "totalCount": 2542
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk3ODA0OTEw",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 1928972
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 16374
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 22679
+                            },
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 14123
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 921
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "name": "HTML",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc="
+                    },
+                    "updatedAt": "2017-02-03T21:37:11Z",
+                    "watchers": {
+                        "totalCount": 152
+                    },
+                    "stargazers": {
+                        "totalCount": 988
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "https://www.polymer-project.org",
+                    "createdAt": "2013-01-24T19:11:00Z",
+                    "name": "docs"
+                }
+            },
+            {
+                "node": {
+                    "description": "Yarn package manager website",
+                    "forks": {
+                        "totalCount": 181
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2ODQxNjU1NA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 38241
+                            },
+                            {
+                                "node": {
+                                    "color": "#701516",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDE=",
+                                    "name": "Ruby"
+                                },
+                                "size": 3303
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 27245
+                            },
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile"
+                                },
+                                "size": 1259
+                            },
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 10923
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 6742
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "name": "HTML",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc="
+                    },
+                    "updatedAt": "2017-02-06T07:22:18Z",
+                    "watchers": {
+                        "totalCount": 11
+                    },
+                    "stargazers": {
+                        "totalCount": 84
+                    },
+                    "isFork": false,
+                    "contribution": {
+                        "adds": 4,
+                        "total_commits": 1,
+                        "num_of_weeks": 1,
+                        "dels": 0
+                    },
+                    "homepageURL": "https://yarnpkg.com",
+                    "createdAt": "2016-09-16T21:44:40Z",
+                    "name": "website"
+                }
+            },
+            {
+                "node": {
+                    "description": "Polymer + Web Animations",
+                    "forks": {
+                        "totalCount": 92
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNTMxMDIyOA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 144078
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "name": "HTML",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc="
+                    },
+                    "updatedAt": "2017-02-02T21:38:24Z",
+                    "watchers": {
+                        "totalCount": 34
+                    },
+                    "stargazers": {
+                        "totalCount": 122
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "https://www.webcomponents.org/element/PolymerElements/neon-animation",
+                    "createdAt": "2015-05-09T01:39:59Z",
+                    "name": "neon-animation"
+                }
+            },
+            {
+                "node": {
+                    "description": "A modular client-side router",
+                    "forks": {
+                        "totalCount": 39
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0OTMwMzEyNw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 100901
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "name": "HTML",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc="
+                    },
+                    "updatedAt": "2017-02-02T12:14:52Z",
+                    "watchers": {
+                        "totalCount": 47
+                    },
+                    "stargazers": {
+                        "totalCount": 104
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": "https://www.polymer-project.org/1.0/articles/routing.html",
+                    "createdAt": "2016-01-08T23:49:28Z",
+                    "name": "app-route"
+                }
+            },
+            {
+                "node": {
+                    "description": "Computer Vision Tools",
+                    "forks": {
+                        "totalCount": 2
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NDQ5NzEwOQ==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0NDA=",
+                                    "name": "CMake"
+                                },
+                                "size": 61024
+                            },
+                            {
+                                "node": {
+                                    "color": "#f34b7d",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                                    "name": "C++"
+                                },
+                                "size": 5459225
+                            },
+                            {
+                                "node": {
+                                    "color": "#555555",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk=",
+                                    "name": "C"
+                                },
+                                "size": 509018
+                            },
+                            {
+                                "node": {
+                                    "color": "#3fb68b",
+                                    "id": "MDg6TGFuZ3VhZ2UxNjE=",
+                                    "name": "Common Lisp"
+                                },
+                                "size": 1186
+                            },
+                            {
+                                "node": {
+                                    "color": null,
+                                    "id": "MDg6TGFuZ3VhZ2U0NTI=",
+                                    "name": "GLSL"
+                                },
+                                "size": 48467
+                            },
+                            {
+                                "node": {
+                                    "color": "#6866fb",
+                                    "id": "MDg6TGFuZ3VhZ2UzNDY=",
+                                    "name": "Objective-C++"
+                                },
+                                "size": 27415
+                            },
+                            {
+                                "node": {
+                                    "color": "#438eff",
+                                    "id": "MDg6TGFuZ3VhZ2UxNTY=",
+                                    "name": "Objective-C"
+                                },
+                                "size": 12903
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 2579
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#f34b7d",
+                        "name": "C++",
+                        "id": "MDg6TGFuZ3VhZ2UxNDI="
+                    },
+                    "updatedAt": "2016-05-11T01:21:12Z",
+                    "watchers": {
+                        "totalCount": 1
+                    },
+                    "stargazers": {
+                        "totalCount": 6
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": null,
+                    "createdAt": "2016-03-22T17:55:57Z",
+                    "name": "cvt"
+                }
+            },
+            {
+                "node": {
+                    "description": "The Vulkan API Specification and related tools",
+                    "forks": {
+                        "totalCount": 104
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1MTUwNjYxOA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 3561
+                            },
+                            {
+                                "node": {
+                                    "color": "#427819",
+                                    "id": "MDg6TGFuZ3VhZ2U0MDM=",
+                                    "name": "Makefile"
+                                },
+                                "size": 3446
+                            },
+                            {
+                                "node": {
+                                    "color": "#3572A5",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                                    "name": "Python"
+                                },
+                                "size": 180651
+                            },
+                            {
+                                "node": {
+                                    "color": "#555555",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDk=",
+                                    "name": "C"
+                                },
+                                "size": 291547
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#555555",
+                        "name": "C",
+                        "id": "MDg6TGFuZ3VhZ2UxNDk="
+                    },
+                    "updatedAt": "2017-02-05T20:45:47Z",
+                    "watchers": {
+                        "totalCount": 162
+                    },
+                    "stargazers": {
+                        "totalCount": 846
+                    },
+                    "isFork": false,
+                    "contribution": 0,
+                    "homepageURL": null,
+                    "createdAt": "2016-02-11T10:03:55Z",
+                    "name": "Vulkan-Docs"
+                }
+            },
+            {
+                "node": {
+                    "description": " In this project you will scrape as much data as you can get about the *actual* sightings of Pokemons. As it turns out, players all around the world started reporting sightings of Pokemons and are logging them into a central repository (i.e. a database). We want to get this data so we can train our machine learning models. You will of course need to come up with other data sources not only for sightings but also for other relevant details that can be used later on as features for our machine learning algorithm (see Project B). Additional features could be air temperature during the given timestamp of sighting, location close to water, buildings or parks. Consult with Pokemon Go expert if you have such around you and come up with as many features as possible that describe a place, time and name of a sighted Pokemon. Another feature that you will implement is a twitter listener: You will use the twitter streaming API (https://dev.twitter.com/streaming/public) to listen on a specific topic (for example, the #foundPokemon hashtag). When a new tweet with that hashtag is written, an event will be fired in your application checking the details of the tweet, e.g. location, user, time stamp. Additionally, you will try to parse formatted text from the tweets to construct a new \u201cseen\u201d record that consequently will be added to the database. Some of the attributes of the record will be the Pokemon's name, location and the time stamp. Additional data sources (here is one: https://pkmngowiki.com/wiki/Pok%C3%A9mon) will also need to be integrated to give us more information about Pokemons e.g. what they are, what\u2019s their relationship, what they can transform into, which attacks they can perform etc.",
+                    "forks": {
+                        "totalCount": 5
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NTUyNzgyNg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 115441
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "name": "JavaScript",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA="
+                    },
+                    "updatedAt": "2016-11-12T03:01:44Z",
+                    "watchers": {
+                        "totalCount": 11
+                    },
+                    "stargazers": {
+                        "totalCount": 6
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2016-08-12T06:07:22Z",
+                    "name": "PokeData"
+                }
+            },
+            {
+                "node": {
+                    "description": "The world of Pokemon GO is as big as our planet. Pokemons have been sighted on top of cliffs perched over oceans as well as in your next door coffee shop. We would like to create a world-wide interactive map that shows where Pokemons were predicted to appear. Each pokemon prediction you add to the map should have all relevant information including name, time the pokemon is predicted to appear, prediction confidence rate etc. The map should be filtered by a time range (i.e predicted to appear in the next day) as well as pokemon name and pokemon specie.",
+                    "forks": {
+                        "totalCount": 3
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk2NTUyNzYwMw==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 18905
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 1064
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 1286
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#f1e05a",
+                        "name": "JavaScript",
+                        "id": "MDg6TGFuZ3VhZ2UxNDA="
+                    },
+                    "updatedAt": "2016-10-27T15:37:27Z",
+                    "watchers": {
+                        "totalCount": 11
+                    },
+                    "stargazers": {
+                        "totalCount": 5
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2016-08-12T06:03:46Z",
+                    "name": "PokeMap-1"
+                }
+            },
+            {
+                "node": {
+                    "description": "A Polymer element that manages binding to the page's URL.",
+                    "forks": {
+                        "totalCount": 9
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk0NDU2MzM5Mg==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 65525
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "name": "HTML",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc="
+                    },
+                    "updatedAt": "2017-01-11T00:55:23Z",
+                    "watchers": {
+                        "totalCount": 20
+                    },
+                    "stargazers": {
+                        "totalCount": 10
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": null,
+                    "createdAt": "2015-10-19T20:52:59Z",
+                    "name": "iron-location"
+                }
+            },
+            {
+                "node": {
+                    "description": "Build modern apps using web components",
+                    "forks": {
+                        "totalCount": 1682
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnk1NTMyMzIw",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#f1e05a",
+                                    "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                                    "name": "JavaScript"
+                                },
+                                "size": 75669
+                            },
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 1461274
+                            },
+                            {
+                                "node": {
+                                    "color": "#563d7c",
+                                    "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                                    "name": "CSS"
+                                },
+                                "size": 532
+                            },
+                            {
+                                "node": {
+                                    "color": "#89e051",
+                                    "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                                    "name": "Shell"
+                                },
+                                "size": 580
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "name": "HTML",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc="
+                    },
+                    "updatedAt": "2017-02-06T13:36:40Z",
+                    "watchers": {
+                        "totalCount": 1067
+                    },
+                    "stargazers": {
+                        "totalCount": 16890
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "https://www.polymer-project.org/1.0/",
+                    "createdAt": "2012-08-23T20:56:30Z",
+                    "name": "polymer"
+                }
+            },
+            {
+                "node": {
+                    "description": "Common behaviors used across paper-* elements.",
+                    "forks": {
+                        "totalCount": 20
+                    },
+                    "id": "MDEwOlJlcG9zaXRvcnkzNDEzOTA3MA==",
+                    "languages": {
+                        "edges": [
+                            {
+                                "node": {
+                                    "color": "#e44b23",
+                                    "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                                    "name": "HTML"
+                                },
+                                "size": 40967
+                            }
+                        ]
+                    },
+                    "primaryLanguage": {
+                        "color": "#e44b23",
+                        "name": "HTML",
+                        "id": "MDg6TGFuZ3VhZ2U0MTc="
+                    },
+                    "updatedAt": "2016-12-21T15:05:20Z",
+                    "watchers": {
+                        "totalCount": 20
+                    },
+                    "stargazers": {
+                        "totalCount": 9
+                    },
+                    "isFork": false,
+                    "contribution": -1,
+                    "homepageURL": "",
+                    "createdAt": "2015-04-17T20:40:05Z",
+                    "name": "paper-behaviors"
+                }
+            }
+        ],
+        "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "MTM="
+        }
+    },
+    "bio": null,
+    "gists": {
+        "totalCount": 4
+    },
+    "name": "Josef Brandl",
+    "id": "MDQ6VXNlcjM0MDE0Mg=="
+}
